@@ -131,3 +131,17 @@ pre,code {
   line-height: 1.5;
   border-radius: 3px;
 }
+
+.footer-col-wrapper {
+    font-size: 12px;
+    text-align: center;
+    border-top: 1px solid $grey-color-light;
+    padding: 10px 0;  
+}
+
+
+.site-footer {
+//    border-top: 1px solid $grey-color-light;
+    border: none;
+    padding: 0;
+}

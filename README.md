@@ -6,7 +6,7 @@
 
 http://rescience.github.io
 
-### Build locally
+### Serve locally
 
 ```
 bundle exec jekyll serve
