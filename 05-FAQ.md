@@ -120,7 +120,7 @@ be willing to work with our GitHub-based editorial processes).
 ## Does ReScience issue DOIs (Digital Object Identifiers) ?
 
 Re**Science** itself does not, but every article published in Re**Science** receives a DOI from, and is
-indexed in [Zenodo](https://zenodo.org/about).
+indexed in [Zenodo](https://zenodo.org/collection/user-rescience).
 
 
 ## What is the preferred format for the accompanying article ?
