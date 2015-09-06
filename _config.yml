@@ -13,4 +13,4 @@ markdown: redcarpet
 
 
 # Exclude:
-exclude: README.md
+exclude: ["README.md"]
