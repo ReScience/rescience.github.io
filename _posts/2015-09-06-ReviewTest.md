@@ -6,7 +6,7 @@ date: 2015-08-10
 categories: news
 ---
 
-We've been tested the
+We've been testing the
 [review process](https://github.com/ReScience/ReScience-submission/pull/3) with
 Tiziano Zito (editor), Benoît Girard (reviewer) and Mehdi Khamassi
 (reviewer). They helped smoothing the whole process and we're ready for mass
