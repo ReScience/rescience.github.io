@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ReScience/rescience.github.io.svg?branch=master)](https://travis-ci.org/ReScience/rescience.github.io)
+
 # ReScience website
 
 ### Website

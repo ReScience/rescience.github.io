@@ -10,3 +10,7 @@ github_username:  ReScience
 
 # Build settings
 markdown: redcarpet
+
+
+# Exclude:
+exclude: README.md
