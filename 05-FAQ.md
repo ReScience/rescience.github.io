@@ -6,7 +6,7 @@ permalink: /faq/
 
 # Frequently Asked Questions
 
-If your question is no answered below, please
+If your question is not answered below, please
 [create an issue](https://github.com/ReScience/ReScience/issues) on GitHub and
 ask it there.
 
