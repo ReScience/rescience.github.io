@@ -115,7 +115,7 @@ of the original results.
 ## What kind of research can I replicate ?
 
 Any computational research in any domain of science as long as there is an
-editor from the [Board](../Board) who has the expertise to edit your submission. The editorial
+editor from the [Board](../board) who has the expertise to edit your submission. The editorial
 board is growing to increase the scientific domains being covered. If no editor is
 able to edit your submission, you can also propose a guest editor (who must
 be willing to work with our GitHub-based editorial processes).
