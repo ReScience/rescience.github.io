@@ -9,7 +9,7 @@ http://rescience.github.io
 ### Build locally
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ### Force rebuild on github
