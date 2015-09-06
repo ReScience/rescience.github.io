@@ -18,24 +18,19 @@ Yes ! You can:
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about Re**Science** in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)
- * [Star the project](https://github.com/ReScience/ReScience) on github
  * Help improving this website by
    [forking it](https://github.com/ReScience/rescience.github.io/fork) and
    propose modifications (through PR)
  * [Opening an issue](https://github.com/ReScience/ReScience/issues) if you
    have any unanswered question.
- * [Website](https://github.com/ReScience/rescience.github.io) would certainly
-   needs the help of a [Jekyll](http://jekyllrb.com) expert and the eye of a
+ * The [Website](https://github.com/ReScience/rescience.github.io) could certainly
+   use the help of a [Jekyll](http://jekyllrb.com) expert and the eye of a
    designer (but keep in mind we want to keep a simple & clean website where
    content is the primary focus)...
- * Print stickers from the
-   [Re**Science** material repository](https://github.com/ReScience/ReScience-material)
-   (and possibly send some to us...)
 
- 
 ## Are there any publication fees ?
 
-No. Re**Science** promotes open access and relies on the benevolent work of
+No. Re**Science** promotes open access and relies on the volunteer work of
 editors and reviewers. And the free hosting by github.
 
 
@@ -49,82 +44,90 @@ price and their closed nature.
 
 ## Can I submit the replication of my own research ?
 
-No, because if you made some errors in the first implementation of your
-researches, there are some chances you'll made the same errors in a
-replication. But more importantly, we aim at the cross-fertilization of
-research and trying to replicate the work of your peers might pave the way for
-a future collaboration or gives rise to new ideas once you fully understand the
-research. Note that this restriction also applies to the work of your closest
+No. Mistakes in the implementation of research questions and methods are often
+due to biases authors invariably have, consciously or not. One's biases will
+inevitably carry over to how one approaches a replication. Perhaps even more importantly,
+we aim at the cross-fertilization of research and trying to replicate the work of one's
+peers might pave the way for a future collaboration, or may give rise to new ideas as
+a result of the replication effort.
+
+Note that this restriction also applies to the work of your closest
 collaborators (supervisor, students, lab members, etc.)
 
 
 ## If my submission is rejected, can I resubmit it ?
 
-Yes and no. It depends on the reason your submission was rejected. If the
-original research you've replicated has been already replicated (in
-Re**Science** or elsewhere), it is unlikely we'll reconsider it, even if you
+This depends on the reason your submission was rejected. If the
+original research has already been replicated previously (in
+Re**Science** or elsewhere), it is unlikely we'll consider another replication, even if you
 think your implementation is better. However, if your submission has ben
-rejected because reviewers cannot make it run, you're encouraged to re-submit
-later, once all the problems that have been identified have been solved.
+rejected because reviewers cannot make it run, you are encouraged to re-submit
+once the identified problems have been solved.
 
 
-## What if I do not manage to replicate a research result ?
+## What if I fail to replicate a research result ?
 
-From time to time, a given research may not be replicable at all. To declare a
-research non-replicable, we need to take extra precaution. Reviewers will
-carefully read your submission and will challenge everyone (including the
-original authors) to try to spot errors in your implementation using the issue
-tracking tools. If no errors have been found, your work will be accepted and
+Some research may not be replicable. Before declaring a
+research result non-replicable, we require extra caution to be taken. In addition
+to scrutiny of your submission by reviewers and editors, we will contact the
+authors of the original research, and issue a challenge to the Re**Science**
+community to spot and report (using the issue tracker) errors in your implementation.
+If no errors are found, your work will be accepted and
 the original research will be declared non-replicable.
 
 
-## What is the preferred implementation ?
+## Is there a preferred implementation language?
 
 We favor a Python implementation because this language offers a
-[scientific stack](http://www.scipy.org) that can handle research in most
-domains of sciences (see for example [Scipy 2015](http://scipy2015.scipy.org)
-and [EuroScipy 2015](https://www.euroscipy.org/2015/) conferences) and is
-easier to use.  Furthermore, using the Python language might allow us to use
+[scientific programming stack](http://www.scipy.org) that can handle research in many
+domains of science (see for example the [Scipy 2015](http://scipy2015.scipy.org)
+and [EuroScipy 2015](https://www.euroscipy.org/2015/) conferences). Python is
+also often reported by scientists to easier to learn and use than other languages.
+Furthermore, using Python might allow us to use
 the [IPython](http://ipython.org) notebook and the upcoming
-[Jupyter](https://jupyter.org) environments. However, you're free to submit
-implementations using other languages or tools if they are mainstream in your
-domain of research.
+[Jupyter](https://jupyter.org) environments.
+
+However, other languages or tools are acceptable if they are mainstream in the
+respective domain of research.
 
 ## I'm a student, can I submit ?
 
-**Yes ! Students are strongly encouraged to submit their work**. Even if the
+**Yes ! Students are strongly encouraged to submit their work**. Although the
 Re**Science** publishing model is a bit different from other academic journals,
-this will give them a first experience at peer-reviewed publishing where they
-have to use a rigorous approach and address reviewers' comments. Furthermore,
-such a contribution to open science can be a plus in their CV.
+it can give students a first experience at peer-reviewed scholarly publishing, including
+meeting standards of scientific rigor and addressing reviewers' comments. Publishing
+in Re**Science** is also a way to actively contribute to open science while adding to one's
+publication record.
 
 
-## How do I know if my implementation is successful ?
+## How do I know if my replication is successful ?
 
-This depends mainly on the original paper introducing the research. Results
-might be presented in a qualitative or quantitative way and you'll have to
-adapt your implementation to clearly state why you think your implementation is
-a faithful replication of the original paper.
+This depends mainly on the original paper introducing the research results to be
+replicated. Results might be presented in a qualitative or quantitative way and you'll have to
+clearly state why you think your implementation of a method or protocol is a faithful replication
+of the original results.
 
 
 ## What kind of research can I replicate ?
 
 Any computational research in any domain of science as long as there is an
-editor from the [Board](../Board) that can edit your proposal. The editorial
-board is slowly growing to address any proposals but if you think no editor is
-able to edit your proposal, you can also propose an external editor (who must
-have a GitHub account).
+editor from the [Board](../Board) who has the expertise to edit your submission. The editorial
+board is growing to increase the scientific domains being covered. If no editor is
+able to edit your submission, you can also propose a guest editor (who must
+be willing to work with our GitHub-based editorial processes).
 
 
-## Do ReScience has a DOI (Digital Object Identifier) ?
+## Does ReScience issue DOIs (Digital Object Identifiers) ?
 
-Each published article in Re**Science** get a DOI thanks to the
-[Zenodo](https://zenodo.org/about) service.
+Re**Science** itself does not, but every article published in Re**Science** receives a DOI from, and is
+indexed in [Zenodo](https://zenodo.org/about).
 
 
 ## What is the preferred format for the accompanying article ?
 
-We use **exclusively** the Markdown language because the article will later be
-layouted using [pandoc](http://johnmacfarlane.net/pandoc/). We know this is a
-constraint but this is the price to pay to offer a green-access journal.
-Editors and reviewers are benevolent and we want to minimize their workload.
+We use **exclusively** Markdown format, from which articles are converted to
+HTML, PDF, and other formats using [pandoc](http://johnmacfarlane.net/pandoc/).
+
+We realize that this may impose some limitations on formatting possibilities.
+However, it is the tradeoff we chose to be able to offer a green open-access journal.
+All editors and reviewers are volunteers, and we want to minimize their workload.
