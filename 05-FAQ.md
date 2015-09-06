@@ -18,6 +18,7 @@ Yes ! You can:
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about Re**Science** in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)
+ * [Star the project](https://github.com/ReScience/ReScience) on github
  * Help improving this website by
    [forking it](https://github.com/ReScience/rescience.github.io/fork) and
    propose modifications (through PR)
@@ -27,6 +28,9 @@ Yes ! You can:
    use the help of a [Jekyll](http://jekyllrb.com) expert and the eye of a
    designer (but keep in mind we want to keep a simple & clean website where
    content is the primary focus)...
+ * Print stickers from the
+   [Re**Science** material repository](https://github.com/ReScience/ReScience-material)
+   (and possibly send some to us...)
 
 ## Are there any publication fees ?
 
