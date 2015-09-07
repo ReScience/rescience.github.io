@@ -78,3 +78,6 @@ languages.
 
 * [Marc André Delsuc](https://github.com/delsuc/)  
   Biophysics - NMR spectroscopy - Python
+
+* [Vibhor Kumar](https://github.com/veezbo)  
+  Computational Neuroscience - C/C++ - Java - Python
