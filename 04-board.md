@@ -76,5 +76,5 @@ languages.
 * [Andrew Davidson](https://github.com/apdavison)  
   Computational Neuroscience - Python
 
-* [Marc André Delsuc](https://github.com/delsuc/)
+* [Marc André Delsuc](https://github.com/delsuc/)  
   Biophysics - NMR spectroscopy - Python
