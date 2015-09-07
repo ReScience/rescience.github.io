@@ -10,10 +10,8 @@ The editorial board is made of people who are committed to the open source
 community and are both experienced developper and strongly familiar with the
 github ecosystem. Each editorial board member is specialised in a specific
 domain of Science and is proficient in several programming languages and/or
-environments. We favor the Python language since it offers a powerful
-[scientific stack](http://www.scipy.org) that has been proved many times to be
-efficient in several domains of Science, but we also accept other open source
-languages.
+environments. While many of us work primarily in Python, ReScience also 
+accepts submissions in other open source languages.
 
 
 ## Editors-in-Chief
@@ -59,7 +57,7 @@ languages.
   Computational Neuroscience - Signal Processing - Python - C - Matlab - Fortran
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
-  Econometrics - Statistics - Data Science - R - C++
+  Econometrics - Statistics - Data Science - R - C/C++
 
 * [Federico Vaggi](https://github.com/FedericoV)  
   Systems Biology - Python - Matlab - C
