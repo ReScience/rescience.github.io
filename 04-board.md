@@ -21,8 +21,7 @@ languages.
 * [Konrad Hinsen](https://github.com/khinsen)  
   Molecular biophysics - Python - C - Racket - Clojure
 
-* [Nicolas P. Rougier](https://github.com/rougier)
-  [☆](https://github.com/ReScience/ReScience-submission/pull/3)  
+* [Nicolas P. Rougier](https://github.com/rougier)  
   Computational Neuroscience - Computer Science - Python - C/C++
 
 ## Associate Editors
