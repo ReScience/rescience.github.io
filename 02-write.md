@@ -6,15 +6,15 @@ permalink: /write/
 
 # Overview of the submission process
 
-The Re**Science** editorial board is made of people who are committed to the
-open source community and are both experienced developpers and strongly
+The Re**Science** editorial board unites scientists who are committed to the
+open source community. They are experienced developpers who are
 familiar with the GitHub ecosystem. Each editorial board member is specialised
 in a specific domain of science and is proficient in several programming
 languages and/or environments. Our aim is to provide all authors with an
 efficient, constructive and public editorial process.
 
 Submitted entries are first considered by a member of the editorial board, who
-may decide to reject the submission (mainly because it has been already
+may decide to reject the submission (mainly because it has already been
 replicated and is publicly available), or assign it to two reviewers for
 further review and tests. The reviewers evaluate the code and the accompanying
 material in continuous interaction with the authors through the PR discussion
