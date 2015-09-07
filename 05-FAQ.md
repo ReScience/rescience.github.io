@@ -46,6 +46,15 @@ barriers. Proprietary software constitutes such a barrier because of their
 price and their closed nature.
 
 
+## Is it mandatory to have an open-source license on the code ?
+
+Yes. The code accompanying Re**Science** articles will be archived at
+[Zenodo](https://zenodo.org/) along with the article and data, entirely under open
+licenses. This is part of the open access principle underlying Re**Science**. For the
+choice of a license for the code, we refer to the [the Debian Free Software
+Guidelines](https://www.debian.org/social_contract#guidelines).
+
+
 ## Can I submit the replication of my own research ?
 
 No. Mistakes in the implementation of research questions and methods are often
