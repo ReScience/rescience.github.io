@@ -12,7 +12,7 @@ http://rescience.github.io
 bundle exec jekyll serve
 ```
 
-### Force rebuild on github
+### Force rebuild on GitHub
 ```
 bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
 ```

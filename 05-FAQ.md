@@ -18,7 +18,7 @@ Yes ! You can:
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about Re**Science** in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)
- * [Star the project](https://github.com/ReScience/ReScience) on github
+ * [Star the project](https://github.com/ReScience/ReScience) on GitHub
  * Help improving this website by
    [forking it](https://github.com/ReScience/rescience.github.io/fork) and
    propose modifications (through PR)
@@ -35,7 +35,7 @@ Yes ! You can:
 ## Are there any publication fees ?
 
 No. Re**Science** promotes open access and relies on the volunteer work of
-editors and reviewers. And the free hosting by github.
+editors and reviewers. And the free hosting by GitHub.
 
 
 ## Can I submit a paper using proprietary tools such as Matlab ?

@@ -8,9 +8,9 @@ permalink: /board/
 
 The editorial board is made of people who are committed to the open source
 community and are both experienced developper and strongly familiar with the
-github ecosystem. Each editorial board member is specialised in a specific
+GitHub ecosystem. Each editorial board member is specialised in a specific
 domain of Science and is proficient in several programming languages and/or
-environments. While many of us work primarily in Python, ReScience also 
+environments. While many of us work primarily in Python, ReScience also
 accepts submissions in other open source languages.
 
 

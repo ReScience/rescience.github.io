@@ -9,10 +9,10 @@ permalink: /edit/
 
 A submission takes the form of a
 [Pull Request](https://help.github.com/articles/using-pull-requests/) which is
-a mechanism in github to request the integration of some code into a
+a mechanism in GitHub to request the integration of some code into a
 repository. We use this mechanism as the primary source for the review because
 it allows to precisely comment each source and to exchange with the author. If
-you're unfamiliar with github, do not hesitate to ask advices and informations
+you're unfamiliar with GitHub, do not hesitate to ask advices and informations
 to the editor in charge of editing the submission. You can have a look at what
 a full [submission](https://github.com/ReScience/ReScience-submission/pull/3)
 looks like.
@@ -91,7 +91,7 @@ like.
   * [ ] Editor decision [accept/reject]
   ```
 
-   You'll need to ask reviewers to add their github login after `review 1
+   You'll need to ask reviewers to add their GitHub login after `review 1
    started` or `review 2 started`.  For example `review 1 started (@rougier)`
 
 * During the review, reviewers are free to interact with the authors in the PR to ask for

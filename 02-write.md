@@ -7,7 +7,7 @@ permalink: /write/
 # Overview of the submission process
 
 The Re**Science** editorial board unites scientists who are committed to the
-open source community. They are experienced developpers who are
+open source community. They are experienced developers who are
 familiar with the GitHub ecosystem. Each editorial board member is specialised
 in a specific domain of science and is proficient in several programming
 languages and/or environments. Our aim is to provide all authors with an
@@ -52,7 +52,7 @@ from the authors or the publishers.
 
 ## How to submit ?
 
-* Create a [github](https://github.com) account
+* Create a [GitHub](https://github.com) account
 * [Fork](https://github.com/ReScience/ReScience-submission/fork) the
   [ReScience submission](https://github.com/ReScience/ReScience-submission)
   repository
@@ -71,7 +71,7 @@ from the authors or the publishers.
   ```
   $ git commit -a -m "Some comment"
   ```
-* [Push](https://help.github.com/articles/pushing-to-a-remote/) to github
+* [Push](https://help.github.com/articles/pushing-to-a-remote/) to GitHub
 
   ```
   $ git push origin AUTHOR1-AUTHOR2-...-AUTHORN-YEAR
@@ -135,4 +135,3 @@ The structure of a submission is:
 * A `code` directory that contains the **commented** code for the replication.
 * A `data` directory that contains any data necessary to run the code.
 * A `notebook` directory that may contain notebooks if relevant.
-
