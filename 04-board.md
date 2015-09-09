@@ -81,4 +81,4 @@ accepts submissions in other open source languages.
   Computational Neuroscience - C/C++ - Java - Python
 
 * [Karthik Ram](https://github.com/karthik)  
-  Ecology - R
+  Ecology - Data Science - R
