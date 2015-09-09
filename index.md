@@ -9,7 +9,7 @@ and encourages the explicit replication of already published research,
 promoting new and open-source implementations in order to ensure that the
 original research is reproducible. To achieve this goal, the whole publishing
 chain is radically different from other traditional scientific
-journals. Re**Science** lives on [github](https://github.com/ReScience/) where
+journals. Re**Science** lives on [GitHub](https://github.com/ReScience/) where
 each new implementation of a computational study is made available together with comments, explanations
 and tests. Each submission takes the form of a pull request that is publicly
 reviewed and tested in order to guarantee that any researcher can re-use it. If
