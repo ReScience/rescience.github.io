@@ -80,5 +80,5 @@ accepts submissions in other open source languages.
 * [Vibhor Kumar](https://github.com/veezbo)  
   Computational Neuroscience - C/C++ - Java - Python
 
-* [Karthik Ram](https://github.com/karthik)
+* [Karthik Ram](https://github.com/karthik)  
   Ecology - R
