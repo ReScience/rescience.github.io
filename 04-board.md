@@ -83,8 +83,11 @@ accepts submissions in other open source languages.
 * [Karthik Ram](https://github.com/karthik)  
   Ecology - Data Science - R
 
-* [Leonardo Uieda](https://github.com/leouieda)
+* [Leonardo Uieda](https://github.com/leouieda)  
   Geophysics - C - Python
 
-* [Hans Ekkehard Plesser](https://github.com/heplesser)
+* [Hans Ekkehard Plesser](https://github.com/heplesser)  
   Computational neuroscience - Stochastic processes - Python - C++
+
+* [Etienne Roesch](https://github.com/eroesch)  
+  Computational neuroscience - Neuroimaging - Data Science - Python - C/C++ - Matlab - R
