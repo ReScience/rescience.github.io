@@ -85,3 +85,6 @@ accepts submissions in other open source languages.
 
 * [Leonardo Uieda](https://github.com/leouieda)
   Geophysics - C - Python
+
+* [Hans Ekkehard Plesser](https://github.com/heplesser)
+  Computational neuroscience - Stochastic processes - Python - C++
