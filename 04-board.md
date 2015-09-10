@@ -82,3 +82,6 @@ accepts submissions in other open source languages.
 
 * [Karthik Ram](https://github.com/karthik)  
   Ecology - Data Science - R
+
+* [Leonardo Uieda](https://github.com/leouieda)
+  Geophysics - C - Python
