@@ -91,3 +91,6 @@ accepts submissions in other open source languages.
 
 * [Etienne Roesch](https://github.com/eroesch)  
   Computational neuroscience - Neuroimaging - Data Science - Python - C/C++ - Matlab - R
+
+* [Ilhan Polat](https://github.com/ilayn)  
+  Control theory - Matlab - Python
