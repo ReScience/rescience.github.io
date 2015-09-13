@@ -114,7 +114,7 @@ The structure of a submission is:
 |  + ...
 + code
 |  | README.md
-|  | LICENSE.md (modified BSD)
+   | LICENSE.md (to be chosen)
 |  | ...
 |  + ...
 + data
@@ -124,14 +124,17 @@ The structure of a submission is:
 |  + ...
 + notebook
    | README.md
-   | LICENSE.md (modified BSD)
+   | LICENSE.md (to be chosen)
    |
    + ...
 ```
-
 
 * A top `README.md` file that will be displayed when a reader enters your submission directory (once published)
 * An `article.md` file that introduces the original paper, explains the technical details of the replication and gives the evidence for the replication of the original results.
 * A `code` directory that contains the **commented** code for the replication.
 * A `data` directory that contains any data necessary to run the code.
 * A `notebook` directory that may contain notebooks if relevant.
+* Don't forget to choose a license for the code repository. You're free
+  to choose whatever open license you prefer (see
+  [the Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines))
+  but you need to choose one.

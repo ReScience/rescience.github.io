@@ -107,6 +107,11 @@ like.
   without the accompanying article is also a criterion for rejection since
   we're not human compilers (well not all of us at least).
 
+* Don't forget to check there is a license in the code repository. Authors can
+  choose whatever open license they prefer (see
+  [the Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines))
+  but they need to choose one.
+
 * If both reviewers agree the paper can be accepted.
 
 * You have to **[import](https://import.github.com/)** the author repository
