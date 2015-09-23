@@ -64,9 +64,6 @@ we aim at the cross-fertilization of research and trying to replicate the work o
 peers might pave the way for a future collaboration, or may give rise to new ideas as
 a result of the replication effort.
 
-Note that this restriction also applies to the work of your closest
-collaborators (supervisor, students, lab members, etc.)
-
 
 ## If my submission is rejected, can I resubmit it ?
 
