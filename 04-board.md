@@ -99,5 +99,5 @@ accepts submissions in other open source languages.
   Control theory - Matlab - Python
 
 * [Pauline Barmby](https://github.com/PBarmby)
-  Astrophysics - Python
+  Astrophysics - Python - R - C
 
