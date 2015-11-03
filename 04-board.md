@@ -1,4 +1,4 @@
->---
+---
 layout: page
 title: BOARD
 permalink: /board/
@@ -100,4 +100,3 @@ accepts submissions in other open source languages.
 
 * [Pauline Barmby](https://github.com/PBarmby)  
   Astrophysics - Python - R - C
-
