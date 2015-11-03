@@ -10,7 +10,7 @@ If your question is not answered below, please
 [create an issue](https://github.com/ReScience/ReScience/issues) on GitHub and
 ask it there.
 
-## Can I help ?
+## Can I help?
 
 Yes ! You can:
 
@@ -66,13 +66,13 @@ or the input data are not made public. Re**Science** publications
 supply the missing pieces, and thus restore replicability.
 
 
-## Are there any publication fees ?
+## Are there any publication fees?
 
 No. Re**Science** promotes open access and relies on the volunteer work of
 editors and reviewers. And the free hosting by GitHub.
 
 
-## Can I submit a paper using proprietary tools such as Matlab ?
+## Can I submit a paper using proprietary tools such as Matlab?
 
 No. If we aim at replicability, we have to make sure the proposed
 implementation allows anyone to re-run and understand the code without any
@@ -80,7 +80,7 @@ barriers. Proprietary software constitutes such a barrier because of their
 price and their closed nature.
 
 
-## Is it mandatory to have an open-source license on the code ?
+## Is it mandatory to have an open-source license on the code?
 
 Yes. The code accompanying Re**Science** articles will be archived at
 [Zenodo](https://zenodo.org/) along with the article and data, entirely under open
@@ -89,7 +89,7 @@ choice of a license for the code, we refer to the [the Debian Free Software
 Guidelines](https://www.debian.org/social_contract#guidelines).
 
 
-## Can I submit the replication of my own research ?
+## Can I submit the replication of my own research?
 
 No. Mistakes in the implementation of research questions and methods are often
 due to biases authors invariably have, consciously or not. One's biases will
@@ -99,7 +99,7 @@ peers might pave the way for a future collaboration, or may give rise to new ide
 a result of the replication effort.
 
 
-## If my submission is rejected, can I resubmit it ?
+## If my submission is rejected, can I resubmit it?
 
 This depends on the reason your submission was rejected. If the
 original research has already been replicated previously (in
@@ -109,7 +109,7 @@ rejected because reviewers cannot make it run, you are encouraged to re-submit
 once the identified problems have been solved.
 
 
-## What if I fail to replicate a research result ?
+## What if I fail to replicate a research result?
 
 Some research may not be replicable. Before declaring a
 research result non-replicable, we require extra caution to be taken. In addition
@@ -134,7 +134,7 @@ the [IPython](http://ipython.org) notebook and the upcoming
 However, other languages or tools are acceptable if they are mainstream in the
 respective domain of research.
 
-## I'm a student, can I submit ?
+## I'm a student, can I submit?
 
 **Yes ! Students are strongly encouraged to submit their work**. Although the
 Re**Science** publishing model is a bit different from other academic journals,
@@ -144,7 +144,7 @@ in Re**Science** is also a way to actively contribute to open science while addi
 publication record.
 
 
-## How do I know if my replication is successful ?
+## How do I know if my replication is successful?
 
 This depends mainly on the original paper introducing the research results to be
 replicated. Results might be presented in a qualitative or quantitative way and you'll have to
@@ -152,7 +152,7 @@ clearly state why you think your implementation of a method or protocol is a fai
 of the original results.
 
 
-## What kind of research can I replicate ?
+## What kind of research can I replicate?
 
 Any computational research in any domain of science as long as there is an
 editor from the [Board](../board) who has the expertise to edit your submission. The editorial
@@ -161,13 +161,13 @@ able to edit your submission, you can also propose a guest editor (who must
 be willing to work with our GitHub-based editorial processes).
 
 
-## Does ReScience issue DOIs (Digital Object Identifiers) ?
+## Does ReScience issue DOIs (Digital Object Identifiers)?
 
 Re**Science** itself does not, but every article published in Re**Science** receives a DOI from, and is
 indexed in [Zenodo](https://zenodo.org/collection/user-rescience).
 
 
-## What is the preferred format for the accompanying article ?
+## What is the preferred format for the accompanying article?
 
 We use **exclusively** Markdown format, from which articles are converted to
 HTML, PDF, and other formats using [pandoc](http://johnmacfarlane.net/pandoc/).
