@@ -97,3 +97,7 @@ accepts submissions in other open source languages.
 
 * [Ilhan Polat](https://github.com/ilayn)  
   Control theory - Matlab - Python
+
+* [Pauline Barmby](https://github.com/PBarmby)
+  Astrophysics - Python - R - C
+
