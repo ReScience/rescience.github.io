@@ -32,6 +32,40 @@ Yes ! You can:
    [Re**Science** material repository](https://github.com/ReScience/ReScience-material)
    (and possibly send some to us...)
 
+
+## What's the difference between replication and reproduction?
+
+There is no concensus yet on what exactly these two terms mean, so
+here is how we understand and use them.
+
+Replication of a computational study means running the same
+computation on the same input data, and then checking if the results
+are the same, or at least "close enough" when it comes to numerical
+approximations. Replication can be considered as software testing at
+the level of a complete study.
+
+Reproduction of a scientific study (computational or other) means
+repeating a published protocol, respecting its spirit and intentions
+but varying the technical details. For computational work, this would
+mean using different software, running a simulation from different
+initial conditions, etc. The idea is to change something that everyone
+believes shouldn't matter, and see if the scientific conclusions are
+affected or not.
+
+Replication verifies that a computation was recorded with enough
+detail that it can be analyzed later or by someone else. Reproduction
+explores which details matter for reaching a specific scientific
+conclusion. A reproduction attempt makes sense only if replication
+succeeds. Otherwise, if reproduction fails, you cannot trace back the
+differences in the results to the underlying code and data.
+
+In the ideal world, the replicability of computational studies would
+be checked automatically before publication. In the real world, most
+published studies do not even claim to be replicable, because the code
+or the input data are not made public. Re**Science** publications
+supply the missing pieces, and thus restore replicability.
+
+
 ## Are there any publication fees ?
 
 No. Re**Science** promotes open access and relies on the volunteer work of

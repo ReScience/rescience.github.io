@@ -5,9 +5,11 @@ layout: index
 ## Reproducible Science is good. Replicated Science is better.
 
 Re**Science** is a peer-reviewed journal that targets computational research
-and encourages the explicit replication of already published research,
+and encourages the explicit [replication](faq) of already published research,
 promoting new and open-source implementations in order to ensure that the
-original research is reproducible. To achieve this goal, the whole publishing
+original research is [reproducible](faq).
+
+To achieve this goal, the whole publishing
 chain is radically different from other traditional scientific
 journals. Re**Science** lives on [GitHub](https://github.com/ReScience/) where
 each new implementation of a computational study is made available together with comments, explanations
