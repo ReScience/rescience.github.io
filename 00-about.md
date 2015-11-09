@@ -63,4 +63,4 @@ S.M. Crook, A.P. Davison, H.E. Plesser, 20 Years of Computational Neuroscience, 
 
 * [Push journal](http://push.cwcon.org) - Research & applied theory in writing with sources
 * [IPOL Journal](http://www.ipol.im) - Image Processing On Line
-  
+* [PSRI](http://projects.iq.harvard.edu/psreplication) - Political Science Replication Initiative
