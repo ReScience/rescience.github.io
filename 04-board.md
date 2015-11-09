@@ -43,6 +43,9 @@ accepts submissions in other open source languages.
 * [Timothée Poisot](http://github.com/tpoisot)  
   Computational Ecology - Python - R - Julia
 
+* [Karthik Ram](https://github.com/karthik)  
+  Ecology - Data Science - R
+
 
 ## Reviewers
 
@@ -83,9 +86,6 @@ accepts submissions in other open source languages.
 
 * [Vibhor Kumar](https://github.com/veezbo)  
   Computational Neuroscience - C/C++ - Java - Python
-
-* [Karthik Ram](https://github.com/karthik)  
-  Ecology - Data Science - R
 
 * [Yoav Ram](https://github.com/yoavram)  
   Evolutionary Biology - Population Genetics - Python - R
