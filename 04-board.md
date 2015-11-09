@@ -40,6 +40,10 @@ accepts submissions in other open source languages.
 * [Thomas Arildsen](https://github.com/ThomasA)  
   Signal Processing - Python - Matlab
 
+* [Timothée Poisot](http://github.com/tpoisot)  
+  Computational Ecology - Python - R - Julia
+
+
 ## Reviewers
 
 * [Benoît Girard](https://github.com/benoit-girard)
