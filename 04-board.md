@@ -40,10 +40,12 @@ accepts submissions in other open source languages.
 * [Thomas Arildsen](https://github.com/ThomasA)  
   Signal Processing - Python - Matlab
 
-* [Timothée Poisot](http://github.com/tpoisot)  
+* [Timothée Poisot](http://github.com/tpoisot)
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
   Computational Ecology - Python - R - Julia
 
-* [Karthik Ram](https://github.com/karthik)  
+* [Karthik Ram](https://github.com/karthik)
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
   Ecology - Data Science - R
 
 
@@ -104,3 +106,7 @@ accepts submissions in other open source languages.
 
 * [Pauline Barmby](https://github.com/PBarmby)  
   Astrophysics - Python - R - C
+
+* [Dan McGlinn](https://github.com/dmcglinn)
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  Ecology - R
