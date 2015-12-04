@@ -80,7 +80,7 @@ accepts submissions in other open source languages.
 * [Gökcen Eraslan](https://github.com/gokceneraslan)  
   Computational Biology - Python - C - R
 
-* [Andrew Davidson](https://github.com/apdavison)  
+* [Andrew Davison](https://github.com/apdavison)  
   Computational Neuroscience - Python
 
 * [Marc André Delsuc](https://github.com/delsuc/)  
