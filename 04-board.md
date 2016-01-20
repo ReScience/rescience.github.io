@@ -19,7 +19,8 @@ accepts submissions in other open source languages.
 * [Konrad Hinsen](https://github.com/khinsen)  
   Molecular biophysics - Python - C - Racket - Clojure
 
-* [Nicolas P. Rougier](https://github.com/rougier)  
+* [Nicolas P. Rougier](https://github.com/rougier)
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
   Computational Neuroscience - Computer Science - Python - C/C++
 
 ## Associate Editors
