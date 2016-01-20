@@ -111,3 +111,8 @@ accepts submissions in other open source languages.
 * [Dan McGlinn](https://github.com/dmcglinn)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)  
   Ecology - R
+
+* [Julien Vitay](https://github.com/vitay)
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
+  Computational Neuroscience - Python - C++
+
