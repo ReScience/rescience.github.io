@@ -119,3 +119,6 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/14)  
   Computational Neuroscience - Python - C++
 
+* [Hrvoje Stojic](https://github.com/hstojic)
+  Learning and Decision Making - Cognitive Modelling - R - Python
+
