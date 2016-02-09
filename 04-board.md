@@ -66,7 +66,8 @@ accepts submissions in other open source languages.
 * [Cyrille Rossant](https://github.com/rossant)  
   Neurophysiological data analysis - Python - C
 
-* [Georgios Detorakis](https://github.com/gdetor)  
+* [Georgios Detorakis](https://github.com/gdetor)
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
   Computational Neuroscience - Signal Processing - Python - C - Matlab - Fortran
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
