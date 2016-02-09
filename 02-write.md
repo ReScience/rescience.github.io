@@ -104,7 +104,7 @@ You can have a look at a [previous submission](https://github.com/ReScience/ReSc
 
 The structure of a submission is:
 
-```
+~~~
 + README.md
 + article
 |  | article.md
@@ -127,7 +127,7 @@ The structure of a submission is:
    | LICENSE.md (to be chosen)
    |
    + ...
-```
+~~~
 
 * A top `README.md` file that will be displayed when a reader enters your submission directory (once published)
 * An `article.md` file that introduces the original paper, explains the technical details of the replication and gives the evidence for the replication of the original results.
