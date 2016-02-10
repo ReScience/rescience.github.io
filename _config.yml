@@ -9,7 +9,7 @@ twitter_username: ReScienceEds
 github_username:  ReScience
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 
 # Exclude:
