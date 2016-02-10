@@ -23,9 +23,9 @@ modified. Don't hesitate to [join us](faq).
 
 ### Current activity
 
-Published articles: 1  
+Published articles: 2  
 Submitted articles awaiting review:	0  
-Articles currently under review:	2  
+Articles currently under review:	1  
 **Replication rate: 100%**
 
 
