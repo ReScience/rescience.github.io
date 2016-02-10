@@ -5,7 +5,7 @@ title: "[Re] Speed/accuracy trade-off between the habitual and the
         goal-directed process"
 date: 2016-02-10
 categories: neuroscience python
-author: Guillaum Viejo, Benoît Girard & Mehdi Khamassi
+author: Guillaume Viejo, Benoît Girard & Mehdi Khamassi
 volume: 1
 issue: 1
 doi: 10.5281/zenodo.45852
