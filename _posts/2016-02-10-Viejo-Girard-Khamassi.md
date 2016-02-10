@@ -13,5 +13,5 @@ pdf: https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/raw/master
 repository: https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016
 review: https://github.com/ReScience/ReScience-submission/pull/14
 zenodo: https://zenodo.org/record/45852
-keywords: neuroscience, basal ganglia, python
+keywords: neuroscience, decision making, python
 ---
