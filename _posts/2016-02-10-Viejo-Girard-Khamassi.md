@@ -6,7 +6,7 @@ title: "[Re] Speed/accuracy trade-off between the habitual and the
 date: 2016-02-10
 categories: neuroscience python
 author: Guillaume Viejo, Benoît Girard & Mehdi Khamassi
-volume: 1
+volume: 2
 issue: 1
 doi: 10.5281/zenodo.45852
 pdf: https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/raw/master/article/viejo_girard_khamassi.pdf
