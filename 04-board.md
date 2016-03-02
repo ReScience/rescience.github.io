@@ -42,7 +42,8 @@ accepts submissions in other open source languages.
   Signal Processing - Python - Matlab
 
 * [Timothée Poisot](http://github.com/tpoisot)
-  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)
+  [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Computational Ecology - Python - R - Julia
 
 * [Karthik Ram](https://github.com/karthik)
