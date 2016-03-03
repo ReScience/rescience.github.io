@@ -94,7 +94,8 @@ accepts submissions in other open source languages.
 * [Vibhor Kumar](https://github.com/veezbo)  
   Computational Neuroscience - C/C++ - Java - Python
 
-* [Yoav Ram](https://github.com/yoavram)  
+* [Yoav Ram](https://github.com/yoavram)
+  [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Evolutionary Biology - Population Genetics - Python - R
 
 * [Leonardo Uieda](https://github.com/leouieda)  
