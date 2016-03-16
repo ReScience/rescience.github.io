@@ -11,6 +11,6 @@ doi: 10.5281/zenodo.47146
 pdf: https://github.com/ReScience-Archives/Stachelek-2016/raw/master/article/article.pdf
 repository: https://github.com/ReScience-Archives/Stachelek-2016/
 review: https://github.com/ReScience/ReScience-submission/pull/11
-zenodo: https://zenodo.org/record/45852
+zenodo: https://zenodo.org/record/47146
 keywords: Ecology, Least-cost path, Delaunay triangulation, Graph Theory
 ---
