@@ -73,7 +73,7 @@ accepts submissions in other open source languages.
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
   Econometrics - Statistics - Data Science - R - C/C++
 
-* [Federico Vaggi](https://github.com/FedericoV)[★](https://github.com/ReScience/ReScience-submission/pull/15)  
+* [Federico Vaggi](https://github.com/FedericoV) [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Systems Biology - Python - Matlab - C
 
 * [Ozan Çağlayan](https://github.com/ozancaglayan)  
