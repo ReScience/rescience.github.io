@@ -26,7 +26,8 @@ accepts submissions in other open source languages.
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3) 
+  [★](https://github.com/ReScience/ReScience-submission/pull/17)  
   Computational Neuroscience - Python - C - Fortran  
 
 * [Pierre de Buyl](https://github.com/pdebuyl)  
@@ -85,7 +86,8 @@ accepts submissions in other open source languages.
 * [Gökcen Eraslan](https://github.com/gokceneraslan)  
   Computational Biology - Python - C - R
 
-* [Andrew Davison](https://github.com/apdavison)  
+* [Andrew Davison](https://github.com/apdavison) 
+  [★](https://github.com/ReScience/ReScience-submission/pull/17)  
   Computational Neuroscience - Python
 
 * [Marc André Delsuc](https://github.com/delsuc/)  
@@ -101,7 +103,8 @@ accepts submissions in other open source languages.
 * [Leonardo Uieda](https://github.com/leouieda)  
   Geophysics - C - Python
 
-* [Hans Ekkehard Plesser](https://github.com/heplesser)  
+* [Hans Ekkehard Plesser](https://github.com/heplesser) 
+  [★](https://github.com/ReScience/ReScience-submission/pull/17)  
   Computational neuroscience - Stochastic processes - Python - C++
 
 * [Etienne Roesch](https://github.com/eroesch)  
