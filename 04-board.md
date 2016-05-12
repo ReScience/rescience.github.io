@@ -126,3 +126,5 @@ accepts submissions in other open source languages.
 * [Hrvoje Stojic](https://github.com/hstojic)  
   Learning and Decision Making - Cognitive Modelling - R - Python
 
+* [Owen Petchey](https://github.com/opetchey)  
+  Ecology - R
