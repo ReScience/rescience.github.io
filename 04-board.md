@@ -20,7 +20,7 @@ accepts submissions in other open source languages.
   Molecular biophysics - Python - C - Racket - Clojure
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)  
   Computational Neuroscience - Computer Science - Python - C/C++
 
 ## Associate Editors
