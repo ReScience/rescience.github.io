@@ -129,10 +129,10 @@ accepts submissions in other open source languages.
 * [Owen Petchey](https://github.com/opetchey)  
   Ecology - R
 
-* [Xavier Hinaut](https://github.com/neuronalX)  
+* [Xavier Hinaut](https://github.com/neuronalX)
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
   Computational Neuroscience - Machine Learning - Python - Matlab - Java - C
 
-* [Marcel Stimberg](https://github.com/mstimberg)  
+* [Marcel Stimberg](https://github.com/mstimberg)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
   Computational Neuroscience - Python - C/C++
