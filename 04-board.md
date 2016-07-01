@@ -132,3 +132,7 @@ accepts submissions in other open source languages.
 * [Xavier Hinaut](https://github.com/neuronalX)  
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
   Computational Neuroscience - Machine Learning - Python - Matlab - Java - C
+
+* [Marcel Stimberg](https://github.com/mstimberg)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/18)  
+  Computational Neuroscience - Python - C/C++
