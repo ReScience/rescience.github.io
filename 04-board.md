@@ -32,8 +32,8 @@ accepts submissions in other open source languages.
 * [Pierre de Buyl](https://github.com/pdebuyl)  
   Computational Physics - Python - C - Fortran  
 
-* [Emmanuelle Gouillart]
-  (https://github.com/emmanuelle)[★](https://github.com/ReScience/ReScience-submission/pull/20)  
+* [Emmanuelle Gouillart](https://github.com/emmanuelle)
+  [★](https://github.com/ReScience/ReScience-submission/pull/20)  
   Physics - Image processing - Python
 
 * [C. Titus Brown](https://github.com/ctb)   
