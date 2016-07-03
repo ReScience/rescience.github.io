@@ -14,7 +14,7 @@ ask it there.
 
 Yes ! You can:
 
- * Become a reviewer by contacting the [editor](../board) in your field
+ * Become a reviewer by [filling your information](https://github.com/ReScience/ReScience/issues/27) and [watch](https://github.com/ReScience/ReScience-submission/subscription) for new submission
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about Re**Science** in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)
