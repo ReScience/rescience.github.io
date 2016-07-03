@@ -63,7 +63,8 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
   Computational Neuroscience - Robotics - Python - C/C++ - Matlab  
 
-* [Cyrille Rossant](https://github.com/rossant)[★](https://github.com/ReScience/ReScience-submission/pull/18)  
+* [Cyrille Rossant](https://github.com/rossant)
+  [★](https://github.com/ReScience/ReScience-submission/pull/18)  
   Neurophysiological data analysis - Python - C
 
 * [Georgios Detorakis](https://github.com/gdetor)
