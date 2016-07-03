@@ -145,4 +145,5 @@ accepts submissions in other open source languages.
 * [Simon van Heeringen](https://github.com/simonvh)  
   Computational Biology - Epigenomics - Regulatory Motif Analysis - Python
   
-  
+* [Dominique Geffroy](https://github.com/dombrno)  
+   Condensed matter physics - Financial derivatives - Python - C++
