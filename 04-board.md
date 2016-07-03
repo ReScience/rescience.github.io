@@ -136,3 +136,11 @@ accepts submissions in other open source languages.
 * [Marcel Stimberg](https://github.com/mstimberg)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
   Computational Neuroscience - Python - C/C++
+
+* [Markus Pfeiffer](https://github.com/markuspf)  
+  Discrete Mathematics - GAP - C - Haskell - Python - Idris
+  
+* [Simon van Heeringen](https://github.com/simonvh)  
+  Computational Biology - Epigenomics - Regulatory Motif Analysis - Python
+  
+  
