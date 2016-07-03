@@ -147,3 +147,6 @@ accepts submissions in other open source languages.
   
 * [Dominique Geffroy](https://github.com/dombrno)  
    Condensed matter physics - Financial derivatives - Python - C++
+
+* [Joseph Stachelek](http://www.github.com/jsta)  
+  Ecology - R - Python
