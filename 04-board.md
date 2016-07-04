@@ -153,3 +153,7 @@ accepts submissions in other open source languages.
   
 * [Serge Stinckwich](https://github.com/SergeStinckwich)  
   Agent-based modelling - Computational Epidemiology - C - Python - Pharo
+
+* [Daniel Nüst](https://github.com/nuest)  
+  Geoprocessing, sensor web, geocomputation - Java - R
+  
