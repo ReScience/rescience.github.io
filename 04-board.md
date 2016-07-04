@@ -150,3 +150,6 @@ accepts submissions in other open source languages.
 
 * [Joseph Stachelek](http://www.github.com/jsta)  
   Ecology - R - Python
+  
+* [Serge Stinckwich](https://github.com/SergeStinckwich)  
+  Agent-based modelling - Computational Epidemiology - C - Python - Pharo
