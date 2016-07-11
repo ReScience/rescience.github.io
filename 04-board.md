@@ -157,3 +157,6 @@ accepts submissions in other open source languages.
 * [Daniel Nüst](https://github.com/nuest)  
   Geoprocessing, sensor web, geocomputation - Java - R
   
+* [Pierre Enel](https://github.com/piero-le-fou)
+  [★](https://github.com/ReScience/ReScience-submission/pull/19)  
+  Neurophysiology - Computational Neuroscience - Python - Matlab - C
