@@ -160,3 +160,6 @@ accepts submissions in other open source languages.
 * [Pierre Enel](https://github.com/piero-le-fou)
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
   Neurophysiology - Computational Neuroscience - Python - Matlab - C
+
+* [Cesar B. Rocha](https://github.com/crocha700)  
+  Physical Oceanography and Geophysical Fluid Dynamics - Python - C - Fortran
