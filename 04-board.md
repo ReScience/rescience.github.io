@@ -166,3 +166,6 @@ accepts submissions in other open source languages.
 
 * [Kevin Mattheus Moerman](https://github.com/Kevin-Mattheus-Moerman)  
   Computational soft tissue biomechanics, image-based modelling - Octave, MATLAB
+
+* [David Garcia](https://github.com/dgarcia-eu)  
+  Computational Social Science - R - Python
