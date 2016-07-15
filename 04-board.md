@@ -163,3 +163,6 @@ accepts submissions in other open source languages.
 
 * [Cesar B. Rocha](https://github.com/crocha700)  
   Physical Oceanography and Geophysical Fluid Dynamics - Python - C - Fortran
+
+* [Kevin Mattheus Moerman](https://github.com/Kevin-Mattheus-Moerman)  
+  Computational soft tissue biomechanics, image-based modelling - Octave, MATLAB
