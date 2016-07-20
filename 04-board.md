@@ -169,3 +169,7 @@ accepts submissions in other open source languages.
 
 * [David Garcia](https://github.com/dgarcia-eu)  
   Computational Social Science - R - Python
+
+* [Olivier Grisel](https://github.com/ogrisel)
+  [★](https://github.com/ReScience/ReScience-submission/pull/20)  
+  Machine Learning - Python
