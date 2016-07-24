@@ -173,3 +173,6 @@ accepts submissions in other open source languages.
 * [Olivier Grisel](https://github.com/ogrisel)
   [★](https://github.com/ReScience/ReScience-submission/pull/20)  
   Machine Learning - Python
+
+* [Almar Klein](http://github.com/almarklein)  
+  (medical) image processing - Python
