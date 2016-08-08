@@ -176,3 +176,7 @@ accepts submissions in other open source languages.
 
 * [Almar Klein](http://github.com/almarklein)  
   (medical) image processing - Python
+
+* [Tarandeep Singh Kalra](https://github.com/tarankalra)  
+  Computational Fluid Dynamics, Applied aerodynamics, Ocean Modeling - Fortran, Python, C
+  
