@@ -105,7 +105,7 @@ from the authors or the publishers.
   * [ ] Review 1 decision [accept/reject]
   * [ ] Review 2 decision [accept/reject]
   * [ ] Editor decision [accept/reject]
-  ~~
+  ~~~
 
 * Assign the PR to an editor from the
   [editorial board](https://github.com/ReScience/ReScience/wiki/Editorial-Board)
