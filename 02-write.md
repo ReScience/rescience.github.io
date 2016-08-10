@@ -81,9 +81,9 @@ from the authors or the publishers.
   to Re**Science** with title "Review Request" and insert the following text
   in the description:
 
-  ~~~
+  ```
   **AUTHOR**
-
+  
   Dear @ReScience/editors,
 
   I request a review for the replication of the following paper:
@@ -94,7 +94,6 @@ from the authors or the publishers.
   as explained in the accompanying [article](link to your pdf).
   
   Repository lives at (link to your repository/branch)
-  
   ---
   
   **EDITOR**
@@ -105,7 +104,7 @@ from the authors or the publishers.
   * [ ] Review 1 decision [accept/reject]
   * [ ] Review 2 decision [accept/reject]
   * [ ] Editor decision [accept/reject]
-  ~~~
+  ```
 
 * Assign the PR to an editor from the
   [editorial board](https://github.com/ReScience/ReScience/wiki/Editorial-Board)
