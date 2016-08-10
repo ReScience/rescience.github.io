@@ -92,6 +92,19 @@ from the authors or the publishers.
 
   I believed the original results have been faithfully replicated
   as explained in the accompanying [article](link to your pdf).
+  
+  Repository lives at (link to your repository/branch)
+  
+  ---
+  
+  **EDITOR**
+
+  * [ ] Editor acknowledgment ()
+  * [ ] Reviewer 1 ()
+  * [ ] Reviewer 2 ()
+  * [ ] Review 1 decision [accept/reject]
+  * [ ] Review 2 decision [accept/reject]
+  * [ ] Editor decision [accept/reject]
   ```
 * Assign the PR to an editor from the
   [editorial board](https://github.com/ReScience/ReScience/wiki/Editorial-Board)
