@@ -118,7 +118,7 @@ a.site-title:hover {
 pre,code {
   border: none;
   color: #555555;
-/*  background-color: #f5f5f5;*/
+  background: none;
 }
 
 .post-tag, .post-tag a {
@@ -144,4 +144,8 @@ pre,code {
 //    border-top: 1px solid $grey-color-light;
     border: none;
     padding: 0;
+}
+
+.highlight {
+    background: #f0f0ff;
 }
