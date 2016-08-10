@@ -50,7 +50,8 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/11)  
   Ecology - Data Science - R
 
-* [Olivia Guest](https://github.com/oliviaguest)  
+* [Olivia Guest](https://github.com/oliviaguest)
+  [★](https://github.com/ReScience/ReScience-submission/pull/21)  
   Computational Cognitive Neuroscience - Cognitive Modelling - Python - C
 
 
