@@ -181,3 +181,5 @@ accepts submissions in other open source languages.
 * [Tarandeep Singh Kalra](https://github.com/tarankalra)  
   Computational Fluid Dynamics, Applied aerodynamics, Ocean Modeling - Fortran, Python, C
   
+* [Philipp Boersch-Supan](https://github.com/pboesu)  
+  Ecology, Biological Oceanography, Biogeography - R
