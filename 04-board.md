@@ -183,3 +183,6 @@ accepts submissions in other open source languages.
   
 * [Philipp Boersch-Supan](https://github.com/pboesu)  
   Ecology, Biological Oceanography, Biogeography - R
+
+* [Ben Marwick](https://github.com/benmarwick)  
+  Archaeology, Geosciences, Social sciences - R 
