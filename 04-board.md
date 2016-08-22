@@ -186,3 +186,7 @@ accepts submissions in other open source languages.
 
 * [Ben Marwick](https://github.com/benmarwick)  
   Archaeology, Geosciences, Social sciences - R 
+
+* [Emmanuel Hadoux](https://github.com/ehadoux)  
+  Decision Theory, Markov models, Argumentation (Artificial Intelligence) -
+  C++, Java, Ruby
