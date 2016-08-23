@@ -190,3 +190,6 @@ accepts submissions in other open source languages.
 * [Emmanuel Hadoux](https://github.com/ehadoux)  
   Decision Theory, Markov models, Argumentation (Artificial Intelligence) -
   C++, Java, Ruby
+
+* [Dmitrii Pasechnik](https://github.com/dimpase)  
+  Algebra and geometry, combinatorics, graphs, optimization - C, Python, computer algebra systems
