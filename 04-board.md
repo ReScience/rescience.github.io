@@ -79,7 +79,7 @@ accepts submissions in other open source languages.
 * [Federico Vaggi](https://github.com/FedericoV) [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Systems Biology - Python - Matlab - C
 
-* [Ozan Çağlayan](https://github.com/ozancaglayan)  
+* [Ozan Çağlayan](https://github.com/ozancaglayan) [★](https://github.com/ReScience/ReScience-submission/pull/19) [★](https://github.com/ReScience/ReScience-submission/pull/20)  
   Signal Processing - Neural Networks - Python - C/C++ - R
 
 * [Jan Hermann](https://github.com/azag0)  

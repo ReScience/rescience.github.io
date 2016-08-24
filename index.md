@@ -25,8 +25,8 @@ modified. Don't hesitate to [join us](faq) and to [become a reviewer](https://gi
 ### Current activity
 
 Published articles: 4  
-Submitted articles awaiting review:	2 ([#20], [#21])  
-Articles currently under review:	3 ([#17], [#18], [#19])  
+Submitted articles awaiting review:	0 
+Articles currently under review:	3 ([#17], [#18], [#19], [#20], [#21])  
 **Replication rate: 100%**
 
 [#17]: https://github.com/ReScience/ReScience-submission/pull/17
