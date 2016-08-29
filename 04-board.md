@@ -188,7 +188,7 @@ accepts submissions in other open source languages.
   Archaeology, Geosciences, Social sciences - R 
 
 * [Emmanuel Hadoux](https://github.com/ehadoux)  
-  Decision Theory, Markov models, Argumentation (Artificial Intelligence) -
+  Decision Theory, Markov Models, Argumentation (Artificial Intelligence) -
   C++, Java, Ruby
 
 * [Dmitrii Pasechnik](https://github.com/dimpase)  
