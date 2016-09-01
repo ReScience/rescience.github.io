@@ -197,5 +197,5 @@ accepts submissions in other open source languages.
 * [Niranj Chandrasekaran](https://github.com/niranjchandrasekaran)  
   Molecular Biophysics - Python, Perl
 
-* [Fabien C. Y. Benureau](https://github.com/humm)  
+* [Fabien C. Y. Benureau](https://github.com/benureau)  
   Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
