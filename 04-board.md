@@ -199,3 +199,6 @@ accepts submissions in other open source languages.
 
 * [Fabien C. Y. Benureau](https://github.com/benureau)  
   Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
+
+* [Damien Drix](https://github.com/damiendr)  
+  Computational Neuroscience, Machine Learning - Julia, Python
