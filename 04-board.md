@@ -202,3 +202,6 @@ accepts submissions in other open source languages.
 
 * [Damien Drix](https://github.com/damiendr)  
   Computational Neuroscience, Machine Learning - Julia, Python
+  
+* [Adam Tomkins](https://github.com/AdamRTomkins)  
+  Computational Neuroscience - Python, Matlab, JavaScript, CUDA
