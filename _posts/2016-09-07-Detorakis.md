@@ -12,5 +12,5 @@ pdf: https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/
 repository: https://github.com/ReScience-Archives/Detorakis-2016.git
 review: https://github.com/ReScience/ReScience-submission/pull/17
 zenodo: https://zenodo.org/record/61697
-keywords: Neuroscience, Python, Replication
+keywords: Neuroscience, Python, Conductance-based model, Thalamic relay neurons, Intermittent phase-locking, Spindle oscillation, Delta oscillation
 ---
