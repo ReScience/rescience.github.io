@@ -79,7 +79,7 @@ accepts submissions in other open source languages.
 * [Federico Vaggi](https://github.com/FedericoV) [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Systems Biology - Python - Matlab - C
 
-* [Ozan Çağlayan](https://github.com/ozancaglayan) [★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/20)  
+* [Ozan Çağlayan](https://github.com/ozancaglayan) [★](https://github.com/ReScience/ReScience-submission/pull/20)  
   Signal Processing - Neural Networks - Python - C/C++ - R
 
 * [Jan Hermann](https://github.com/azag0)  
@@ -109,7 +109,7 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/17)  
   Computational Neuroscience - Stochastic Processes - Python - C++
 
-* [Etienne Roesch](https://github.com/eroesch)  
+* [Etienne Roesch](https://github.com/eroesch) [★](https://github.com/ReScience/ReScience-submission/pull/21)  
   Computational Neuroscience - Neuroimaging - Data Science - Python - C/C++ - Matlab - R
 
 * [Ilhan Polat](https://github.com/ilayn)  
