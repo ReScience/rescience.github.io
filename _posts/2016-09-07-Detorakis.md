@@ -8,7 +8,7 @@ author: Georgios Detorakis
 volume: 2
 issue: 1
 doi: 10.5281/zenodo.61697
-pdf: https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/detorakis-2016.pdf
+pdf: https://github.com/ReScience-Archives/Detorakis-2016/raw/master/article/detorakis-2016.pdf
 repository: https://github.com/ReScience-Archives/Detorakis-2016.git
 review: https://github.com/ReScience/ReScience-submission/pull/17
 zenodo: https://zenodo.org/record/61697
