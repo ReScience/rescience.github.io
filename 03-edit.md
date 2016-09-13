@@ -160,7 +160,8 @@ that are listed here:
   * Announce publication in the PR (and give DOI, see
     [#3](https://github.com/ReScience/ReScience-submission/pull/3) for example)
   * Make a PR to update
-    [rescience.github.io/read](http://rescience.github.io/read/). This means creating a new post based on this [model](https://raw.githubusercontent.com/rougier/rescience.github.io/master/_posts/2015-08-14-Topalidou-Rougier.md)
+    [rescience.github.io/read](http://rescience.github.io/read/).  
+    This means creating a new post based on this [model](https://raw.githubusercontent.com/rougier/rescience.github.io/master/_posts/2015-08-14-Topalidou-Rougier.md)
   * Make a PR to update [Rescience/Volume X - Issue Y.md](https://github.com/ReScience/ReScience)
   * Close the PR without merging
   * Tell editor-in-chiefs of the new publication
