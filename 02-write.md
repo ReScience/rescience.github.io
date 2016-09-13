@@ -120,8 +120,8 @@ The structure of a submission is:
 ~~~
 + README.md
 + article
-|  | article.md
-|  | article.bib
+|  | author(s)-YEAR.md
+|  | author(s)-YEAR.bib
 |  | LICENSE.md (CC-BY 4.0)
 |  | ...
 |  + ...
@@ -142,12 +142,15 @@ The structure of a submission is:
    + ...
 ~~~
 
-* A top `README.md` file that will be displayed when a reader enters your submission directory (once published)
-* An `article.md` file that introduces the original paper, explains the technical details of the replication and gives the evidence for the replication of the original results.
+* A top `README.md` file that will be displayed when a reader enters your
+  submission directory (once published)
+* An `author(s)-YEAR.md` file that introduces the original paper, explains the
+  technical details of the replication and gives the evidence for the
+  replication of the original results.
 * A `code` directory that contains the **commented** code for the replication.
 * A `data` directory that contains any data necessary to run the code.
 * A `notebook` directory that may contain notebooks if relevant.
-* Don't forget to choose a license for the code repository. You're free
-  to choose whatever open license you prefer (see
+* Don't forget to choose a license for the code repository. You're free to
+  choose whatever open license you prefer (see
   [the Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines))
   but you need to choose one.
