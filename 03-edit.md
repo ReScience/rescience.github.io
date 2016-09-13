@@ -129,7 +129,6 @@ that are listed here:
     that points to the newly imported repository (the one on
     [ReScience-Archives]((https://github.com/ReScience-Archives)))
   * Update article metadata:
-  
     - Editor name
     - Reviewer 1 name
     - Reviewer 2 name
@@ -146,14 +145,12 @@ that are listed here:
   * Merge the rescience branch into master
   * Push these changes onto the `rescience` remote repository
   * Make a new release throught the github interface
-    
     - Release version number is 1.0
     - Release name is Author(s)-YEAR-1.0
    
   * Download the zip file and rename it to `Author(s)-YEAR-1.0.zip`
   * Upload this zip file to [Zenodo](https://zenodo.org/deposit/?c=rescience).
     You will have to fill several fields:
-    
     - Name of the journal is ReScience
     - Don't forget to add the editor (you) in the field (see add author)
     - Editor has no affiliation displayed
