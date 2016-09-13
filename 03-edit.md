@@ -114,24 +114,57 @@ like.
 
 * If both reviewers agree the paper can be accepted.
 
-* You have to **[import](https://import.github.com/)** the author repository
-   into the ReScience archives (https://github.com/ReScience-Archives) using
-   the name "AUTHORS-YEAR" and manually merge the submission branch into the
-   master branch. You can then lock and close the PR without merging it.
 
-* You will have to edit the `article/article.md` file in the repository and
-  update the YAML information (editor, reviewers, dates, volume/issue,
-  repositories). Note that official repo are the ones in the
-  [Re**Science** archives](https://github.com/ReScience-Archives).
+# The publication process
 
-* Don't forget to regenerate the PDF using pandoc
-
-* You have to make a release with version number 1.0 and upload the zip file
-  onto [Zenodo](https://zenodo.org/deposit/?c=rescience) and fill any relevant
-  fields.
-
-* Add the assigned DOI to the last comment in the PR.
-
-* You have to update the [read](../read) section of the website.
-
-* If you're uncertain at any step of the procedure, just ask editors-in-chiefs.
+The publication is currently far from automatic and requires a number of steps
+that are listed here:
+  
+  * Lock the conversation on the original PR
+  * If not provided, ask for keywords to the author
+  * **[Import](https://import.github.com/)** the author repository into the
+    ReScience archives (https://github.com/ReScience-Archives) using the name
+    convention "Author(s)-YEAR"
+  * Add a new remote (named `rescience) in your local copy of the repository
+    that points to the newly imported repository (the one on
+    [ReScience-Archives]((https://github.com/ReScience-Archives)))
+  * Update article metadata:
+  
+    - Editor name
+    - Reviewer 1 name
+    - Reviewer 2 name
+    - Submission date
+    - Publication date
+    - Article repository
+    - Code repository
+    - Notebook repository (if necessary)
+    - Data repository (if necessary)
+    - Volume, issue and year
+   
+  * If the article name is not `Author(s)-YEAR.md`, rename it
+  * Rebuild the PDF and checks everything is ok
+  * Merge the rescience branch into master
+  * Push these changes onto the `rescience` remote repository
+  * Make a new release throught the github interface
+    
+    - Release version number is 1.0
+    - Release name is Author(s)-YEAR-1.0
+   
+  * Download the zip file and rename it to `Author(s)-YEAR-1.0.zip`
+  * Upload this zip file to [Zenodo](https://zenodo.org/deposit/?c=rescience).
+    You will have to fill several fields:
+    
+    - Name of the journal is ReScience
+    - Don't forget to add the editor (you) in the field (see add author)
+    - Editor has no affiliation displayed
+    - Don't forget keywords
+  
+  * Add the `04-Published` label onto th PR
+  * Announce publication in the PR (and give DOI, see
+    [#3](https://github.com/ReScience/ReScience-submission/pull/3) for example)
+  * Make a PR to update
+    [rescience.github.io/read](http://rescience.github.io/read/)
+  * Make a PR to update [Rescience/Volume X - Issue Y.md](https://github.com/ReScience/ReScience)
+  * Close the PR without merging
+  * If you're uncertain at any step of the procedure, just ask
+    editors-in-chiefs.
