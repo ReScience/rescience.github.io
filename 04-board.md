@@ -205,3 +205,6 @@ accepts submissions in other open source languages.
   
 * [Adam Tomkins](https://github.com/AdamRTomkins)  
   Computational Neuroscience - Python, Matlab, JavaScript, CUDA
+
+* [Kamil S Jaron](https://github.com/KamilSJaron)  
+  Evolutionary biology - R
