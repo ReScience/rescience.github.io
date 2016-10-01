@@ -207,4 +207,4 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Python, Matlab, JavaScript, CUDA
 
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
-  Evolutionary biology - R
+  Evolutionary biology - R, C/C++, python
