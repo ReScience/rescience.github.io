@@ -208,3 +208,7 @@ accepts submissions in other open source languages.
 
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
   Evolutionary biology - R, C/C++, python
+
+* [Anne Urai](https://github.com/anne-urai)  
+  Cognitive neuroscience, decision-making, vision science - Matlab, Python, R
+  
