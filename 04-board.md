@@ -212,3 +212,5 @@ accepts submissions in other open source languages.
 * [Anne Urai](https://github.com/anne-urai)  
   Cognitive neuroscience, decision-making, vision science - Matlab, Python, R
   
+* [Vamsi Spandan](https://github.com/nadnaps)  
+  Computational Fluid Dynamics, High performance computing - Fortran, Python
