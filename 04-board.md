@@ -156,7 +156,7 @@ accepts submissions in other open source languages.
   Agent-based Modelling - Computational Epidemiology - C - Python - Pharo
 
 * [Daniel Nüst](https://github.com/nuest)  
-  Geoprocessing, Sensor Web, Geocomputation - Java - R
+  Geoprocessing - Sensor Web - Geocomputation - Java - R
   
 * [Pierre Enel](https://github.com/piero-le-fou)
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
@@ -166,7 +166,7 @@ accepts submissions in other open source languages.
   Physical Oceanography and Geophysical Fluid Dynamics - Python - C - Fortran
 
 * [Kevin Mattheus Moerman](https://github.com/Kevin-Mattheus-Moerman)  
-  Computational Soft Tissue Biomechanics, Image-based Modelling - Octave, MATLAB
+  Computational Soft Tissue Biomechanics - Image-based Modelling - Octave - MATLAB
 
 * [David Garcia](https://github.com/dgarcia-eu)  
   Computational Social Science - R - Python
@@ -179,38 +179,38 @@ accepts submissions in other open source languages.
   (Medical) Image Processing - Python
 
 * [Tarandeep Singh Kalra](https://github.com/tarankalra)  
-  Computational Fluid Dynamics, Applied Aerodynamics, Ocean Modeling - Fortran, Python, C
+  Computational Fluid Dynamics - Applied Aerodynamics - Ocean Modeling - Fortran - Python - C
   
 * [Philipp Boersch-Supan](https://github.com/pboesu)  
-  Ecology, Biological Oceanography, Biogeography - R
+  Ecology - Biological Oceanography - Biogeography - R
 
 * [Ben Marwick](https://github.com/benmarwick)  
-  Archaeology, Geosciences, Social sciences - R 
+  Archaeology - Geosciences - Social sciences - R 
 
 * [Emmanuel Hadoux](https://github.com/ehadoux)  
-  Decision Theory, Markov Models, Argumentation (Artificial Intelligence) -
-  C++, Java, Ruby
+  Decision Theory - Markov Models - Argumentation (Artificial Intelligence) -
+  C++ - Java - Ruby
 
 * [Dmitrii Pasechnik](https://github.com/dimpase)  
-  Algebra and Geometry, Combinatorics, Graphs, Optimization - C, Python, Computer Algebra Systems
+  Algebra and Geometry - Combinatorics - Graphs - Optimization - C - Python - Computer Algebra Systems
 
 * [Niranj Chandrasekaran](https://github.com/niranjchandrasekaran)  
-  Molecular Biophysics - Python, Perl
+  Molecular Biophysics - Python - Perl
 
 * [Fabien C. Y. Benureau](https://github.com/benureau)  
-  Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
+  Machine Learning - Robotics - Computational Neuroscience - Python, Julia, Go
 
 * [Damien Drix](https://github.com/damiendr)  
-  Computational Neuroscience, Machine Learning - Julia, Python
+  Computational Neuroscience - Machine Learning - Julia, Python
   
 * [Adam Tomkins](https://github.com/AdamRTomkins)  
-  Computational Neuroscience - Python, Matlab, JavaScript, CUDA
+  Computational Neuroscience - Python - Matlab - JavaScript - CUDA
 
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
-  Evolutionary biology - R, C/C++, python
+  Evolutionary biology - R - C/C++ - python
 
 * [Anne Urai](https://github.com/anne-urai)  
-  Cognitive neuroscience, decision-making, vision science - Matlab, Python, R
+  Cognitive neuroscience - decision-making - vision science - Matlab - Python - R
   
 * [Vamsi Spandan](https://github.com/nadnaps)  
-  Computational Fluid Dynamics, High performance computing - Fortran, Python
+  Computational Fluid Dynamics - High performance computing - Fortran - Python
