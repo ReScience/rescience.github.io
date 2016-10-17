@@ -214,3 +214,6 @@ accepts submissions in other open source languages.
   
 * [Vamsi Spandan](https://github.com/nadnaps)  
   Computational Fluid Dynamics - High performance computing - Fortran - Python
+
+* [Christopher B. Cole](https://github.com/Chris1221)  
+  Statistical Genetics - R - Matlab - Python - C++
