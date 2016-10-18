@@ -25,13 +25,13 @@ modified. Don't hesitate to [join us](faq) and to [become a reviewer](https://gi
 ### Current activity
 
 Published articles: 6  
-Submitted articles awaiting review:	0  
-Articles currently under review:	3 ([#18], [#20], [#21])  
+Submitted articles awaiting review:	1 ([#22])  
+Articles currently under review:	2 ([#20], [#21])  
 **Replication rate: 100%**
 
-[#18]: https://github.com/ReScience/ReScience-submission/pull/18
 [#20]: https://github.com/ReScience/ReScience-submission/pull/20
 [#21]: https://github.com/ReScience/ReScience-submission/pull/21
+[#22]: https://github.com/ReScience/ReScience-submission/pull/22
 
 ## Latest News
 
