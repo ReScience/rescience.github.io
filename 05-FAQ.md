@@ -99,6 +99,20 @@ peers might pave the way for a future collaboration, or may give rise to new ide
 a result of the replication effort.
 
 
+## Can I suggest a replication?
+
+Yes. If you want to suggest an article for a replication, just
+[open a new issue](https://github.com/ReScience/call-for-replication/issues/new)
+in the [call for replication repository](https://github.com/ReScience/call-for-replication) and give the reference of the original
+article and possibly the reason you would like to see this article replicated
+(please refrain from suggesting your own work). Note that you're also
+encouraged to register as a reviewer such that you can review the replication
+you've been proposing if someone actually takes up the challenge.
+
+If you're looking for some challenge, you can also look at the
+[current list of suggestions](https://github.com/ReScience/call-for-replication/issues).
+
+
 ## If my submission is rejected, can I resubmit it?
 
 This depends on the reason your submission was rejected. If the
