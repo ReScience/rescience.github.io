@@ -17,73 +17,73 @@ accepts submissions in other open source languages.
 ## Editors-in-Chief
 
 * [Konrad Hinsen](https://github.com/khinsen)  
-  Molecular Biophysics - Python - C - Racket - Clojure
+  Molecular Biophysics - Python, C, Racket, Clojure
 
 * [Nicolas P. Rougier](https://github.com/rougier)
   [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)  
-  Computational Neuroscience - Computer Science - Python - C/C++
+  Computational Neuroscience, Computer Science - Python, C/C++
 
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)  
-  Computational Neuroscience - Python - C - Fortran  
+  Computational Neuroscience - Python, C, Fortran  
 
 * [Pierre de Buyl](https://github.com/pdebuyl)  
-  Computational Physics - Python - C - Fortran  
+  Computational Physics - Python, C, Fortran  
 
 * [Emmanuelle Gouillart](https://github.com/emmanuelle)
   [★](https://github.com/ReScience/ReScience-submission/pull/20)  
-  Physics - Image processing - Python
+  Physics, Image processing - Python
 
 * [C. Titus Brown](https://github.com/ctb)   
   Bioinformatics - Python
 
 * [Thomas Arildsen](https://github.com/ThomasA)  
-  Signal Processing - Python - Matlab
+  Signal Processing - Python, Matlab
 
 * [Timothée Poisot](http://github.com/tpoisot)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/15)  
-  Computational Ecology - Python - R - Julia
+  Computational Ecology - Python, R, Julia
 
 * [Karthik Ram](https://github.com/karthik)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)  
-  Ecology - Data Science - R
+  Ecology - Data Science, R
 
 * [Olivia Guest](https://github.com/oliviaguest)
   [★](https://github.com/ReScience/ReScience-submission/pull/21)  
-  Computational Cognitive Neuroscience - Cognitive Modelling - Python - C
+  Computational Cognitive Neuroscience - Cognitive Modelling - Python, C
 
 
 ## Reviewers
 
 * [Benoît Girard](https://github.com/benoit-girard)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience - Robotics - Python - C  
+  Computational Neuroscience - Robotics - Python, C
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience - Robotics - Python - C/C++ - Matlab  
+  Computational Neuroscience - Robotics - Python, C/C++, Matlab
 
 * [Cyrille Rossant](https://github.com/rossant)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
-  Neurophysiological Data Analysis - Python - C
+  Neurophysiological Data Analysis - Python, C
 
 * [Georgios Detorakis](https://github.com/gdetor)
   [★](https://github.com/ReScience/ReScience-submission/pull/14)  
-  Computational Neuroscience - Signal Processing - Python - C - Matlab - Fortran
+  Computational Neuroscience - Signal Processing - Python, C, Matlab, Fortran
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
-  Econometrics - Statistics - Data Science - R - C/C++
+  Econometrics, Statistics, Data Science - R, C/C++
 
 * [Federico Vaggi](https://github.com/FedericoV) [★](https://github.com/ReScience/ReScience-submission/pull/15)  
-  Systems Biology - Python - Matlab - C
+  Systems Biology - Python, Matlab, C
 
 * [Ozan Çağlayan](https://github.com/ozancaglayan) [★](https://github.com/ReScience/ReScience-submission/pull/20)  
-  Signal Processing - Neural Networks - Python - C/C++ - R
+  Signal Processing, Neural Networks - Python, C/C++, R
 
 * [Jan Hermann](https://github.com/azag0)  
-  Computational Chemistry - Material Physics - Fortran - Python
+  Computational Chemistry, Material Physics - Fortran, Python
 
 * [Gökcen Eraslan](https://github.com/gokceneraslan)  
   Computational Biology - Python - C - R
@@ -93,30 +93,30 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Python
 
 * [Marc André Delsuc](https://github.com/delsuc/)  
-  Biophysics - NMR spectroscopy - Python
+  Biophysics, NMR spectroscopy - Python
 
 * [Vibhor Kumar](https://github.com/veezbo)  
-  Computational Neuroscience - C/C++ - Java - Python
+  Computational Neuroscience - C/C++, Java, Python
 
 * [Yoav Ram](https://github.com/yoavram)
   [★](https://github.com/ReScience/ReScience-submission/pull/15)  
-  Evolutionary Biology - Population Genetics - Python - R
+  Evolutionary Biology, Population Genetics - Python, R
 
 * [Leonardo Uieda](https://github.com/leouieda)  
-  Geophysics - C - Python
+  Geophysics - C, Python
 
 * [Hans Ekkehard Plesser](https://github.com/heplesser) 
   [★](https://github.com/ReScience/ReScience-submission/pull/17)  
-  Computational Neuroscience - Stochastic Processes - Python - C++
+  Computational Neuroscience, Stochastic Processes - Python, C++
 
 * [Etienne Roesch](https://github.com/eroesch) [★](https://github.com/ReScience/ReScience-submission/pull/21)  
-  Computational Neuroscience - Neuroimaging - Data Science - Python - C/C++ - Matlab - R
+  Computational Neuroscience, Neuroimaging, Data Science - Python, C/C++, Matlab, R
 
 * [Ilhan Polat](https://github.com/ilayn)  
-  Control Theory - Matlab - Python
+  Control Theory - Matlab, Python
 
 * [Pauline Barmby](https://github.com/PBarmby)  
-  Astrophysics - Python - R - C
+  Astrophysics - Python, R, C
 
 * [Dan McGlinn](https://github.com/dmcglinn)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)  
@@ -124,52 +124,52 @@ accepts submissions in other open source languages.
 
 * [Julien Vitay](https://github.com/vitay)
   [★](https://github.com/ReScience/ReScience-submission/pull/14)  
-  Computational Neuroscience - Python - C++
+  Computational Neuroscience - Python, C++
 
 * [Hrvoje Stojic](https://github.com/hstojic)  
-  Learning and Decision Making - Cognitive Modelling - R - Python
+  Learning and Decision Making, Cognitive Modelling - R, Python
 
 * [Owen Petchey](https://github.com/opetchey)  
   Ecology - R
 
 * [Xavier Hinaut](https://github.com/neuronalX)
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
-  Computational Neuroscience - Machine Learning - Python - Matlab - Java - C
+  Computational Neuroscience, Machine Learning - Python, Matlab, Java, C
 
 * [Marcel Stimberg](https://github.com/mstimberg)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
-  Computational Neuroscience - Python - C/C++
+  Computational Neuroscience - Python, C/C++
 
 * [Markus Pfeiffer](https://github.com/markuspf)  
-  Discrete Mathematics - GAP - C - Haskell - Python - Idris
+  Discrete Mathematics - GAP, C, Haskell, Python, Idris
   
 * [Simon van Heeringen](https://github.com/simonvh)  
-  Computational Biology - Epigenomics - Regulatory Motif Analysis - Python
+  Computational Biology, Epigenomics, Regulatory Motif Analysis - Python
   
 * [Dominique Geffroy](https://github.com/dombrno)  
-   Condensed Matter Physics - Financial Derivatives - Python - C++
+   Condensed Matter Physics, Financial Derivatives - Python, C++
 
 * [Joseph Stachelek](http://www.github.com/jsta)  
-  Ecology - R - Python
+  Ecology - R, Python
   
 * [Serge Stinckwich](https://github.com/SergeStinckwich)  
-  Agent-based Modelling - Computational Epidemiology - C - Python - Pharo
+  Agent-based Modelling, Computational Epidemiology - C, Python, Pharo
 
 * [Daniel Nüst](https://github.com/nuest)  
-  Geoprocessing - Sensor Web - Geocomputation - Java - R
+  Geoprocessing, Sensor Web, Geocomputation - Java, R
   
 * [Pierre Enel](https://github.com/piero-le-fou)
   [★](https://github.com/ReScience/ReScience-submission/pull/19)  
-  Neurophysiology - Computational Neuroscience - Python - Matlab - C
+  Neurophysiology, Computational Neuroscience - Python, Matlab, C
 
 * [Cesar B. Rocha](https://github.com/crocha700)  
-  Physical Oceanography and Geophysical Fluid Dynamics - Python - C - Fortran
+  Physical Oceanography, Geophysical Fluid Dynamics - Python, C, Fortran
 
 * [Kevin Mattheus Moerman](https://github.com/Kevin-Mattheus-Moerman)  
-  Computational Soft Tissue Biomechanics - Image-based Modelling - Octave - MATLAB
+  Computational Soft Tissue Biomechanics, Image-based Modelling - Octave, Matlab
 
 * [David Garcia](https://github.com/dgarcia-eu)  
-  Computational Social Science - R - Python
+  Computational Social Science - R, Python
 
 * [Olivier Grisel](https://github.com/ogrisel)
   [★](https://github.com/ReScience/ReScience-submission/pull/20)  
@@ -179,41 +179,48 @@ accepts submissions in other open source languages.
   (Medical) Image Processing - Python
 
 * [Tarandeep Singh Kalra](https://github.com/tarankalra)  
-  Computational Fluid Dynamics - Applied Aerodynamics - Ocean Modeling - Fortran - Python - C
+  Computational Fluid Dynamics, Applied Aerodynamics, Ocean Modeling - Fortran, Python, C
   
 * [Philipp Boersch-Supan](https://github.com/pboesu)  
-  Ecology - Biological Oceanography - Biogeography - R
+  Ecology, Biological Oceanography, Biogeography - R
 
 * [Ben Marwick](https://github.com/benmarwick)  
-  Archaeology - Geosciences - Social sciences - R 
+  Archaeology, Geosciences, Social sciences - R 
 
 * [Emmanuel Hadoux](https://github.com/ehadoux)  
-  Decision Theory - Markov Models - Argumentation (Artificial Intelligence) -
-  C++ - Java - Ruby
+  Decision Theory, Markov Models, Argumentation (Artificial Intelligence) -
+  C++, Java, Ruby
 
 * [Dmitrii Pasechnik](https://github.com/dimpase)  
-  Algebra and Geometry - Combinatorics - Graphs - Optimization - C - Python - Computer Algebra Systems
+  Algebra and Geometry, Combinatorics, Graphs, Optimization - C, Python, Computer Algebra Systems
 
 * [Niranj Chandrasekaran](https://github.com/niranjchandrasekaran)  
-  Molecular Biophysics - Python - Perl
+  Molecular Biophysics - Python, Perl
 
 * [Fabien C. Y. Benureau](https://github.com/benureau)  
-  Machine Learning - Robotics - Computational Neuroscience - Python, Julia, Go
+  Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
 
 * [Damien Drix](https://github.com/damiendr)  
-  Computational Neuroscience - Machine Learning - Julia, Python
+  Computational Neuroscience, Machine Learning - Julia, Python
   
 * [Adam Tomkins](https://github.com/AdamRTomkins)  
-  Computational Neuroscience - Python - Matlab - JavaScript - CUDA
+  Computational Neuroscience - Python, Matlab, JavaScript, CUDA
 
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
-  Evolutionary biology - R - C/C++ - python
+  Evolutionary biology - R, C/C++, python
 
 * [Anne Urai](https://github.com/anne-urai)  
-  Cognitive neuroscience - decision-making - vision science - Matlab - Python - R
+  Cognitive neuroscience, Decision Making, Vision Science - Matlab, Python, R
   
 * [Vamsi Spandan](https://github.com/nadnaps)  
-  Computational Fluid Dynamics - High performance computing - Fortran - Python
+  Computational Fluid Dynamics, High Performance Computing - Fortran, Python
 
 * [Christopher B. Cole](https://github.com/Chris1221)  
-  Statistical Genetics - R - Matlab - Python - C++
+  Statistical Genetics - R, Matlab, Python, C++
+
+* [Qihong Lu](https://github.com/qihongl)  
+  Cognitive Psychology, Neuroimaging, Neural Networks - Python, Matlab, R
+  
+* [Emmanuel Noutahi](https://github.com/maclandrol)  
+  Computational Biology, Evolutionary biology - Python, Java, Matlab, JavaScript
+
