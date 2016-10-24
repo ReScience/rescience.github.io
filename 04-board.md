@@ -224,3 +224,5 @@ accepts submissions in other open source languages.
 * [Emmanuel Noutahi](https://github.com/maclandrol)  
   Computational Biology, Evolutionary biology - Python, Java, Matlab, JavaScript
 
+* [Francisco Pina-Martins](https://github.com/StuntsPT)  
+  Bioinformatics, Evolutionary Biology, Population Genetics/Genomics - Python
