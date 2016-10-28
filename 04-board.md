@@ -26,7 +26,7 @@ accepts submissions in other open source languages.
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)  
   Computational Neuroscience - Python, C, Fortran  
 
 * [Pierre de Buyl](https://github.com/pdebuyl)  
@@ -200,7 +200,8 @@ accepts submissions in other open source languages.
 * [Fabien C. Y. Benureau](https://github.com/benureau)  
   Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
 
-* [Damien Drix](https://github.com/damiendr)  
+* [Damien Drix](https://github.com/damiendr)
+  [★](https://github.com/ReScience/ReScience-submission/pull/22)  
   Computational Neuroscience, Machine Learning - Julia, Python
   
 * [Adam Tomkins](https://github.com/AdamRTomkins)  
