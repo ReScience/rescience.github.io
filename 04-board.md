@@ -20,7 +20,7 @@ accepts submissions in other open source languages.
   Molecular Biophysics - Python, C, Racket, Clojure
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)  
   Computational Neuroscience, Computer Science - Python, C/C++
 
 ## Associate Editors
@@ -54,7 +54,9 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/21)  
   Computational Cognitive Neuroscience - Cognitive Modelling - Python, C
 
-
+* [Lorena Barba](https://github.com/labarba)  
+  Computational Fluid Dynamics, High-Performance Computing, Biophysics - Python, CUDA
+  
 ## Reviewers
 
 * [Benoît Girard](https://github.com/benoit-girard)
