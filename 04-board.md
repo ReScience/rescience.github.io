@@ -230,5 +230,5 @@ accepts submissions in other open source languages.
 * [Francisco Pina-Martins](https://github.com/StuntsPT)  
   Bioinformatics, Evolutionary Biology, Population Genetics/Genomics - Python
 
-* [Kyle Niemeyer](https://github.com/kyleniemeyer)
+* [Kyle Niemeyer](https://github.com/kyleniemeyer)  
   Combustion, Chemical Kinetics, Computational Fluid Dynamics, HPC - Python, Fortran, CUDA, Matlab
