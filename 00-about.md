@@ -52,7 +52,9 @@ Here is a (very limited) list of publications on the problem of replicability in
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)  
 Greg Wilson , D. A. Aruliah, **C. Titus Brown**, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, Paul Wilson, PLOS Biology, 2014.
 
-* [Hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142), **Lorena A. Barba**, Science, Vol. 354, Issue 6308, 2016. See also[Barba group reproducibility syllabus](https://medium.com/@lorenaabarba/barba-group-reproducibility-syllabus-e3757ee635cf#.h603izuwo)
+* [Hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142)  
+**Lorena A. Barba**, Science, Vol. 354, Issue 6308, 2016.  
+See also [Barba group reproducibility syllabus](https://medium.com/@lorenaabarba/barba-group-reproducibility-syllabus-e3757ee635cf#.h603izuwo)
 
 * [Learning from the Past: Approaches for Reproducibility in Computational Neuroscience](http://link.springer.com/chapter/10.1007%2F978-1-4614-1424-7_4)  
 S.M. Crook, **A.P. Davison**, H.E. Plesser, 20 Years of Computational Neuroscience, 2013  
