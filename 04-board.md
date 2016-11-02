@@ -52,7 +52,7 @@ accepts submissions in other open source languages.
 
 * [Olivia Guest](https://github.com/oliviaguest)
   [★](https://github.com/ReScience/ReScience-submission/pull/21)  
-  Computational Cognitive Neuroscience - Cognitive Modelling - Python, C
+  Computational Cognitive Neuroscience, Cognitive Modelling - Python, C
 
 * [Lorena Barba](https://github.com/labarba)  
   Computational Fluid Dynamics, High-Performance Computing, Biophysics - Python, CUDA
@@ -61,11 +61,11 @@ accepts submissions in other open source languages.
 
 * [Benoît Girard](https://github.com/benoit-girard)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience - Robotics - Python, C
+  Computational Neuroscience, Robotics - Python, C
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience - Robotics - Python, C/C++, Matlab
+  Computational Neuroscience, Robotics - Python, C/C++, Matlab
 
 * [Cyrille Rossant](https://github.com/rossant)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
@@ -73,7 +73,7 @@ accepts submissions in other open source languages.
 
 * [Georgios Detorakis](https://github.com/gdetor)
   [★](https://github.com/ReScience/ReScience-submission/pull/14)  
-  Computational Neuroscience - Signal Processing - Python, C, Matlab, Fortran
+  Computational Neuroscience, Signal Processing - Python, C, Matlab, Fortran
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
   Econometrics, Statistics, Data Science - R, C/C++
@@ -88,7 +88,7 @@ accepts submissions in other open source languages.
   Computational Chemistry, Material Physics - Fortran, Python
 
 * [Gökcen Eraslan](https://github.com/gokceneraslan)  
-  Computational Biology - Python - C - R
+  Computational Biology - Python, C, R
 
 * [Andrew Davison](https://github.com/apdavison) 
   [★](https://github.com/ReScience/ReScience-submission/pull/17)  
