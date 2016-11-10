@@ -72,7 +72,7 @@ accepts submissions in other open source languages.
   Neurophysiological Data Analysis - Python, C
 
 * [Georgios Detorakis](https://github.com/gdetor)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/24)  
   Computational Neuroscience, Signal Processing - Python, C, Matlab, Fortran
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
@@ -199,7 +199,7 @@ accepts submissions in other open source languages.
 * [Niranj Chandrasekaran](https://github.com/niranjchandrasekaran)  
   Molecular Biophysics - Python, Perl
 
-* [Fabien C. Y. Benureau](https://github.com/benureau)  
+* [Fabien C. Y. Benureau](https://github.com/benureau) [★](https://github.com/ReScience/ReScience-submission/pull/24)  
   Machine Learning, Robotics, Computational Neuroscience - Python, Julia, Go
 
 * [Damien Drix](https://github.com/damiendr)
