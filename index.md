@@ -25,7 +25,7 @@ modified. Don't hesitate to [join us](faq) and to [become a reviewer](https://gi
 ### Current activity
 
 Published articles: 7  
-Submitted articles awaiting review:	0  
+Submitted articles awaiting review: 0  
 Articles currently under review:	4 ([#20], [#21], [#22], [#24])  
 **Replication rate: 100%**
 
