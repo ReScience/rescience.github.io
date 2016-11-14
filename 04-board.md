@@ -60,7 +60,7 @@ accepts submissions in other open source languages.
 ## Reviewers
 
 * [Benoît Girard](https://github.com/benoit-girard)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)  
   Computational Neuroscience, Robotics - Python, C
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
