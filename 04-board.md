@@ -232,3 +232,6 @@ accepts submissions in other open source languages.
 
 * [Kyle Niemeyer](https://github.com/kyleniemeyer)  
   Combustion, Chemical Kinetics, Computational Fluid Dynamics, HPC - Python, Fortran, CUDA, Matlab
+
+* [Aaron Shifman](https://github.com/aaronshifman)  
+  Computational Biology - Python, Matlab/Octave, Javascript
