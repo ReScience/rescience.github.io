@@ -235,3 +235,6 @@ accepts submissions in other open source languages.
 
 * [Aaron Shifman](https://github.com/aaronshifman)  
   Computational Biology - Python, Matlab/Octave, Javascript
+
+* [Roman Yurchak](https://github.com/rth)  
+  Signal Processing, Information Retrieval - Python, C
