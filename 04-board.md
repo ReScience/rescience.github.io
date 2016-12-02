@@ -29,7 +29,8 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)  
   Computational Neuroscience - Python, C, Fortran  
 
-* [Pierre de Buyl](https://github.com/pdebuyl)  
+* [Pierre de Buyl](https://github.com/pdebuyl)
+  [★](https://github.com/ReScience/ReScience-submission/pull/25)  
   Computational Physics - Python, C, Fortran  
 
 * [Emmanuelle Gouillart](https://github.com/emmanuelle)
