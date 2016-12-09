@@ -127,7 +127,7 @@ that are listed here:
     convention "Author(s)-YEAR"
   * Add a new remote (named `rescience) in your local copy of the repository
     that points to the newly imported repository (the one on
-    [ReScience-Archives]((https://github.com/ReScience-Archives)))
+    [ReScience-Archives](https://github.com/ReScience-Archives))
   * Update article metadata:
     - Editor name
     - Reviewer 1 name
