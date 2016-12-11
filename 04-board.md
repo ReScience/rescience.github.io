@@ -239,3 +239,7 @@ accepts submissions in other open source languages.
 
 * [Roman Yurchak](https://github.com/rth)  
   Signal Processing, Information Retrieval - Python, C
+
+* [Matt Hall](https://github.com/soolijoo)
+  [★](https://github.com/ReScience/ReScience-submission/pull/25)  
+  Diffusion Imaging and Simulation - Java, Python, C++.
