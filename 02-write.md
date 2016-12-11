@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WRITE
+menutitle: WRITE
 permalink: /write/
 ---
 

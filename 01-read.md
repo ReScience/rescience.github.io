@@ -1,6 +1,6 @@
 ---
 layout: read
-title: READ
+menutitle: READ
 permalink: /read/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+menutitle: FAQ
 permalink: /faq/
 ---
 

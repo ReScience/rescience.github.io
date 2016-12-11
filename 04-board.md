@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BOARD
+menutitle: BOARD
 permalink: /board/
 ---
 

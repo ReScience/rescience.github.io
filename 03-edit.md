@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDIT
+menutitle: EDIT
 permalink: /edit/
 ---
 
