@@ -152,8 +152,8 @@ that are listed here:
   * Upload this zip file to [Zenodo](https://zenodo.org/deposit/?c=rescience).
     You will have to fill several fields:
     - Name of the journal is ReScience
-    - Don't forget to add the editor (you) in the field (see add author)
-    - Editor has no affiliation displayed
+    - Under "Communities" add "ReScience journal" 
+    - Under "Contributors" add yourself with role "Editor".
     - Don't forget keywords
   
   * Add the `04-Published` label onto th PR
