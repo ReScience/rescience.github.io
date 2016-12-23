@@ -243,3 +243,6 @@ accepts submissions in other open source languages.
 * [Matt Hall](https://github.com/soolijoo)
   [★](https://github.com/ReScience/ReScience-submission/pull/25)  
   Diffusion Imaging and Simulation - Java, Python, C++.
+
+* [Christoph Metzner](https://github.com/ChristophMetzner)  
+   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++
