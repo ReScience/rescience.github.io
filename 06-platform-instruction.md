@@ -17,6 +17,7 @@ random number generator, etc).
 
 For Python, NumPy, SciPy and matplotlib (common Python dependencies), the
 following script will provide detailed information on your platform.
+
 ```py
 from __future__ import print_function
 import sys
@@ -71,7 +72,8 @@ your project and feel free to contact ReScience via the GitHub issues or Twitter
 further assistance.
 
 Platform information:
-```sh
+
+```
 uname -mosv
 ```
 
@@ -80,7 +82,7 @@ Linux #1 SMP Debian 3.16.7-ckt9-3 (2015-04-23) x86_64 GNU/Linux
 ```
 
 Hardware information:
-```sh
+```
 grep -E '(^model name|^vendor_id|^flags)' /proc/cpuinfo  | sort | uniq
 ```
 
@@ -91,7 +93,7 @@ vendor_id       : GenuineIntel
 ```
 
 Compiler information for C:
-```sh
+```
 gcc --version
 ```
 
