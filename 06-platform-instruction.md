@@ -20,17 +20,29 @@ following script will provide detailed information on your platform.
 ```py
 from __future__ import print_function
 import sys
-import numpy as np
-import scipy
-import matplotlib
 import platform
 
 print("Platform:", sys.platform)
 print("Python:", sys.version)
 print("Machine and architecture", platform.machine(), *platform.architecture())
-print("NumPy:", np.version.version)
-print("SciPy:", scipy.version.version)
-print("matplotlib:", matplotlib.__version__)
+
+try:
+    import numpy as np
+    print("NumPy:", np.version.version)
+except:
+    pass
+
+try:
+    import scipy
+    print("SciPy:", scipy.version.version)
+except:
+    pass
+
+try:
+    import matplotlib
+    print("matplotlib:", matplotlib.__version__)
+except:
+    pass
 ```
 
 The output, for instance
@@ -45,8 +57,9 @@ SciPy: 0.18.1
 matplotlib: 2.0.0
 ```
 
-The version of any library that is not part of Python's standard library should also be
-given.
+Note that the versions of NumPy, SciPy and matplotlib should be given if they are used only
+and that the version of any other library that is not part of Python's standard library
+should also be given.
 
 ## Version information for compiled languages
 
