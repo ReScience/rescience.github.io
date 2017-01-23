@@ -1,6 +1,5 @@
 ---
 layout: page
-menutitle: PLATFORM 
 permalink: /platform/
 ---
 
