@@ -25,15 +25,14 @@ to [become a reviewer](https://github.com/ReScience/ReScience/issues/27).
 
 ### Current activity
 
-Published articles: 8  
+Published articles: 9  
 Submitted articles awaiting review: 0  
-Articles currently under review:	4 ([#20], [#22], [#24], [#25])  
+Articles currently under review:	2 ([#20], [#24])  
 **Replication rate: 100%**
 
 [#20]: https://github.com/ReScience/ReScience-submission/pull/20
-[#22]: https://github.com/ReScience/ReScience-submission/pull/22
 [#24]: https://github.com/ReScience/ReScience-submission/pull/24
-[#25]: https://github.com/ReScience/ReScience-submission/pull/24
+
 
 ## Latest News
 
