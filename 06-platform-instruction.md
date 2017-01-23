@@ -66,6 +66,10 @@ should also be given.
 For compiled languages, the important information consists in the platform, the
 compiler, its version, and the compiler flags.
 
+We provide below an example for the C language on Unix-like platforms. Modify it to suit
+your project and feel free to contact ReScience via the GitHub issues or Twitter if you need
+further assistance.
+
 Platform information:
 ```sh
 uname -mosv
@@ -100,4 +104,3 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 with compilation flags ```-O3 -std=c99```.
 
-The information is similar for C++, Fortran, etc.
