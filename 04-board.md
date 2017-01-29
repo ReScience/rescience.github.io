@@ -245,4 +245,7 @@ accepts submissions in other open source languages.
   Diffusion Imaging and Simulation - Java, Python, C++.
 
 * [Christoph Metzner](https://github.com/ChristophMetzner)  
-   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++
+  Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++
+
+* [Stephan Grein](https://github.com/stephanmg)  
+  Computational Neuroscience on HPC platforms, Numerics - Java, C++, Lua, Python, Matlab, R, Bash
