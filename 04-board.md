@@ -248,4 +248,10 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++
 
 * [Stephan Grein](https://github.com/stephanmg)  
-  Computational Neuroscience on HPC platforms, Numerics - Java, C++, Lua, Python, Matlab, R, Bash
+  Computational Neuroscience, HPC platforms, Numerics - Java, C++, Lua, Python, Matlab, R
+
+* [Patricio Reyes](https://github.com/pareyesv)  
+  Operations Research - Python, R
+
+* [Pietro Marchesi](https://github.com/pietromarchesi)  
+  Computational Neuroscience, Information Theory - Python
