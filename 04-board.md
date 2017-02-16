@@ -255,3 +255,7 @@ accepts submissions in other open source languages.
 
 * [Pietro Marchesi](https://github.com/pietromarchesi)  
   Computational Neuroscience, Information Theory - Python
+
+* [Arnaud Legrand](https://github.com/alegrand/)  
+  Parallel Distributed HPC, Optimization, Performance Evaluation, Simulation - C, R, Shell, Perl, Python  
+  ORCID: [0000-0002-8415-1046](http://orcid.org/0000-0002-8415-1046)
