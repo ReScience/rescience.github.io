@@ -259,3 +259,7 @@ accepts submissions in other open source languages.
 * [Arnaud Legrand](https://github.com/alegrand/)  
   Parallel Distributed HPC, Optimization, Evaluation, Simulation - C, R, Shell, Perl, Python  
   ORCID: [0000-0002-8415-1046](http://orcid.org/0000-0002-8415-1046)
+
+* [Ryan B. Harvey](https://github.com/nihonjinrxs)
+  Comp. Harmonic Analysis, Data Science/Engineering - R, Python, SQL, Bash/Shell, Java  
+  ORCID Number: [0000-0002-0821-7605](https://orcid.org/0000-0002-0821-7605)
