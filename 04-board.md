@@ -122,10 +122,6 @@ accepts submissions in other open source languages.
   Biophysics, NMR spectroscopy - Python  
   ORCID: [0000-0002-1400-5326](http://orcid.org/0000-0002-1400-5326)
 
-* [Vibhor Kumar](https://github.com/veezbo)  
-  Computational Neuroscience - C/C++, Java, Python  
-  ORCID: [---](http://orcid.org/)
-
 * [Yoav Ram](https://github.com/yoavram)
   [★](https://github.com/ReScience/ReScience-submission/pull/15)  
   Evolutionary Biology, Population Genetics - Python, R  
@@ -142,7 +138,7 @@ accepts submissions in other open source languages.
 
 * [Etienne Roesch](https://github.com/eroesch) [★](https://github.com/ReScience/ReScience-submission/pull/21)  
   Computational Neuroscience, Neuroimaging, Data Science - Python, C/C++, Matlab, R  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0002-8913-4173](http://orcid.org/0000-0002-8913-4173)
 
 * [Ilhan Polat](https://github.com/ilayn)  
   Control Theory - Matlab, Python  
