@@ -79,7 +79,9 @@ accepts submissions in other open source languages.
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience, Robotics - Python, C/C++, Matlab
+  Computational Neuroscience, Robotics - Python, C/C++, Matlab  
+  ORCID: [0000-0002-2515-1046](http://orcid.org/0000-0002-2515-1046)
+
 
 * [Cyrille Rossant](https://github.com/rossant)
   [★](https://github.com/ReScience/ReScience-submission/pull/18)  
@@ -184,7 +186,7 @@ accepts submissions in other open source languages.
   
 * [Simon van Heeringen](https://github.com/simonvh)  
   Computational Biology, Epigenomics, Regulatory Motif Analysis - Python  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0002-0411-3219](http://orcid.org/0000-0002-0411-3219)
   
 * [Dominique Geffroy](https://github.com/dombrno)  
   Condensed Matter Physics, Financial Derivatives - Python, C++  
@@ -226,7 +228,7 @@ accepts submissions in other open source languages.
 
 * [Almar Klein](http://github.com/almarklein)  
   (Medical) Image Processing - Python  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0002-9978-2780](http://orcid.org/0000-0002-9978-2780)
 
 * [Tarandeep Singh Kalra](https://github.com/tarankalra)  
   Computational Fluid Dynamics, Applied Aerodynamics, Ocean Modeling - Fortran, Python, C  
@@ -314,11 +316,11 @@ accepts submissions in other open source languages.
 
 * [Christoph Metzner](https://github.com/ChristophMetzner)  
   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0002-5933-2101](http://orcid.org/0000-0002-5933-2101)
 
 * [Stephan Grein](https://github.com/stephanmg)  
   Computational Neuroscience, HPC platforms, Numerics - Java, C++, Lua, Python, Matlab, R  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0001-9524-6633](http://orcid.org/0000-0001-9524-6633)
 
 * [Patricio Reyes](https://github.com/pareyesv)  
   Operations Research - Python, R  
@@ -327,6 +329,10 @@ accepts submissions in other open source languages.
 * [Pietro Marchesi](https://github.com/pietromarchesi)  
   Computational Neuroscience, Information Theory - Python  
   ORCID: [---](http://orcid.org/)
+
+* [Joshua Pritikin](https://github.com/jpritikin)  
+  Quantitative Psychology - R, C/C++, Stan, Coffeescript, Python, Perl, Bash  
+  ORCID: [0000-0002-9862-5484](http://orcid.org/0000-0002-9862-5484)
 
 * [Arnaud Legrand](https://github.com/alegrand/)  
   Parallel Distributed HPC, Optimization, Evaluation, Simulation - C, R, Shell, Perl, Python  
