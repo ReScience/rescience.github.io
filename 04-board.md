@@ -47,7 +47,8 @@ accepts submissions in other open source languages.
   Bioinformatics - Python  
   ORCID: [---](http://orcid.org/)
 
-* [Thomas Arildsen](https://github.com/ThomasA)  
+* [Thomas Arildsen](https://github.com/ThomasA)
+  [★](https://github.com/ReScience/ReScience-submission/pull/28)  
   Signal Processing - Python, Matlab  
   ORCID: [orcid.org/0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)
 
@@ -222,7 +223,8 @@ accepts submissions in other open source languages.
   Machine Learning - Python  
   ORCID: [---](http://orcid.org/)
 
-* [Almar Klein](http://github.com/almarklein)  
+* [Almar Klein](http://github.com/almarklein)
+  [★](https://github.com/ReScience/ReScience-submission/pull/28)  
   (Medical) Image Processing - Python  
   ORCID: [0000-0002-9978-2780](http://orcid.org/0000-0002-9978-2780)
 
@@ -301,7 +303,8 @@ accepts submissions in other open source languages.
   Computational Biology - Python, Matlab/Octave, Javascript  
   ORCID: [0000-0003-2140-7590](orcid.org/0000-0003-2140-7590)
 
-* [Roman Yurchak](https://github.com/rth)  
+* [Roman Yurchak](https://github.com/rth)
+  [★](https://github.com/ReScience/ReScience-submission/pull/28)  
   Signal Processing, Information Retrieval - Python, C  
   ORCID: [---](http://orcid.org/)
 
@@ -337,3 +340,8 @@ accepts submissions in other open source languages.
 * [Ryan B. Harvey](https://github.com/nihonjinrxs)  
   Comp. Harmonic Analysis, Data Science/Engineering - R, Python, SQL, Bash/Shell, Java  
   ORCID Number: [0000-0002-0821-7605](https://orcid.org/0000-0002-0821-7605)
+
+* [Anya Vostinar](https://github.com/anyaevostinar)
+  [★](https://github.com/ReScience/ReScience-submission/pull/27)  
+  Digital Evolution, Agent-based simulation - C++ (11, 14), Python, R  
+  ORCID Number: [0000-0001-7216-5283](https://orcid.org/0000-0001-7216-5283)
