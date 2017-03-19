@@ -60,7 +60,7 @@ accepts submissions in other open source languages.
 * [Karthik Ram](https://github.com/karthik)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)  
   Ecology - Data Science, R  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0002-0233-1757](http://orcid.org/0000-0002-0233-1757)
 
 * [Olivia Guest](https://github.com/oliviaguest)
   [★](https://github.com/ReScience/ReScience-submission/pull/21)  
