@@ -50,7 +50,7 @@ accepts submissions in other open source languages.
 * [Thomas Arildsen](https://github.com/ThomasA)
   [★](https://github.com/ReScience/ReScience-submission/pull/28)  
   Signal Processing - Python, Matlab  
-  ORCID: [orcid.org/0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)
+  ORCID: [0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)
 
 * [Timothée Poisot](http://github.com/tpoisot)
   [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/15)  
