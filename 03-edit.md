@@ -139,9 +139,8 @@ that are listed here:
     - Notebook repository (if necessary)
     - Data repository (if necessary)
     - Volume, issue and year
-    - Article number (**only** use the number provided by one of the
-      Editors-in-Chief in the submission issue).
-   
+    - Article number (after reserving the number in the [dedicated GitHub
+      issue](https://github.com/ReScience/ReScience/issues/48)).
   * If the article name is not `Author(s)-YEAR.md`, rename it
   * Rebuild the PDF and checks everything is ok
   * Merge the rescience branch into master
