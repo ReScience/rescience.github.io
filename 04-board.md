@@ -63,7 +63,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-0233-1757](http://orcid.org/0000-0002-0233-1757)
 
 * [Olivia Guest](https://github.com/oliviaguest)
-  [★](https://github.com/ReScience/ReScience-submission/pull/21)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/21)[★](https://github.com/ReScience/ReScience-submission/pull/30)  
   Computational Cognitive Neuroscience, Cognitive Modelling - Python, C  
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)
 
@@ -345,3 +345,7 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/27)  
   Digital Evolution, Agent-based simulation - C++ (11, 14), Python, R  
   ORCID Number: [0000-0001-7216-5283](https://orcid.org/0000-0001-7216-5283)
+
+* [Milad H. Mobarhan](https://github.com/miladh/)  
+  Computational Neuroscience - Python, C++  
+  ORCID Number: [0000-0003-1144-8794](https://orcid.org/0000-0003-1144-8794)
