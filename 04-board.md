@@ -299,7 +299,8 @@ accepts submissions in other open source languages.
   Combustion, Chemical Kinetics, Computational Fluid Dynamics, HPC - Python, Fortran, CUDA, Matlab  
   ORCID: [0000-0003-4425-7097](http://orcid.org/0000-0003-4425-7097)
 
-* [Aaron Shifman](https://github.com/aaronshifman)  
+* [Aaron Shifman](https://github.com/aaronshifman)
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
   Computational Biology - Python, Matlab/Octave, Javascript  
   ORCID: [0000-0003-2140-7590](orcid.org/0000-0003-2140-7590)
 
@@ -325,7 +326,8 @@ accepts submissions in other open source languages.
   Operations Research - Python, R  
   ORCID: [---](http://orcid.org/)
 
-* [Pietro Marchesi](https://github.com/pietromarchesi)  
+* [Pietro Marchesi](https://github.com/pietromarchesi)
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
   Computational Neuroscience, Information Theory - Python  
   ORCID: [---](http://orcid.org/)
 
