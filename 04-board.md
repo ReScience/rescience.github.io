@@ -46,8 +46,7 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Python, C, Fortran  
   ORCID: [---](http://orcid.org/)  
   <small>
-  [Bernstein Center for Computational Neuroscience](https://www.bccn-berlin.de/Home/)  
-  [Humboldt University](https://www.hu-berlin.de/en) —
+  [Freelance consultant](https://github.com/otizonaizit)  
   Berlin, Germany  
   </small>
   
@@ -57,7 +56,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-6640-6463](https://orcid.org/0000-0002-6640-6463)  
   <small>
   [Department of Physics and Astronomy](http://fys.kuleuven.be/english/)  
-  [Univerisyt of Leuven](http://www.kuleuven.be/english/) —
+  [University of Leuven](http://www.kuleuven.be/english/) —
   Leuven, Belgium  
   </small>
 
