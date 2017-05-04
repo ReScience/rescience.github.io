@@ -86,7 +86,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)  
   <small>
   [Department of Electronic Systems](http://www.es.aau.dk)  
-  [Aalborg Universtet](http://vbn.aau.dk) —
+  [Aalborg Universtet](http://www.aau.dk) —
   Aalborg, Danemark  
   </small>
 
