@@ -23,7 +23,7 @@ accepts submissions in other open source languages.
   [Centre de biophysique moléculaire](http://cbm.cnrs-orleans.fr)  
   Rue Charles Sadron - CS 80054  
   45071 Orléans Cedex 2, France  
-  **Email**: konrad dot hinsen at cnrs dash orleans dot fr  
+  **Email**: konrad dot hinsen at cnrs dot fr  
   </small>
 
 
