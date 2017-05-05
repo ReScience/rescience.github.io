@@ -410,3 +410,7 @@ accepts submissions in other open source languages.
 * [Milad H. Mobarhan](https://github.com/miladh/)  
   Computational Neuroscience - Python, C++  
   ORCID: [0000-0003-1144-8794](https://orcid.org/0000-0003-1144-8794)
+
+* [Max M. Losch](https://github.com/mlosch)  
+  Computational Visual Neuroscience, Machine Learning - Python, Matlab, Java, C/C++  
+  ORCID: [0000-0001-6525-4528](https://orcid.org/0000-0001-6525-4528)
