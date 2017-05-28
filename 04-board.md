@@ -414,3 +414,7 @@ accepts submissions in other open source languages.
 * [Max M. Losch](https://github.com/mlosch)  
   Computational Visual Neuroscience, Machine Learning - Python, Matlab, Java, C/C++  
   ORCID: [0000-0001-6525-4528](https://orcid.org/0000-0001-6525-4528)
+
+* [Alexandra K. Diem](https://github.com/akdiem)  
+  Vascular modelling, Neurovascular Coupling - Python, Matlab, C, Java, R, Bash  
+  ORCID: [0000-0003-1719-1942](https://orcid.org/0000-0003-1719-1942)
