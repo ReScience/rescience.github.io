@@ -418,3 +418,7 @@ accepts submissions in other open source languages.
 * [Alexandra K. Diem](https://github.com/akdiem)  
   Vascular modelling, Neurovascular Coupling - Python, Matlab, C, Java, R, Bash  
   ORCID: [0000-0003-1719-1942](https://orcid.org/0000-0003-1719-1942)
+
+* [Jaime Arias](https://github.com/himito)  
+  Formal Methods - Python, C/C++, VHDL, SystemVerilog  
+  ORCID Number: [0000-0003-3019-4902](https://orcid.org/0000-0003-3019-4902)
