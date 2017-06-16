@@ -325,11 +325,6 @@ accepts submissions in other open source languages.
   Computational Neuroscience, Machine Learning - Julia, Python  
   ORCID: [0000-0003-4107-5693](http://orcid.org/0000-0003-4107-5693)
   
-* [Adam Tomkins](https://github.com/AdamRTomkins)
-  [★](https://github.com/ReScience/ReScience-submission/pull/27)  
-  Computational Neuroscience - Python, Matlab, JavaScript, CUDA  
-  ORCID: [---](http://orcid.org/)
-
 * [Kamil S Jaron](https://github.com/KamilSJaron)  
   Evolutionary biology - R, C/C++, python  
   ORCID: [---](http://orcid.org/)
