@@ -429,8 +429,8 @@ accepts submissions in other open source languages.
 
 * [Dennis Goldschmidt](https://github.com/degoldschmidt)  
   Computational Neuroscience, Neurorobotics - Python, C/C++, Java, Octave  
-  ORCID Number: [0000-0002-0603-7176](https://orcid.org/0000-0002-0603-7176)
+  ORCID: [0000-0002-0603-7176](https://orcid.org/0000-0002-0603-7176)
   
 * [Aurélien Nioche](https://github.com/AurelienNioche)  
   Agent-based modelling - Python  
-  ORCID Number: [0000-0002-0567-2637](https://orcid.org/0000-0002-0567-2637)
+  ORCID: [0000-0002-0567-2637](https://orcid.org/0000-0002-0567-2637)
