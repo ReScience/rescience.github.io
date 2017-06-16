@@ -429,3 +429,7 @@ accepts submissions in other open source languages.
 * [Aurélien Nioche](https://github.com/AurelienNioche)  
   Agent-based modelling - Python  
   ORCID: [0000-0002-0567-2637](https://orcid.org/0000-0002-0567-2637)
+
+* [Bruno Sciolla](https://github.com/bsciolla)  
+  Deep learning, Image processing, Medical Imaging - Python, C++, Matlab  
+  ORCID: [0000-0002-7720-1455](https://orcid.org/0000-0002-7720-1455)
