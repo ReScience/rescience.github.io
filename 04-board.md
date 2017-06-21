@@ -433,3 +433,7 @@ accepts submissions in other open source languages.
 * [Bruno Sciolla](https://github.com/bsciolla)  
   Deep learning, Image processing, Medical Imaging - Python, C++, Matlab  
   ORCID: [0000-0002-7720-1455](https://orcid.org/0000-0002-7720-1455)
+
+* [Vahid Rostami](https://github.com/Vahidrostami)  
+  Computational Neuroscience, Statistical Neuroscience - Python  
+  ORCID: [0000-0002-3851-0220](orcid.org/0000-0002-3851-0220)
