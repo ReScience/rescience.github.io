@@ -225,7 +225,7 @@ accepts submissions in other open source languages.
   Learning and Decision Making, Cognitive Modelling - R, Python  
   ORCID: [---](http://orcid.org/)
 
-* [Owen Petchey](https://github.com/opetchey)  
+* [Owen L. Petchey](https://github.com/opetchey)  
   Ecology - R  
   ORCID: [0000-0002-7724-1633](http://orcid.org/0000-0002-7724-1633)
 
@@ -367,7 +367,7 @@ accepts submissions in other open source languages.
   Signal Processing, Information Retrieval - Python, C  
   ORCID: [0000-0002-2565-4444](http://orcid.org/0000-0002-2565-4444)
 
-* [Matt Hall](https://github.com/soolijoo)
+* [Matt G. Hall](https://github.com/soolijoo)
   [★](https://github.com/ReScience/ReScience-submission/pull/25)  
   Diffusion Imaging and Simulation - Java, Python, C++  
   ORCID: [0000-0002-9530-5477](http://orcid.org/0000-0002-9530-5477)
