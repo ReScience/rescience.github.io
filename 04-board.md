@@ -162,7 +162,7 @@ accepts submissions in other open source languages.
   Systems Biology - Python, Matlab, C  
   ORCID: [0000-0001-8100-158X](http://orcid.org/0000-0001-8100-158X)
 
-* [Ozan Çağlayan](https://github.com/ozancaglayan)
+* [Ozan Caglayan](https://github.com/ozancaglayan)
   [★](https://github.com/ReScience/ReScience-submission/pull/20)  
   Signal Processing, Neural Networks - Python, C/C++, R  
   ORCID: [0000-0002-5992-3470](https://orcid.org/0000-0002-5992-3470)
