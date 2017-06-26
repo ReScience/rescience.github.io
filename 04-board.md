@@ -129,13 +129,16 @@ accepts submissions in other open source languages.
   Washington, D.C., USA  
   </small>
 
-
-## Reviewers
-
 * [Benoît Girard](https://github.com/benoit-girard)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)  
   Computational Neuroscience, Robotics - Python, C  
   ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
+  <small>
+  [Institut des Systèmes Intelligents et de Robotiques](http://www.isir.upmc.fr)  
+  [Université Pierre et Marie Curie](http://www.upmc.fr) —  Paris, France  
+  </small>
+
+## Reviewers
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
