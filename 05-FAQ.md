@@ -38,13 +38,13 @@ Yes ! You can:
 There is no concensus yet on what exactly these two terms mean, so
 here is how we understand and use them.
 
-Replication of a computational study means running the same
+Reproduction of a computational study means running the same
 computation on the same input data, and then checking if the results
 are the same, or at least "close enough" when it comes to numerical
-approximations. Replication can be considered as software testing at
+approximations. Reproduction can be considered as software testing at
 the level of a complete study.
 
-Reproduction of a scientific study (computational or other) means
+Replication of a scientific study (computational or other) means
 repeating a published protocol, respecting its spirit and intentions
 but varying the technical details. For computational work, this would
 mean using different software, running a simulation from different
@@ -52,18 +52,23 @@ initial conditions, etc. The idea is to change something that everyone
 believes shouldn't matter, and see if the scientific conclusions are
 affected or not.
 
-Replication verifies that a computation was recorded with enough
-detail that it can be analyzed later or by someone else. Reproduction
+Reproduction verifies that a computation was recorded with enough
+detail that it can be analyzed later or by someone else. Replication
 explores which details matter for reaching a specific scientific
-conclusion. A reproduction attempt makes sense only if replication
-succeeds. Otherwise, if reproduction fails, you cannot trace back the
-differences in the results to the underlying code and data.
+conclusion. A replication attempt is most useful if reproducibility
+has already been verified. Otherwise, if replication fails, leads to
+different conclusions, you cannot trace back the differences in the
+results to the underlying code and data.
 
-In the ideal world, the replicability of computational studies would
+In the ideal world, the reproducibility of computational studies would
 be checked automatically before publication. In the real world, most
-published studies do not even claim to be replicable, because the code
-or the input data are not made public. Re**Science** publications
-supply the missing pieces, and thus restore replicability.
+published studies do not even claim to be reproducible, because the code
+or the input data are not made public. Given this situation,
+a Re**Science** publication provides two important services: by replicating
+the original work, it provides an independent implementation of the
+original computational protocol, and by making this new implementation
+public, it is reproducible and thus a safer basis for future research
+to build on.
 
 
 ## Are there any publication fees?
