@@ -328,9 +328,10 @@ accepts submissions in other open source languages.
   Computational Neuroscience, Machine Learning - Julia, Python  
   ORCID: [0000-0003-4107-5693](http://orcid.org/0000-0003-4107-5693)
   
-* [Kamil S Jaron](https://github.com/KamilSJaron)  
+* [Kamil S Jaron](https://github.com/KamilSJaron)
+  [★](https://github.com/ReScience/ReScience-submission/pull/27)  
   Evolutionary biology - R, C/C++, python  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0003-1470-5450](http://orcid.org/0000-0003-1470-5450)
 
 * [Anne Urai](https://github.com/anne-urai)  
   Cognitive neuroscience, Decision Making, Vision Science - Matlab, Python, R  
@@ -375,7 +376,8 @@ accepts submissions in other open source languages.
   Diffusion Imaging and Simulation - Java, Python, C++  
   ORCID: [0000-0002-9530-5477](http://orcid.org/0000-0002-9530-5477)
 
-* [Christoph Metzner](https://github.com/ChristophMetzner) [★](https://github.com/ReScience/ReScience-submission/pull/33)  
+* [Christoph Metzner](https://github.com/ChristophMetzner)
+  [★](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++  
   ORCID: [0000-0002-5933-2101](http://orcid.org/0000-0002-5933-2101)
 
@@ -441,6 +443,7 @@ accepts submissions in other open source languages.
   Computational Neuroscience, Statistical Neuroscience - Python  
   ORCID: [0000-0002-3851-0220](orcid.org/0000-0002-3851-0220)
 
-* [Tiina Manninen](https://github.com/TiinaManninen) [★](https://github.com/ReScience/ReScience-submission/pull/33)  
+* [Tiina Manninen](https://github.com/TiinaManninen)
+  [★](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Matlab, Python  
   ORCID: [0000-0002-0456-1185](https://orcid.org/xxxx)
