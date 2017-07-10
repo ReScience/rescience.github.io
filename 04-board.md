@@ -328,9 +328,9 @@ accepts submissions in other open source languages.
   Computational Neuroscience, Machine Learning - Julia, Python  
   ORCID: [0000-0003-4107-5693](http://orcid.org/0000-0003-4107-5693)
   
-* [Kamil S Jaron](https://github.com/KamilSJaron)  
+* [Kamil S. Jaron](https://github.com/KamilSJaron)  
   Evolutionary biology - R, C/C++, python  
-  ORCID: [---](http://orcid.org/)
+  ORCID: [0000-0003-1470-5450](http://orcid.org/0000-0003-1470-5450)
 
 * [Anne Urai](https://github.com/anne-urai)  
   Cognitive neuroscience, Decision Making, Vision Science - Matlab, Python, R  
