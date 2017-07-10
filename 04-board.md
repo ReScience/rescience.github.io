@@ -178,7 +178,7 @@ accepts submissions in other open source languages.
   Computational Biology - Python, C, R  
   ORCID: [0000-0001-9579-2909](http://orcid.org/0000-0001-9579-2909)
 
-* [Andrew Davison](https://github.com/apdavison) 
+* [Andrew P. Davison](https://github.com/apdavison) 
   [★](https://github.com/ReScience/ReScience-submission/pull/17)  
   Computational Neuroscience - Python  
   ORCID: [0000-0002-4793-7541](http://orcid.org/0000-0002-4793-7541)
