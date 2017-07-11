@@ -38,6 +38,12 @@ Furthermore, you cannot submit the replication of your own research, nor the
 research of your close collaborators. We believe such restrictions will favor
 the cross-fertilization of research and the spread of knowledge.
 
+ReScience accepts negative results as well, meaning here a failure to
+replicate the original results. The authors of the failed replication are
+expected to document their claim of failure. An attempt to have contacted the
+authors of the original article is also asked to the authors of the
+replication.
+
 
 ## Open Access
 
