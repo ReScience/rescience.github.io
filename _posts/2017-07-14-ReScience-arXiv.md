@@ -9,8 +9,6 @@ categories: news
 We've just published a white paper on
 [the ReScience initiative](https://arxiv.org/abs/1707.04393) on arXiv!
 
-Sustainable computational science: the ReScience initiative
-
 Computer science offers a large set of tools for prototyping, writing, running,
 testing, validating, sharing and reproducing results, however computational
 science lags behind. In the best case, authors may provide their source code as
@@ -30,4 +28,6 @@ chain is radically different from other traditional scientific
 journals. ReScience resides on GitHub where each new implementation of a
 computational study is made available together with comments, explanations, and
 software tests.
+
+Read more at [arxiv.org/abs/1707.04393](https://arxiv.org/abs/1707.04393).
 
