@@ -446,4 +446,4 @@ accepts submissions in other open source languages.
 * [Tiina Manninen](https://github.com/TiinaManninen)
   [★](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Matlab, Python  
-  ORCID: [0000-0002-0456-1185](https://orcid.org/xxxx)
+  ORCID: [0000-0002-0456-1185](https://orcid.org/0000-0002-0456-1185)
