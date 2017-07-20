@@ -447,3 +447,11 @@ accepts submissions in other open source languages.
   [★](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Matlab, Python  
   ORCID: [0000-0002-0456-1185](https://orcid.org/0000-0002-0456-1185)
+
+* [Shailesh Appukuttan](https://github.com/appukuttan-shailesh)  
+  Computational Neuroscience, Neurophysiology, Smooth Muscle - HOC, NMODL, Python, PyNN  
+  ORCID: [0000-0002-0148-8023](https://orcid.org/0000-0002-0148-8023)
+  
+* [Hao Ye](https://github.com/ha0ye)  
+  Ecology, Dynamic Systems - R, C++  
+  ORCID: [0000-0002-8630-1458](https://orcid.org/0000-0002-8630-1458)
