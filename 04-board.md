@@ -455,3 +455,7 @@ accepts submissions in other open source languages.
 * [Hao Ye](https://github.com/ha0ye)  
   Ecology, Dynamic Systems - R, C++  
   ORCID: [0000-0002-8630-1458](https://orcid.org/0000-0002-8630-1458)
+
+* [Paweł T. Jochym](https://github.com/jochym)  
+  Computational Material Science, Theoretical Physics - Python, C/C++, Pascal, Fortran  
+  ORCID: [0000-0003-0427-7333](https://orcid.org/0000-0003-0427-7333)
