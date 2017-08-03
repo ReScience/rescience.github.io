@@ -459,3 +459,7 @@ accepts submissions in other open source languages.
 * [Paweł T. Jochym](https://github.com/jochym)  
   Computational Material Science, Theoretical Physics - Python, C/C++, Pascal, Fortran  
   ORCID: [0000-0003-0427-7333](https://orcid.org/0000-0003-0427-7333)
+
+* [Pritish Patil](https://github.com/iampritishpatil)  
+  Computational Neurocience - Python (Neuron, Moose, Brian), Maltlab  
+  ORCID: [0000-0002-2655-4090](orcid.org/0000-0002-2655-4090)
