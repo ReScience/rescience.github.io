@@ -160,4 +160,6 @@ The structure of a submission is:
   choose whatever open license you prefer (see
   [the Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines))
   but you need to choose one.
-* In the `READMD.md` file, include information on the platform that was used to generate the results according to our [platform instructions](../platform).
+* In the `code/README.md` and `notebook/README.md` files, include information
+  on the platform that was used to generate the results according to our
+  [platform instructions](../platform).
