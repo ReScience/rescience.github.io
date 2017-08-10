@@ -463,3 +463,7 @@ accepts submissions in other open source languages.
 * [Pritish Patil](https://github.com/iampritishpatil)  
   Computational Neurocience - Python (Neuron, Moose, Brian), Maltlab  
   ORCID: [0000-0002-2655-4090](orcid.org/0000-0002-2655-4090)
+
+* [Maarten Trompper](https://github.com/digitalheir)  
+  Artificial Intelligence - Java, Javascript  
+  ORCID: [0000-0003-1167-0432](https://orcid.org/0000-0003-1167-0432)
