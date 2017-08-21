@@ -28,7 +28,7 @@ accepts submissions in other open source languages.
 
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)  
   Computational Neuroscience, Computer Science - Python, C/C++  
   ORCID: [0000-0002-6972-589X](http://orcid.org/0000-0002-6972-589X)  
   <small>
@@ -42,7 +42,7 @@ accepts submissions in other open source languages.
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/35)  
   Computational Neuroscience - Python, C, Fortran  
   ORCID: [---](http://orcid.org/)  
   <small>
@@ -51,7 +51,7 @@ accepts submissions in other open source languages.
   </small>
   
 * [Pierre de Buyl](https://github.com/pdebuyl)
-  [★](https://github.com/ReScience/ReScience-submission/pull/25)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/25)[★](https://github.com/ReScience/ReScience-submission/pull/35)  
   Computational Physics - Python, C, Fortran  
   ORCID: [0000-0002-6640-6463](https://orcid.org/0000-0002-6640-6463)  
   <small>
@@ -197,7 +197,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0001-6123-9515](http://orcid.org/0000-0001-6123-9515)
 
 * [Hans Ekkehard Plesser](https://github.com/heplesser) 
-  [★](https://github.com/ReScience/ReScience-submission/pull/17)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/35)  
   Computational Neuroscience, Stochastic Processes - Python, C++  
   ORCID: [0000-0001-7843-5993](http://orcid.org/0000-0001-7843-5993)
 
