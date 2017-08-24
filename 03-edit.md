@@ -160,9 +160,11 @@ that are listed here:
   * Add the `04-Published` label to the PR
   * Announce publication in the PR (and quote the DOI, see
     [#3](https://github.com/ReScience/ReScience-submission/pull/3) for example)
-  * Make a PR to update
-    [rescience.github.io/read](http://rescience.github.io/read/).  
-    This means creating a new post based on this [model](https://raw.githubusercontent.com/rougier/rescience.github.io/master/_posts/2015-08-14-Topalidou-Rougier.md)
+  * Make a PR to the [Web site repository](https://github.com/ReScience/rescience.github.io)
+    in order to update the page [rescience.github.io/read](http://rescience.github.io/read/). 
+    This requires creating a new post (directory `_posts`) based on this
+    [model](https://raw.githubusercontent.com/rougier/rescience.github.io/master/_posts/2015-08-14-Topalidou-Rougier.md)
+    because the page is composed from the posts of type `article`.
   * Make a PR to update [Rescience/Volume X - Issue Y.md](https://github.com/ReScience/ReScience)
   * Close the PR without merging
   * Inform the editors-in-chief about the new publication
