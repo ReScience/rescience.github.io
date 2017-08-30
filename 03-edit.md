@@ -183,10 +183,10 @@ that are listed here:
     - Article number (after reserving the number in the [dedicated GitHub
       issue](https://github.com/ReScience/ReScience/issues/48)).
   * If the article name is not `Author(s)-YEAR.md`, rename it
-  * Rebuild the PDF and checks everything is ok
+  * Rebuild the PDF and check everything is OK
   * Merge the rescience branch into master
   * Push these changes onto the `rescience` remote repository
-  * Make a new release throught the github interface
+  * Make a [new release](https://help.github.com/articles/creating-releases/):
     - Release version number is 1.0
     - Release name is Author(s)-YEAR-1.0
    
@@ -210,4 +210,4 @@ that are listed here:
   * Close the PR without merging
   * Inform the editors-in-chief about the new publication
   * If you're uncertain at any step of the procedure, ask
-    the editors-in-chiefs for advice.
+    the editors-in-chief for advice.
