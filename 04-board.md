@@ -333,7 +333,8 @@ accepts submissions in other open source languages.
   Evolutionary biology - R, C/C++, python  
   ORCID: [0000-0003-1470-5450](http://orcid.org/0000-0003-1470-5450)
 
-* [Anne Urai](https://github.com/anne-urai)  
+* [Anne Urai](https://github.com/anne-urai)
+  [★](https://github.com/ReScience/ReScience-submission/pull/36)  
   Cognitive neuroscience, Decision Making, Vision Science - Matlab, Python, R  
   ORCID: [0000-0001-5270-6513](http://orcid.org/0000-0001-5270-6513)
   
@@ -345,7 +346,8 @@ accepts submissions in other open source languages.
   Statistical Genetics - R, Matlab, Python, C++  
   ORCID: [0000-0002-6733-633X](http://orcid.org/0000-0002-6733-633X)
 
-* [Qihong Lu](https://github.com/qihongl)  
+* [Qihong Lu](https://github.com/qihongl)
+  [★](https://github.com/ReScience/ReScience-submission/pull/36)  
   Cognitive Psychology, Neuroimaging, Neural Networks - Python, Matlab, R  
   ORCID: [0000-0002-0730-5240](http://orcid.org/0000-0002-0730-5240)
   
