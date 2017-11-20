@@ -71,7 +71,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [C. Titus Brown](https://github.com/ctb)
-  [★](https://github.com/ReScience/ReScience-submission/pull/27)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/27)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Bioinformatics - Python  
   ORCID: [0000-0001-6001-2677](http://orcid.org/0000-0001-6001-2677)  
   <small>
@@ -101,7 +101,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Karthik Ram](https://github.com/karthik)
-  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology - Data Science, R  
   ORCID: [0000-0002-0233-1757](http://orcid.org/0000-0002-0233-1757)  
   <small>
@@ -130,7 +130,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Benoît Girard](https://github.com/benoit-girard)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)[★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience, Robotics - Python, C  
   ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
   <small>
@@ -161,7 +161,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0001-6419-907X](http://orcid.org/0000-0001-6419-907X)
 
 * [Federico Vaggi](https://github.com/FedericoV)
-  [★](https://github.com/ReScience/ReScience-submission/pull/15)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/15)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Systems Biology - Python, Matlab, C  
   ORCID: [0000-0001-8100-158X](http://orcid.org/0000-0001-8100-158X)
 
@@ -215,7 +215,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-2767-0090](http://orcid.org/0000-0003-2767-0090)
 
 * [Dan McGlinn](https://github.com/dmcglinn)
-  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology - R  
   ORCID: [0000-0003-2359-3526](http://orcid.org/0000-0003-2359-3526)
 
@@ -238,7 +238,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-1924-1184](http://orcid.org/0000-0002-1924-1184)
 
 * [Marcel Stimberg](https://github.com/mstimberg)
-  [★](https://github.com/ReScience/ReScience-submission/pull/18)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience - Python, C/C++  
   ORCID: [0000-0002-2648-4790](http://orcid.org/0000-0002-2648-4790)
 
@@ -297,7 +297,8 @@ accepts submissions in other open source languages.
   Computational Fluid Dynamics, Applied Aerodynamics, Ocean Modeling - Fortran, Python, C  
   ORCID: [---](http://orcid.org/)
   
-* [Philipp Boersch-Supan](https://github.com/pboesu)  
+* [Philipp Boersch-Supan](https://github.com/pboesu)
+  [★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology, Biological Oceanography, Biogeography - R  
   ORCID: [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833)
 
@@ -364,7 +365,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-4425-7097](http://orcid.org/0000-0003-4425-7097)
 
 * [Aaron Shifman](https://github.com/aaronshifman)
-  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Computational Biology - Python, Matlab/Octave, Javascript  
   ORCID: [0000-0003-2140-7590](orcid.org/0000-0003-2140-7590)
 
@@ -450,7 +451,8 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Matlab, Python  
   ORCID: [0000-0002-0456-1185](https://orcid.org/0000-0002-0456-1185)
 
-* [Shailesh Appukuttan](https://github.com/appukuttan-shailesh)  
+* [Shailesh Appukuttan](https://github.com/appukuttan-shailesh)
+  [★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience, Neurophysiology, Smooth Muscle - HOC, NMODL, Python, PyNN  
   ORCID: [0000-0002-0148-8023](https://orcid.org/0000-0002-0148-8023)
   
