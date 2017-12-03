@@ -471,3 +471,12 @@ accepts submissions in other open source languages.
 * [Maarten Trompper](https://github.com/digitalheir)  
   Artificial Intelligence - Java, Javascript  
   ORCID: [0000-0003-1167-0432](https://orcid.org/0000-0003-1167-0432)
+
+* [Tania Allard](https://github.com/trallard)  
+  Computational Materials Science, Biomaterials, Data Science - Python, R, C/C++, Fortran, Matlab  
+  ORCID: [0000-0002-5353-5397](https://orcid.org/0000-0002-5353-5397)
+  
+* [Romain Cazé](rcaze)  
+  Computational Neuroscience - Python  
+  ORCID: [0000-0002-7798-3696](https://orcid.org/0000-0002-7798-3696)
+
