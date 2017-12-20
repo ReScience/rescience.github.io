@@ -476,7 +476,19 @@ accepts submissions in other open source languages.
   Computational Materials Science, Biomaterials, Data Science - Python, R, C/C++, Fortran, Matlab  
   ORCID: [0000-0002-5353-5397](https://orcid.org/0000-0002-5353-5397)
   
-* [Romain Cazé](rcaze)  
+* [Romain Cazé](https://github.com/rcaze)  
   Computational Neuroscience - Python  
   ORCID: [0000-0002-7798-3696](https://orcid.org/0000-0002-7798-3696)
 
+* [Junpeng Lao](https://github.com/junpenglao)  
+  Computational Neuroscience, Bayesian Statistics - Python, Matlab  
+  ORCID: [0000-0001-6029-7510]( https://orcid.org/0000-0001-6029-7510)
+  
+* [Geoff LaFlair](www.github.com/gtlaflair)  
+  Language assessment, Corpus linguistics, Second language research, Applied linguistics - R   
+  ORCID: [0000-0003-0306-6550](https://orcid.org/0000-0003-0306-6550)
+  
+* [Arindam Basu](https://github.com/arinbasu)  
+  Epidemiology, Medicine, Environmental Health - R, Python, Stata  
+  ORCID: [0000-0003-2326-2292](https://orcid.org/0000-0003-2326-2292)
+  
