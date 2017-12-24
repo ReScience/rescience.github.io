@@ -492,3 +492,6 @@ accepts submissions in other open source languages.
   Epidemiology, Medicine, Environmental Health - R, Python, Stata  
   ORCID: [0000-0003-2326-2292](https://orcid.org/0000-0003-2326-2292)
   
+* [Nikolaos Efthymiou](https://github.com/NikEfth)  
+  Medical Imaging, Positron Emission Tomography (PET) - C/C++, Python, Matlab  
+  ORCID: [0000-0003-1947-5033]( https://orcid.org/0000-0003-1947-5033)
