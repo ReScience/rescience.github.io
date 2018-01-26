@@ -495,3 +495,7 @@ accepts submissions in other open source languages.
 * [Nikolaos Efthymiou](https://github.com/NikEfth)  
   Medical Imaging, Positron Emission Tomography (PET) - C/C++, Python, Matlab  
   ORCID: [0000-0003-1947-5033]( https://orcid.org/0000-0003-1947-5033)
+
+* [Xuedong Shang](https://github.com/xuedong)  
+  Reinforcement Learning, Machine Learning, Optimization - Python, Julia, Matlab, OCaml, R, C/C++  
+  ORCID: [0000-0002-1537-6540](https://orcid.org/0000-0002-1537-6540)
