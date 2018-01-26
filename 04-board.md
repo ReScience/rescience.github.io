@@ -28,7 +28,7 @@ accepts submissions in other open source languages.
 
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)[★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Computer Science - Python, C/C++  
   ORCID: [0000-0002-6972-589X](http://orcid.org/0000-0002-6972-589X)  
   <small>
@@ -393,7 +393,7 @@ accepts submissions in other open source languages.
   ORCID: [---](http://orcid.org/)
 
 * [Pietro Marchesi](https://github.com/pietromarchesi)
-  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)[★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Information Theory - Python  
   ORCID: [0000-0001-5955-6909](http://orcid.org/0000-0001-5955-6909)
 
@@ -431,6 +431,7 @@ accepts submissions in other open source languages.
   ORCID Number: [0000-0003-3019-4902](https://orcid.org/0000-0003-3019-4902)
 
 * [Dennis Goldschmidt](https://github.com/degoldschmidt)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Neurorobotics - Python, C/C++, Java, Octave  
   ORCID: [0000-0002-0603-7176](https://orcid.org/0000-0002-0603-7176)
   
