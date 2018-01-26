@@ -430,7 +430,7 @@ accepts submissions in other open source languages.
   Formal Methods - Python, C/C++, VHDL, SystemVerilog  
   ORCID Number: [0000-0003-3019-4902](https://orcid.org/0000-0003-3019-4902)
 
-* [Dennis Goldschmidt](https://github.com/degoldschmidt)  
+* [Dennis Goldschmidt](https://github.com/degoldschmidt)
   [★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Neurorobotics - Python, C/C++, Java, Octave  
   ORCID: [0000-0002-0603-7176](https://orcid.org/0000-0002-0603-7176)
