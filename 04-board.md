@@ -500,3 +500,8 @@ accepts submissions in other open source languages.
 * [Xuedong Shang](https://github.com/xuedong)  
   Reinforcement Learning, Machine Learning, Optimization - Python, Julia, Matlab, OCaml, R, C/C++  
   ORCID: [0000-0002-1537-6540](https://orcid.org/0000-0002-1537-6540)
+
+* [Dan Kortschak](https://github.com/kortschak)  
+  Genomics - Go  
+  ORCID: [0000-0001-8295-2301](https://orcid.org/0000-0001-8295-2301)
+  
