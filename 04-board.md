@@ -505,3 +505,8 @@ accepts submissions in other open source languages.
   Genomics - Go  
   ORCID: [0000-0001-8295-2301](https://orcid.org/0000-0001-8295-2301)
   
+
+* [Konstantinos Chatzilygeroudis](https://github.com/costashatz)  
+  Reinforcement Learning, Control, Gaussian Processes, Optimization - C++, C, Python, Matlab/Octave, Scala  
+  ORCID: [0000-0003-3585-1027](https://orcid.org/0000-0003-3585-1027)
+  
