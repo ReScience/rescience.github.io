@@ -510,3 +510,8 @@ accepts submissions in other open source languages.
   Reinforcement Learning, Control, Gaussian Processes, Optimization - C++, C, Python, Matlab/Octave, Scala  
   ORCID: [0000-0003-3585-1027](https://orcid.org/0000-0003-3585-1027)
   
+* [Thiago Mosqueiro](https://github.com/thmosqueiro)  
+  Computational Neuroscience, Machine Learning, Statistical Physics, Biology - Python, Fortran, C/C++, R, Octave (Matlab), Scala  
+  ORCID: [0000-0001-5808-8189](https://orcid.org/0000-0001-5808-8189)
+  
+  
