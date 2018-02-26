@@ -19,13 +19,13 @@ you ever replicated computational results from the literature in your research,
 Re**Science** is the perfect place to publish your new implementation.
 
 Re**Science** is collaborative by design. Everything can be forked and
-modified. Don't hesitate to [join us](faq) and
+modified. Don't hesitate to [write a submission](write), [join us](faq) and
 to [become a reviewer](https://github.com/ReScience/ReScience/issues/27).
 
 
 ### Current activity
 
-Published articles: 17  
+Published articles: [17](https://github.com/ReScience/ReScience)  
 Submitted articles awaiting review: 0  
 Articles currently under review: 6 ([#39], [#41], [#43], [#45], [#46], [#47])  
 Articles awaiting publication: 0  
