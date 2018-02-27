@@ -42,7 +42,7 @@ accepts submissions in other open source languages.
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/35)[★](https://github.com/ReScience/ReScience-submission/pull/47)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/35)[★](https://github.com/ReScience/ReScience-submission/pull/46)  
   Computational Neuroscience - Python, C, Fortran  
   ORCID: [---](http://orcid.org/)  
   <small>
