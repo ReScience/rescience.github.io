@@ -514,4 +514,6 @@ accepts submissions in other open source languages.
   Computational Neuroscience, Machine Learning, Statistical Physics, Biology - Python, Fortran, C/C++, R, Octave (Matlab), Scala  
   ORCID: [0000-0001-5808-8189](https://orcid.org/0000-0001-5808-8189)
   
-  
+* [Miguel P Xochicale](https://github.com/mxochicale)  
+  Human-Robot Interaction, Nonlinear Time Series Analysis, Signal Processing, - R, Python, Octave, C/C++, Fortran  
+ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
