@@ -517,3 +517,8 @@ accepts submissions in other open source languages.
 * [Miguel P Xochicale](https://github.com/mxochicale)  
   Human-Robot Interaction, Nonlinear Time Series Analysis, Signal Processing, - R, Python, Octave, C/C++, Fortran  
 ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
+
+* [Christian Jarvers](https://github.com/cJarvers)  
+  Computational Neuroscience, Machine Learning/Deep Learning - Python, Octave/Matlab, Julia, Fortran  
+  ORCID: [0000-0003-0062-9776](https://orcid.org/0000-0003-0062-9776)  
+  
