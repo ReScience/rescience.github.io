@@ -522,3 +522,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Neuroscience, Machine Learning/Deep Learning - Python, Octave/Matlab, Julia, Fortran  
   ORCID: [0000-0003-0062-9776](https://orcid.org/0000-0003-0062-9776)  
   
+
+* [Abdulqawi Saif](https://github.com/LeUnAiDeS)  
+  Distributed Systems, Scalable Databases, Big Data Analytics, Software Verification and Validation - Java, C++, Ruby, OCL, JML, R  
+  ORCID: [0000-0003-3537-2499](https://orcid.org/0000-0003-3537-2499)  
+  
