@@ -8,9 +8,9 @@ author: Renan O. Shimoura, Nilton L. Kamij1, Rodrigo F.O. Pena, Vinicius L. Cord
 volume: 4
 issue: 1
 number: 2
-doi: 10.5281/zenodo.1243268
+doi: 10.5281/zenodo.1244116
 pdf: https://github.com/ReScience-Archives/ShimouraR-KamijiNL-PenaRFO-CordeiroVL-CeballosCC-RomaroC-RoqueAC-2017/blob/master/article/ShimouraR-KamijiNL-PenaRFO-CordeiroVL-CeballosCC-RomaroC-RoqueAC-2017.pdf
 review: https://github.com/ReScience/ReScience-submission/pull/43
-zenodo: https://zenodo.org/record/1243268
+zenodo: https://doi.org/10.5281/zenodo.1244116
 keywords: cerebral cortex, cortical microcircuit, large-scale models, layered network, specificity of connections
 ---
