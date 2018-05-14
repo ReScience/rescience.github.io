@@ -7,6 +7,7 @@ categories: neuroscience python
 author: Romain Cazé, Marcel Stimberg, and Benoît Girard
 volume: 4
 issue: 1
+number: 1
 doi: 10.5281/zenodo.1246659
 pdf: https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/blob/master/article/Caze_2018.pdf
 repository: https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/
