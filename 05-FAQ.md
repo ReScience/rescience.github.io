@@ -83,6 +83,8 @@ No. If we aim at replicability, we have to make sure the proposed
 implementation allows anyone to re-run and understand the code without any
 barriers. Proprietary software constitutes such a barrier because of their
 price and their closed nature.
+An implementation specifically targeting a free alternative such as
+[Octave](https://www.gnu.org/software/octave/) will be accepted though.
 
 
 ## Is it mandatory to have an open-source license on the code?

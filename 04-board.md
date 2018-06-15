@@ -28,7 +28,7 @@ accepts submissions in other open source languages.
 
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)[★](https://github.com/ReScience/ReScience-submission/pull/46)  
   Computational Neuroscience, Computer Science - Python, C/C++  
   ORCID: [0000-0002-6972-589X](http://orcid.org/0000-0002-6972-589X)  
   <small>
@@ -42,7 +42,7 @@ accepts submissions in other open source languages.
 ## Associate Editors
 
 * [Tiziano Zito](https://github.com/otizonaizit)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/35)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/17)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/35)[★](https://github.com/ReScience/ReScience-submission/pull/46)  
   Computational Neuroscience - Python, C, Fortran  
   ORCID: [---](http://orcid.org/)  
   <small>
@@ -71,7 +71,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [C. Titus Brown](https://github.com/ctb)
-  [★](https://github.com/ReScience/ReScience-submission/pull/27)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/27)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Bioinformatics - Python  
   ORCID: [0000-0001-6001-2677](http://orcid.org/0000-0001-6001-2677)  
   <small>
@@ -101,7 +101,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Karthik Ram](https://github.com/karthik)
-  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology - Data Science, R  
   ORCID: [0000-0002-0233-1757](http://orcid.org/0000-0002-0233-1757)  
   <small>
@@ -111,7 +111,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Olivia Guest](https://github.com/oliviaguest)
-  [★](https://github.com/ReScience/ReScience-submission/pull/21)[★](https://github.com/ReScience/ReScience-submission/pull/30)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/21)[★](https://github.com/ReScience/ReScience-submission/pull/30)[★](https://github.com/ReScience/ReScience-submission/pull/47)  
   Computational Cognitive Neuroscience, Cognitive Modelling - Python, C  
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)  
   <small>
@@ -130,7 +130,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Benoît Girard](https://github.com/benoit-girard)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)[★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience, Robotics - Python, C  
   ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
   <small>
@@ -161,7 +161,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0001-6419-907X](http://orcid.org/0000-0001-6419-907X)
 
 * [Federico Vaggi](https://github.com/FedericoV)
-  [★](https://github.com/ReScience/ReScience-submission/pull/15)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/15)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Systems Biology - Python, Matlab, C  
   ORCID: [0000-0001-8100-158X](http://orcid.org/0000-0001-8100-158X)
 
@@ -215,7 +215,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-2767-0090](http://orcid.org/0000-0003-2767-0090)
 
 * [Dan McGlinn](https://github.com/dmcglinn)
-  [★](https://github.com/ReScience/ReScience-submission/pull/11)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/11)[★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology - R  
   ORCID: [0000-0003-2359-3526](http://orcid.org/0000-0003-2359-3526)
 
@@ -238,7 +238,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-1924-1184](http://orcid.org/0000-0002-1924-1184)
 
 * [Marcel Stimberg](https://github.com/mstimberg)
-  [★](https://github.com/ReScience/ReScience-submission/pull/18)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience - Python, C/C++  
   ORCID: [0000-0002-2648-4790](http://orcid.org/0000-0002-2648-4790)
 
@@ -297,7 +297,8 @@ accepts submissions in other open source languages.
   Computational Fluid Dynamics, Applied Aerodynamics, Ocean Modeling - Fortran, Python, C  
   ORCID: [---](http://orcid.org/)
   
-* [Philipp Boersch-Supan](https://github.com/pboesu)  
+* [Philipp Boersch-Supan](https://github.com/pboesu)
+  [★](https://github.com/ReScience/ReScience-submission/pull/39)  
   Ecology, Biological Oceanography, Biogeography - R  
   ORCID: [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833)
 
@@ -333,7 +334,8 @@ accepts submissions in other open source languages.
   Evolutionary biology - R, C/C++, python  
   ORCID: [0000-0003-1470-5450](http://orcid.org/0000-0003-1470-5450)
 
-* [Anne Urai](https://github.com/anne-urai)  
+* [Anne Urai](https://github.com/anne-urai)
+  [★](https://github.com/ReScience/ReScience-submission/pull/36)  
   Cognitive neuroscience, Decision Making, Vision Science - Matlab, Python, R  
   ORCID: [0000-0001-5270-6513](http://orcid.org/0000-0001-5270-6513)
   
@@ -345,7 +347,8 @@ accepts submissions in other open source languages.
   Statistical Genetics - R, Matlab, Python, C++  
   ORCID: [0000-0002-6733-633X](http://orcid.org/0000-0002-6733-633X)
 
-* [Qihong Lu](https://github.com/qihongl)  
+* [Qihong Lu](https://github.com/qihongl)
+  [★](https://github.com/ReScience/ReScience-submission/pull/36)  
   Cognitive Psychology, Neuroimaging, Neural Networks - Python, Matlab, R  
   ORCID: [0000-0002-0730-5240](http://orcid.org/0000-0002-0730-5240)
   
@@ -362,7 +365,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-4425-7097](http://orcid.org/0000-0003-4425-7097)
 
 * [Aaron Shifman](https://github.com/aaronshifman)
-  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)[★](https://github.com/ReScience/ReScience-submission/pull/41)  
   Computational Biology - Python, Matlab/Octave, Javascript  
   ORCID: [0000-0003-2140-7590](orcid.org/0000-0003-2140-7590)
 
@@ -390,7 +393,7 @@ accepts submissions in other open source languages.
   ORCID: [---](http://orcid.org/)
 
 * [Pietro Marchesi](https://github.com/pietromarchesi)
-  [★](https://github.com/ReScience/ReScience-submission/pull/30)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/30)[★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Information Theory - Python  
   ORCID: [0000-0001-5955-6909](http://orcid.org/0000-0001-5955-6909)
 
@@ -427,7 +430,8 @@ accepts submissions in other open source languages.
   Formal Methods - Python, C/C++, VHDL, SystemVerilog  
   ORCID Number: [0000-0003-3019-4902](https://orcid.org/0000-0003-3019-4902)
 
-* [Dennis Goldschmidt](https://github.com/degoldschmidt)  
+* [Dennis Goldschmidt](https://github.com/degoldschmidt)
+  [★](https://github.com/ReScience/ReScience-submission/pull/45)  
   Computational Neuroscience, Neurorobotics - Python, C/C++, Java, Octave  
   ORCID: [0000-0002-0603-7176](https://orcid.org/0000-0002-0603-7176)
   
@@ -448,7 +452,8 @@ accepts submissions in other open source languages.
   Computational Neuroscience - Matlab, Python  
   ORCID: [0000-0002-0456-1185](https://orcid.org/0000-0002-0456-1185)
 
-* [Shailesh Appukuttan](https://github.com/appukuttan-shailesh)  
+* [Shailesh Appukuttan](https://github.com/appukuttan-shailesh)
+  [★](https://github.com/ReScience/ReScience-submission/pull/43)  
   Computational Neuroscience, Neurophysiology, Smooth Muscle - HOC, NMODL, Python, PyNN  
   ORCID: [0000-0002-0148-8023](https://orcid.org/0000-0002-0148-8023)
   
@@ -467,3 +472,58 @@ accepts submissions in other open source languages.
 * [Maarten Trompper](https://github.com/digitalheir)  
   Artificial Intelligence - Java, Javascript  
   ORCID: [0000-0003-1167-0432](https://orcid.org/0000-0003-1167-0432)
+
+* [Tania Allard](https://github.com/trallard)  
+  Computational Materials Science, Biomaterials, Data Science - Python, R, C/C++, Fortran, Matlab  
+  ORCID: [0000-0002-5353-5397](https://orcid.org/0000-0002-5353-5397)
+  
+* [Romain Cazé](https://github.com/rcaze)  
+  Computational Neuroscience - Python  
+  ORCID: [0000-0002-7798-3696](https://orcid.org/0000-0002-7798-3696)
+
+* [Junpeng Lao](https://github.com/junpenglao)  
+  Computational Neuroscience, Bayesian Statistics - Python, Matlab  
+  ORCID: [0000-0001-6029-7510]( https://orcid.org/0000-0001-6029-7510)
+  
+* [Geoff LaFlair](www.github.com/gtlaflair)  
+  Language assessment, Corpus linguistics, Second language research, Applied linguistics - R   
+  ORCID: [0000-0003-0306-6550](https://orcid.org/0000-0003-0306-6550)
+  
+* [Arindam Basu](https://github.com/arinbasu)  
+  Epidemiology, Medicine, Environmental Health - R, Python, Stata  
+  ORCID: [0000-0003-2326-2292](https://orcid.org/0000-0003-2326-2292)
+  
+* [Nikolaos Efthymiou](https://github.com/NikEfth)  
+  Medical Imaging, Positron Emission Tomography (PET) - C/C++, Python, Matlab  
+  ORCID: [0000-0003-1947-5033]( https://orcid.org/0000-0003-1947-5033)
+
+* [Xuedong Shang](https://github.com/xuedong)  
+  Reinforcement Learning, Machine Learning, Optimization - Python, Julia, Matlab, OCaml, R, C/C++  
+  ORCID: [0000-0002-1537-6540](https://orcid.org/0000-0002-1537-6540)
+
+* [Dan Kortschak](https://github.com/kortschak)  
+  Genomics - Go  
+  ORCID: [0000-0001-8295-2301](https://orcid.org/0000-0001-8295-2301)
+  
+
+* [Konstantinos Chatzilygeroudis](https://github.com/costashatz)  
+  Reinforcement Learning, Control, Gaussian Processes, Optimization - C++, C, Python, Matlab/Octave, Scala  
+  ORCID: [0000-0003-3585-1027](https://orcid.org/0000-0003-3585-1027)
+  
+* [Thiago Mosqueiro](https://github.com/thmosqueiro)  
+  Computational Neuroscience, Machine Learning, Statistical Physics, Biology - Python, Fortran, C/C++, R, Octave (Matlab), Scala  
+  ORCID: [0000-0001-5808-8189](https://orcid.org/0000-0001-5808-8189)
+  
+* [Miguel P Xochicale](https://github.com/mxochicale)  
+  Human-Robot Interaction, Nonlinear Time Series Analysis, Signal Processing, - R, Python, Octave, C/C++, Fortran  
+ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
+
+* [Christian Jarvers](https://github.com/cJarvers)  
+  Computational Neuroscience, Machine Learning/Deep Learning - Python, Octave/Matlab, Julia, Fortran  
+  ORCID: [0000-0003-0062-9776](https://orcid.org/0000-0003-0062-9776)  
+  
+
+* [Abdulqawi Saif](https://github.com/LeUnAiDeS)  
+  Distributed Systems, Scalable Databases, Big Data Analytics, Software Verification and Validation - Java, C++, Ruby, OCL, JML, R  
+  ORCID: [0000-0003-3537-2499](https://orcid.org/0000-0003-3537-2499)  
+  

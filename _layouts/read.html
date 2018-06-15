@@ -25,7 +25,7 @@ layout: default
         Re<strong>Science</strong>,
         volume {{ post.volume }}, 
         issue {{ post.issue }},
-        {% if post.number %} article number {{ post.number }} {% endif %}
+        {% if post.number %} #{{ post.number }}, {% endif %}
         {{ post.date | date: "%Y" }}.<br/>
         <strong>Keywords: </strong>{{ post.keywords }}
       </li>
