@@ -130,7 +130,7 @@ accepts submissions in other open source languages.
   </small>
 
 * [Benoît Girard](https://github.com/benoit-girard)
-  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)[★](https://github.com/ReScience/ReScience-submission/pull/43)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/3)[★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/33)[★](https://github.com/ReScience/ReScience-submission/pull/43)[★](https://github.com/ReScience/ReScience-submission/pull/47)  
   Computational Neuroscience, Robotics - Python, C  
   ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
   <small>
@@ -233,7 +233,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-7724-1633](http://orcid.org/0000-0002-7724-1633)
 
 * [Xavier Hinaut](https://github.com/neuronalX)
-  [★](https://github.com/ReScience/ReScience-submission/pull/19)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/47)    
   Computational Neuroscience, Machine Learning - Python, Matlab, Java, C  
   ORCID: [0000-0002-1924-1184](http://orcid.org/0000-0002-1924-1184)
 
