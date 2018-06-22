@@ -1,7 +1,7 @@
 ---
 layout: post
 type: article
-title:  "[Re] Adaptive properties of differential learning rates for positive and negative outcomess"
+title:  "[Re] Adaptive properties of differential learning rates for positive and negative outcomes"
 date: 2018-06-14
 categories: neuroscience python
 author: Sophie Bavard and Héloïse Théro
