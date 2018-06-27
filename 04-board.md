@@ -527,3 +527,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Distributed Systems, Scalable Databases, Big Data Analytics, Software Verification and Validation - Java, C++, Ruby, OCL, JML, R  
   ORCID: [0000-0003-3537-2499](https://orcid.org/0000-0003-3537-2499)  
   
+* [Chris Rackauckas](https://github.com/ChrisRackauckas)  
+  Systems Biology, Dynamical systems, Statistics - Julia, Matlab, Mathematica, C/C++, R, Python  
+  ORCID: [0000-0001-5850-0663](https://orcid.org/0000-0001-5850-0663)
+  
