@@ -531,3 +531,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Systems Biology, Dynamical systems, Statistics - Julia, Matlab, Mathematica, C/C++, R, Python  
   ORCID: [0000-0001-5850-0663](https://orcid.org/0000-0001-5850-0663)
   
+* [Rui Portela](https://github.com/ruimcportela)  
+  Systems and Synthetic Biology, Machine Learning - Python, Matlab, R, SQL  
+  ORCID: [0000-0002-3627-6477](https://orcid.org/0000-0002-3627-6477)
