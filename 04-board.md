@@ -534,3 +534,16 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Rui Portela](https://github.com/ruimcportela)  
   Systems and Synthetic Biology, Machine Learning - Python, Matlab, R, SQL  
   ORCID: [0000-0002-3627-6477](https://orcid.org/0000-0002-3627-6477)
+
+* [Eric Berquist](https://github.com/berquist)  
+  Computational Chemistry and Spectroscopy - Python, C++  
+  ORCID: [0000-0001-8186-9522](https://orcid.org/0000-0001-8186-9522)
+  
+* [Josh Gardner](https://github.com/jpgard)  
+  Machine Learning, Education - Python, R  
+  ORCID: [0000-0002-4998-5918](https://orcid.org/0000-0002-4998-5918)
+
+* [Nicolás Guarín-Zapata](https://github.com/nicoguaro)  
+  Computational & Solid Mechanics, Wave Propagation- Python, Matlba, Fortran  
+  ORCID: [0000-0002-9435-1914](https://orcid.org/0000-0002-9435-1914)
+  
