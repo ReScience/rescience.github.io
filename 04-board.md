@@ -28,7 +28,7 @@ accepts submissions in other open source languages.
 
 
 * [Nicolas P. Rougier](https://github.com/rougier)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)[★](https://github.com/ReScience/ReScience-submission/pull/46)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/18)[★](https://github.com/ReScience/ReScience-submission/pull/19)[★](https://github.com/ReScience/ReScience-submission/pull/24)[★](https://github.com/ReScience/ReScience-submission/pull/36)[★](https://github.com/ReScience/ReScience-submission/pull/46)[★](https://github.com/ReScience/ReScience-submission/pull/51)  
   Computational Neuroscience, Computer Science - Python, C/C++  
   ORCID: [0000-0002-6972-589X](http://orcid.org/0000-0002-6972-589X)  
   <small>
@@ -220,7 +220,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-2359-3526](http://orcid.org/0000-0003-2359-3526)
 
 * [Julien Vitay](https://github.com/vitay)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/51)  
   Computational Neuroscience - Python, C++  
   ORCID: [0000-0001-5229-2349](http://orcid.org/0000-0001-5229-2349)
 
@@ -325,7 +325,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0003-4083-4512](http://orcid.org/0000-0003-4083-4512)
 
 * [Damien Drix](https://github.com/damiendr)
-  [★](https://github.com/ReScience/ReScience-submission/pull/22)  
+  [★](https://github.com/ReScience/ReScience-submission/pull/22)[★](https://github.com/ReScience/ReScience-submission/pull/51)  
   Computational Neuroscience, Machine Learning - Julia, Python  
   ORCID: [0000-0003-4107-5693](http://orcid.org/0000-0003-4107-5693)
   
