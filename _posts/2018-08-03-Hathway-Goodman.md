@@ -4,7 +4,7 @@ type: article
 title: "[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains"
 date: 2018-08-03
 categories: neuroscience python
-author: Pamela Hatway and Dan F. M. Goodman
+author: Pamela Hathway and Dan F. M. Goodman
 volume: 4
 issue: 1
 number: 6
