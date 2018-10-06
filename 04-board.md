@@ -547,3 +547,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational & Solid Mechanics, Wave Propagation- Python, Matlba, Fortran  
   ORCID: [0000-0002-9435-1914](https://orcid.org/0000-0002-9435-1914)
   
+* [Frank Förster](https://github.com/greatfireball)  
+  Bioinformatics, Computational Biology, Phylogenetics, Genomics, Transcriptomics - Perl, R, Python, PHP, GNU/Linux, Shell  
+  ORCID: [0000-0003-4166-5423](https://orcid.org/0000-0003-4166-5423)
