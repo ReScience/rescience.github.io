@@ -550,3 +550,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Frank Förster](https://github.com/greatfireball)  
   Bioinformatics, Computational Biology, Phylogenetics, Genomics, Transcriptomics - Perl, R, Python, PHP, GNU/Linux, Shell  
   ORCID: [0000-0003-4166-5423](https://orcid.org/0000-0003-4166-5423)
+
+* [Travis Hinkelman](https://github.com/hinkelman)  
+  Ecology - R, NetLogo  
+  ORCID: [0000-0002-8157-8407](https://orcid.org/0000-0002-8157-8407)
+
+* [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa/)  
+  Machine Learning, Artificial Intelligence, Computer Vision - Python, C++, Julia, Golang, C#  
+  ORCID: [0000-0003-3878-8166](https://orcid.org/0000-0003-3878-8166/)
