@@ -558,3 +558,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa/)  
   Machine Learning, Artificial Intelligence, Computer Vision - Python, C++, Julia, Golang, C#  
   ORCID: [0000-0003-3878-8166](https://orcid.org/0000-0003-3878-8166/)
+
+* [Dylan Aïssi](https://github.com/daissi/)  
+Bioinformatics, Computational Biology, Epigenomics, Genomics, Transcriptomics - R, Shell, Python, Perl, Julia  
+  ORCID: [0000-0002-5858-6468](https://orcid.org/0000-0002-5858-6468)
+  
+* [Manjari Narayan](https://github.com/mnarayan)  
+Applied and Computational Statistics, Machine Learning, Computational Neuroscience, Neuroimaging - Python, Matlab/Octave, R  
+ORCID: [0000-0001-5348-270X](https://orcid.org/0000-0001-5348-270X)
