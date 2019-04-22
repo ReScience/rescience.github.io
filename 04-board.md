@@ -566,3 +566,8 @@ Bioinformatics, Computational Biology, Epigenomics, Genomics, Transcriptomics - 
 * [Manjari Narayan](https://github.com/mnarayan)  
 Applied and Computational Statistics, Machine Learning, Computational Neuroscience, Neuroimaging - Python, Matlab/Octave, R  
 ORCID: [0000-0001-5348-270X](https://orcid.org/0000-0001-5348-270X)
+
+* [Garrett Smith](https://github.com/garrett-m-smith)  
+Psycholinguistics, cognitive modeling, dynamical systems - Python, R, Matlab/Octave  
+ORCID: [0000-0001-7238-3942](https://orcid.org/0000-0001-7238-3942)
+
