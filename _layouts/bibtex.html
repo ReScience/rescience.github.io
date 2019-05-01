@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<html>
+<head></head>
+<body>
+
+  
+  <h3>{{ page.reference }}</h3>
+  
+  <table>
+    <tr>
+      <td><b>Article (PDF):</b></td>
+      <td><a href="{{page.entry.url}}">{{page.entry.url}}</a></td>
+    </tr>
+    <tr>
+      <td><b>Title:</b></td>
+      <td>{{ page.entry.title }}</td>
+    </tr>
+    <tr>
+      <td><b>Author(s):</b></td>
+      <td>{{ page.entry.author }}</td>
+    </tr>
+    <tr>
+      <td><b>Journal:</b></td>
+      <td>{{ page.entry.journal }}</td>
+    </tr>
+     <tr>
+      <td><b>Year:</b></td>
+      <td>{{ page.entry.year }}</td>
+    </tr>
+     <tr>
+      <td><b>Month:</b></td>
+      <td>{{ page.entry.month }}</td>
+    </tr>
+    <tr>
+      <td><b>Volume:</b></td>
+      <td>{{ page.entry.volume }}</td>
+    </tr>
+    <tr>
+      <td><b>Issue:</b></td>
+      <td>{{ page.entry.number }}</td>
+    </tr>
+    <tr>
+      <td><b>Number:</b></td>
+      <td>{{ page.entry.pages }}</td>
+    </tr>
+    <tr>
+      <td><b>DOI:</b></td>
+      <td><a href="http://dx.doi.org/{{page.entry.doi}}">{{page.entry.doi}}</a></td>
+    </tr>
+    <tr>
+      <td><b>Code URL:</b></td>
+      {% if page.entry.code_url == blank %}
+        <td>-</td>
+      {% else %}
+        <td><a href="{{page.entry.code_url}}">{{page.entry.code_url}}</a></td>
+      {% endif %}
+    </tr>
+    <tr>
+      <td><b>Code DOI:</b></td>
+      {% if page.entry.code_doi == blank %}
+        <td>-</td>
+      {% else %}
+        <td><a href="http://dx.doi.org/{{page.entry.code_doi}}">{{page.entry.code_doi}}</a></td>
+      {% endif %}
+    </tr>
+    <tr>
+      <td><b>Data URL:</b></td>
+      {% if page.entry.data_url == blank %}
+        <td>-</td>
+      {% else %}
+        <td><a href="{{page.entry.data_url}}">{{page.entry.data_url}}</a></td>
+      {% endif %}
+    </tr>
+    <tr>
+      <td><b>Data DOI:</b></td>
+      {% if page.entry.data_doi == blank %}
+        <td>-</td>
+      {% else %}
+        <td><a href="http://dx.doi.org/{{page.entry.data_doi}}">{{page.entry.data_doi}}</a></td>
+      {% endif %}
+    </tr>
+    <tr>
+      <td><b>Review URL:</b></td>
+      <td><a href="{{page.entry.review_url}}">{{page.entry.review_url}}</a></td>
+    </tr>
+    <tr>
+      <td><b>Cite as:</b></td>
+      <td>{{page.reference}}</td>
+    </tr>
+  </table>
+
+  
+</body>
+</html>

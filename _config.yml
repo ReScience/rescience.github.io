@@ -4,13 +4,43 @@ title: The ReScience Journal
 description: Reproducible Science is good.<br/>
              Replicated Science is better.
 baseurl: ""                           # the subpath of your site, e.g. /blog/
-url:     "http://rescience.github.io" # the base hostname & protocol for your site
+url:     "http://rescience-c.github.io" # the base hostname & protocol for your site
 twitter_username: ReScienceEds
 github_username:  ReScience
 
 # Build settings
 markdown: kramdown
 
-
 # Exclude:
 exclude: ["README.md"]
+
+# Jekyll scholar
+plugins: ['jekyll/scholar']
+
+scholar:
+  style: acm-siggraph
+  locale: en
+
+  sort_by: year, month
+  order: descending, descending
+
+  # group_by: date
+  # group_order: ascending
+
+  source: ./_bibliography
+  bibliography: published.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   ""
+
+  query: "@*"

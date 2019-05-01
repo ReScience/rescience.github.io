@@ -547,27 +547,3 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational & Solid Mechanics, Wave Propagation- Python, Matlba, Fortran  
   ORCID: [0000-0002-9435-1914](https://orcid.org/0000-0002-9435-1914)
   
-* [Frank Förster](https://github.com/greatfireball)  
-  Bioinformatics, Computational Biology, Phylogenetics, Genomics, Transcriptomics - Perl, R, Python, PHP, GNU/Linux, Shell  
-  ORCID: [0000-0003-4166-5423](https://orcid.org/0000-0003-4166-5423)
-
-* [Travis Hinkelman](https://github.com/hinkelman)  
-  Ecology - R, NetLogo  
-  ORCID: [0000-0002-8157-8407](https://orcid.org/0000-0002-8157-8407)
-
-* [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa/)  
-  Machine Learning, Artificial Intelligence, Computer Vision - Python, C++, Julia, Golang, C#  
-  ORCID: [0000-0003-3878-8166](https://orcid.org/0000-0003-3878-8166/)
-
-* [Dylan Aïssi](https://github.com/daissi/)  
-Bioinformatics, Computational Biology, Epigenomics, Genomics, Transcriptomics - R, Shell, Python, Perl, Julia  
-  ORCID: [0000-0002-5858-6468](https://orcid.org/0000-0002-5858-6468)
-  
-* [Manjari Narayan](https://github.com/mnarayan)  
-Applied and Computational Statistics, Machine Learning, Computational Neuroscience, Neuroimaging - Python, Matlab/Octave, R  
-ORCID: [0000-0001-5348-270X](https://orcid.org/0000-0001-5348-270X)
-
-* [Garrett Smith](https://github.com/garrett-m-smith)  
-Psycholinguistics, cognitive modeling, dynamical systems - Python, R, Matlab/Octave  
-ORCID: [0000-0001-7238-3942](https://orcid.org/0000-0001-7238-3942)
-

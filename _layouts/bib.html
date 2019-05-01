@@ -1,0 +1,66 @@
+---
+---
+<small>
+
+<!-- Article type (mandatory) -->
+{% if entry.type %}
+  <b>
+  {{entry.type}}
+  {% if entry.domain != blank %}
+    in {{entry.domain}}
+    {% if entry.language != blank %}
+    ({{entry.language}})
+    {% endif %}
+  {% endif %}
+  </b>
+{% endif %}
+
+<!-- Article DOI (mandatory) -->
+{% if entry.doi %}
+  | <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a>
+{% endif %}
+
+<!-- Article PDF (mandatory) -->
+{% if entry.url %}
+  | <a class="bibtag" href="{{entry.url}}">PDF</a>
+{% endif %}
+
+<!-- Code (mandatory, URL if any else DOI) -->
+{% if entry.code_url %}
+  {% if entry.code_url != blank %}
+    | <a class="bibtag" href="{{entry.code_url}}">Code</a>
+  {% else %}
+    | <a class="bibtag" href="http://dx.doi.org/{{entry.code_doi}}">Code</a>
+  {% endif %}
+{% endif %}
+
+<!-- Data (optional, URL if any else DOI) -->
+{% if entry.data_url %}
+  {% if entry.data_url != blank %}
+    | <a class="bibtag" href="{{entry.data_url}}">Data</a>
+  {% elsif entry.data_doi != blank %}
+    | <a class="bibtag" href="http://dx.doi.org/{{entry.data_doi}}">Data</a>
+  {% endif %}
+{% endif %}
+
+<!-- Review (mandatory) -->
+{% if entry.review_url %}
+  | <a href="{{entry.review_url}}">Review</a>
+{% endif %}
+
+<!-- Collapsed bibtex entry -->
+| <a data-toggle="collapse"
+     href="javascript:toggleDiv('{{entry.key}}-bibtex')">BibTeX</a>
+<br/>
+</small>
+
+
+<!-- Actual entry -->
+<a href="{{ details }}">{{reference}}</a>
+<br/>
+<br/>
+
+<div id="{{entry.key}}-bibtex" style="display:none;">
+<pre class="collapse">{{entry.bibtex}}</pre>
+</div>
+

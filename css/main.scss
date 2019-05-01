@@ -52,6 +52,7 @@ $on-laptop:        800px;
 ;
 
 
+
 /*****************************/
 /* ReScience custom settings */
 /*****************************/
@@ -67,19 +68,32 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
 }
 
+
+a:hover {
+    text-decoration: none;
+}
+
 .site-header {
     border: none;
     min-height: 150px;
 }
 
-.site-title {
-    line-height: 125px;
-/*    margin-left: -50px;*/
+.site-title a {
+    /* padding: .5em .75em .25em 1em;
+    background-color:  #ce232b;
+    color:  white; */
+    color:  #ce232b;
+    /*font-size: 80%;*/
+    font-weight: 100;
+    margin: auto;
+    line-height: 200px;
+    letter-spacing: .25em;
+    text-transform: uppercase;
 }
 
-a.site-title:hover {
+.site-title a:hover {
     text-decoration: none;
-    color: #ce232b;
+/*    color: white;*/
 }
 
 .site-nav a {
@@ -114,6 +128,24 @@ a.site-title:hover {
         }
     }
 }
+
+
+a.bibtag {
+    padding: .25em .5em .1em .5em;
+    background-color:  #ce232b;
+    color:  white;
+    border-radius: 2px;
+}
+
+
+.collapse {
+    font-size: 90%;
+    color: black;
+    background-color: #fff0f0;
+    border: 1px solid black;
+}
+
+
 
 pre,code {
   border: none;
@@ -159,4 +191,33 @@ li p small {
     margin-top:    0.50em;
     padding-top:   0.50em;
     margin-bottom: 2.00em;
+}
+
+ol.bibliography {
+    font-size: 100%;
+    line-height: 1.25em;
+}
+
+
+table {
+    clear: both;
+}
+table td {
+    vertical-align: top;
+}
+
+table td:first-child{
+    width:20%;
+}
+
+.thumbnail {
+    border: 1px solid black;
+}
+
+div.bib-entry-highlight {
+    width: 100%;
+    padding: 1.5em;
+    color: white;
+    background-color: #ce232b;
+    // border: 1px solid black;
 }

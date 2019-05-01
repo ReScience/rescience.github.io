@@ -8,7 +8,7 @@ layout: default
   </article>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:1 %}
     {% if post.type == "news" %}
     <li>
       <strong>{{ post.title }}</strong>

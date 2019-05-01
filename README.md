@@ -1,24 +1,12 @@
-[![Build Status](https://travis-ci.org/ReScience/rescience.github.io.svg?branch=master)](https://travis-ci.org/ReScience/rescience.github.io)
 
-# ReScience website
+# ReScience C website
 
-### Website
+The ReScience C website is statically built using [Jekyll](https://jekyllrb.com/)
+and the amazing [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plugin.
 
-http://rescience.github.io
+After commiting some changes to the `sources` branch, you'll need to run the
+[publish.sh](publish.sh) script to publish the site at
+[rescience-c.github.io](rescience-c.github.io).
 
-### Serve locally
 
-```
-bundle exec jekyll serve
-```
 
-### Force rebuild on GitHub
-```
-bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
-```
-
-### Check website
-
-```
-bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
-```
