@@ -547,3 +547,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational & Solid Mechanics, Wave Propagation- Python, Matlba, Fortran  
   ORCID: [0000-0002-9435-1914](https://orcid.org/0000-0002-9435-1914)
   
+* [Roman Grothausmann](https://github.com/romangrothausmann)  
+  Digital image analysis of 3D data - Python, C/C++, Octave, Java  
+  ORCID: [0000-0001-5550-4239](https://orcid.org/0000-0001-5550-4239)
