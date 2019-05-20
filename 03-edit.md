@@ -98,17 +98,14 @@ editor might request the article to follow best practices of the domain.
 
 ## Editor guidelines
 
-* When a new [submission](https://github.com/rescience-c/submissions/issues) is
+* When a new [submission](https://github.com/rescience/submissions/issues) is
   made (i.e. a new issue has been opened), you can assign yourself in order to
   be the editor or you can accept an invitation to edit the submission.
 * Once you've accepted, you can either **reject** the submission and close the
   issue (you'll have to motivate such decision) or **accept** the
   submission. You'll then need to find and invite at least two reviewers (from
   within the same issue)
-* Once you've found the two reviewers, you can open a
-  [review](https://github.com/rescience-c/reviews/issues/new/choose) issue,
-  fill-in information and invite both author(s) and reviewers to join the
-  issue. 
+* Once you've found the two reviewers, you can start the review. 
 * During the review, reviewers are free to interact with the authors to ask for
   clarification or change in any file that is part of the submission.
 * The main criterion for acceptance is either:
@@ -129,7 +126,7 @@ editor might request the article to follow best practices of the domain.
 # The publication process
 
 The publication is now almost automatic but still requires some manual steps
-that are given in the [README](https://github.com/rescience-c/articles) of the
+that are given in the [README](https://github.com/rescience/articles) of the
 articles repository.  
 
 After publication, you can try to contact the editor and the authors of the

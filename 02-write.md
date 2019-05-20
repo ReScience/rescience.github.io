@@ -31,11 +31,11 @@ improved version later.
 * Upload your data (if any) to a publmic repository
   (e.g. [Zenodo](https://zenodo.org/))
 * Write the corresponding paper using the proposed
-  [LaTeX template](https://github.com/rescience-c/template)
+  [LaTeX template](https://github.com/rescience/template)
   **or** your own template
 * Fill metadata associated with your submission using the
-  [provided template](https://github.com/rescience-c/template)
-* [Submit your paper](https://github.com/rescience-c/submissions/issues/new/choose)
+  [provided template](https://github.com/rescience/template)
+* [Submit your paper](https://github.com/rescience/submissions/issues/new/choose)
 * Answer reviewers comments and modify your code and paper accordingly
 * Once accepted, you will need to:
   * complete the metadata in collaboration with the editor

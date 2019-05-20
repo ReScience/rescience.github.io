@@ -76,7 +76,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0001-6001-2677](http://orcid.org/0000-0001-6001-2677)  
   <small>
   [Population Health and Reproduction](http://www.vetmed.ucdavis.edu/phr/)  
-  [University of California Davis](https://www.ucdavis.edu) —
+  [University of California](https://www.ucdavis.edu) —
   Davis, California, USA  
   </small>
 
@@ -106,7 +106,7 @@ accepts submissions in other open source languages.
   ORCID: [0000-0002-0233-1757](http://orcid.org/0000-0002-0233-1757)  
   <small>
   [Berkeley' Institute for Data Science](https://bids.berkeley.edu)  
-  [Berkeley University of California](http://www.berkeley.edu) —
+  [University of California](http://www.berkeley.edu) —
   Berkeley, California, USA  
   </small>
 
@@ -138,6 +138,15 @@ accepts submissions in other open source languages.
   [Université Pierre et Marie Curie](http://www.upmc.fr) —  Paris, France  
   </small>
 
+* [Georgios Detorakis](https://github.com/gdetor)
+  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/24)  
+  Computational Neuroscience, Signal Processing - Python, C, Matlab, Fortran  
+  ORCID: [0000-0001-5891-1702](http://orcid.org/0000-0001-5891-1702)
+  <small>
+  [Department of Cognitive Sciences](https://www.cogsci.uci.edu/)  
+  [University of California](https://uci.edu/) – Irvine, California, USA  
+  </small>
+
 ## Reviewers
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
@@ -151,10 +160,6 @@ accepts submissions in other open source languages.
   Neurophysiological Data Analysis - Python, C  
   ORCID: [0000-0003-2069-9093](http://orcid.org/0000-0003-2069-9093)
 
-* [Georgios Detorakis](https://github.com/gdetor)
-  [★](https://github.com/ReScience/ReScience-submission/pull/14)[★](https://github.com/ReScience/ReScience-submission/pull/24)  
-  Computational Neuroscience, Signal Processing - Python, C, Matlab, Fortran  
-  ORCID: [0000-0001-5891-1702](http://orcid.org/0000-0001-5891-1702)
 
 * [Dirk Eddelbuettel](https://github.com/eddelbuettel)  
   Econometrics, Statistics, Data Science - R, C/C++  

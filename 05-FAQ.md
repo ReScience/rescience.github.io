@@ -7,13 +7,13 @@ permalink: /faq/
 # Frequently Asked Questions
 
 If your question is not answered below, please [create an
-issue](https://github.com/rescience-c/rescience-c) on GitHub and ask it there.
+issue](https://github.com/rescience/rescience) on GitHub and ask it there.
 
 ## Can I help?
 
 Yes ! You can:
 
- * Become a reviewer by [filling your information](https://github.com/rescience-c/rescience-c.github.io/blob/sources/04-board.md)
+ * Become a reviewer by [filling your information](https://github.com/rescience/rescience.github.io/blob/sources/04-board.md)
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about ReScience C in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)
@@ -96,8 +96,8 @@ effort.
 ## Can I suggest a replication?
 
 Yes. If you want to suggest an article for a replication, just [open a new
-issue](https://github.com/rescience-c/call/issues/new) in the [call for
-replication repository](https://github.com/rescience-c/call) and give the
+issue](https://github.com/rescience/call/issues/new) in the [call for
+replication repository](https://github.com/rescience/call) and give the
 reference of the original article and possibly the reason you would like to see
 this article replicated (please refrain from suggesting your own work). Note
 that you're also encouraged to register as a reviewer such that you can review
@@ -105,7 +105,7 @@ the replication you've been proposing if someone actually takes up the
 challenge.
 
 If you're looking for some challenge, you can also look at the [current list of
-suggestions](https://github.com/rescience-c/call).
+suggestions](https://github.com/rescience/call).
 
 
 ## If my submission is rejected, can I resubmit it?
@@ -182,6 +182,6 @@ receives a DOI from, and is indexed in
 ## What is the preferred format for the accompanying article?
 
 We preferred LateX using the [provided
-template](https://github.com/rescience-c/template) but Word or OpenOffice are
+template](https://github.com/rescience/template) but Word or OpenOffice are
 also fine if the result is similar enought ot the LaTex One.
 
