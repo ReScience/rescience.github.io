@@ -83,7 +83,11 @@ layout: default
     </tr>
     <tr>
       <td><b>Review URL:</b></td>
-      <td><a href="{{page.entry.review_url}}">{{page.entry.review_url}}</a></td>
+      {% if page.entry.review_url == blank %}
+        <td>-</td>
+      {% else %}
+        <td><a href="{{page.entry.review_url}}">{{page.entry.review_url}}</a></td>
+      {% endif %}
     </tr>
     <tr>
       <td><b>Cite as:</b></td>

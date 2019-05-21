@@ -26,7 +26,7 @@
 {% endif %}
 
 <!-- Code (mandatory, URL if any else DOI) -->
-{% if entry.code_url %}
+{% if entry.code_url != blank %}
   {% if entry.code_url != blank %}
     | <a class="bibtag" href="{{entry.code_url}}">Code</a>
   {% else %}
@@ -44,7 +44,7 @@
 {% endif %}
 
 <!-- Review (mandatory) -->
-{% if entry.review_url %}
+{% if entry.review_url != blank %}
   | <a href="{{entry.review_url}}">Review</a>
 {% endif %}
 
