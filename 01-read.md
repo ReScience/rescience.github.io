@@ -23,6 +23,9 @@ permalink: /read/
 
 ## Volume 5 (2019)
 
+### Issue 2 (ICLR 2019 challenge)
+{% bibliography --query @*[volume=5,number=2] %}
+
 ### Issue 1
 {% bibliography --query @*[volume=5,number=1] %}
 
