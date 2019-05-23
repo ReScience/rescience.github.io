@@ -23,7 +23,7 @@ permalink: /read/
 
 ## Volume 5 (2019)
 
-### Issue 2 (ICLR reproducibility challenge 2019)
+### Issue 2 (ICLR Reproducibility Challenge 2019)
 {% bibliography --query @*[volume=5,number=2] %}
 
 ### Issue 1
