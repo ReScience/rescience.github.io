@@ -5,9 +5,34 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>http://rescience-c.github.io/</link>
     <atom:link href="http://rescience-c.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 May 2019 08:58:18 +0200</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 08:58:18 +0200</lastBuildDate>
+    <pubDate>Thu, 23 May 2019 09:23:26 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 09:23:26 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>ReScience (R)evolution</title>
+        <description>&lt;p&gt;Four years ago, we launched ReScience, a new scientific journal aimed at
+publishing the replication of existing computational research. Since ReScience
+published its first article, things have been going steadily. We are still
+alive, independent and without a budget. In the meantime, we have published
+around 25 articles and the initial has grown from around 10 to roughly 100
+members (editors and reviewers), we have advertised ReScience at several
+conferences worldwide, gave some interviews, and published an article
+introducing ReScience in PeerJ Computer Sience. Based on our experience at
+managing the journal during these four years, we thought that time was ripe for
+some changes. Read our
+&lt;a href=&quot;https://zenodo.org/record/3069619/files/article.pdf&quot;&gt;editorial&lt;/a&gt; if you want to
+know more.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+        <link>http://rescience-c.github.io/news/2019/05/23/Redesign.html</link>
+        <guid isPermaLink="true">http://rescience-c.github.io/news/2019/05/23/Redesign.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Sustainable computational science: the ReScience initiative</title>
