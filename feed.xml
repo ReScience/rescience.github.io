@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The ReScience Journal</title>
+    <title>ReScience C</title>
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
-    <link>http://rescience-c.github.io/</link>
-    <atom:link href="http://rescience-c.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 May 2019 09:31:29 +0200</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 09:31:29 +0200</lastBuildDate>
+    <link>http://rescience.github.io/</link>
+    <atom:link href="http://rescience.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 May 2019 09:34:18 +0200</pubDate>
+    <lastBuildDate>Thu, 23 May 2019 09:34:18 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -25,8 +25,8 @@ some changes. Read our
 know more.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2019/05/23/Redesign.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2019/05/23/Redesign.html</guid>
+        <link>http://rescience.github.io/news/2019/05/23/Redesign.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2019/05/23/Redesign.html</guid>
         
         
         <category>news</category>
@@ -63,8 +63,8 @@ ReScience initiative&lt;/strong&gt;. PeerJ Computer Science 3:e142. &lt;a href=&
 doi.org/10.7717/peerj-cs.142&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://rescience-c.github.io/news/2017/12/18/ReScience-arXiv.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2017/12/18/ReScience-arXiv.html</guid>
+        <link>http://rescience.github.io/news/2017/12/18/ReScience-arXiv.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2017/12/18/ReScience-arXiv.html</guid>
         
         
         <category>news</category>
@@ -87,8 +87,8 @@ up the challenge.&lt;/p&gt;
 &lt;a href=&quot;https://github.com/ReScience/call-for-replication/issues&quot;&gt;current list of suggestions&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2016/10/19/Call-For-Replication.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2016/10/19/Call-For-Replication.html</guid>
+        <link>http://rescience.github.io/news/2016/10/19/Call-For-Replication.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2016/10/19/Call-For-Replication.html</guid>
         
         
         <category>news</category>
@@ -105,8 +105,8 @@ examples) and to &lt;a href=&quot;https://github.com/ReScience/ReScience/issues/
 
 </description>
         <pubDate>Sat, 02 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2016/07/02/Reviewers.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2016/07/02/Reviewers.html</guid>
+        <link>http://rescience.github.io/news/2016/07/02/Reviewers.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2016/07/02/Reviewers.html</guid>
         
         
         <category>news</category>
@@ -122,8 +122,8 @@ awaiting replication. Why not pick your favorite paper and try to replicate it
 will also be interesting for a lot of researchers.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jan 2016 00:00:00 +0100</pubDate>
-        <link>http://rescience-c.github.io/news/2016/01/07/NewYear.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2016/01/07/NewYear.html</guid>
+        <link>http://rescience.github.io/news/2016/01/07/NewYear.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2016/01/07/NewYear.html</guid>
         
         
         <category>news</category>
@@ -136,8 +136,8 @@ will also be interesting for a lot of researchers.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 06 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2015/09/06/LabCritics.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2015/09/06/LabCritics.html</guid>
+        <link>http://rescience.github.io/news/2015/09/06/LabCritics.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2015/09/06/LabCritics.html</guid>
         
         
         <category>news</category>
@@ -153,8 +153,8 @@ open-source implementations in order to ensure that the original research is
 reproducible.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2015/09/01/journal-start.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2015/09/01/journal-start.html</guid>
+        <link>http://rescience.github.io/news/2015/09/01/journal-start.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2015/09/01/journal-start.html</guid>
         
         
         <category>news</category>
@@ -170,8 +170,8 @@ Tiziano Zito (editor), Benoît Girard (reviewer) and Mehdi Khamassi
 production! But let’s wait for a second review…&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
-        <link>http://rescience-c.github.io/news/2015/08/10/ReviewTest.html</link>
-        <guid isPermaLink="true">http://rescience-c.github.io/news/2015/08/10/ReviewTest.html</guid>
+        <link>http://rescience.github.io/news/2015/08/10/ReviewTest.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2015/08/10/ReviewTest.html</guid>
         
         
         <category>news</category>
