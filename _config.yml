@@ -1,10 +1,10 @@
 # Site settings
-title: The ReScience Journal
+title: ReScience C
 # email: your-email@domain.com
 description: Reproducible Science is good.<br/>
              Replicated Science is better.
 baseurl: ""                           # the subpath of your site, e.g. /blog/
-url:     "http://rescience-c.github.io" # the base hostname & protocol for your site
+url:     "http://rescience.github.io" # the base hostname & protocol for your site
 twitter_username: ReScienceEds
 github_username:  ReScience
 
