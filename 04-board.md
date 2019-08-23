@@ -512,3 +512,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Roman Grothausmann](https://github.com/romangrothausmann)  
   Digital image analysis of 3D data - Python, C/C++, Octave, Java  
   ORCID: [0000-0001-5550-4239](https://orcid.org/0000-0001-5550-4239)
+
+* [Mahmoud Ahmed](https://github.com/MahShaaban)  
+  Genomics, Epigenomics - R  
+  ORCID: [0000-0002-4377-6541](https://orcid.org/0000-0002-4377-6541)
