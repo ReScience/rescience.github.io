@@ -516,3 +516,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Mahmoud Ahmed](https://github.com/MahShaaban)  
   Genomics, Epigenomics - R  
   ORCID: [0000-0002-4377-6541](https://orcid.org/0000-0002-4377-6541)
+
+* [Robin Gutzen](https://github.com/rgutzen)  
+  Computational Neuroscience - Python  
+  ORCID: [0000-0001-7373-5962](https://orcid.org/0000-0001-7373-5962)
