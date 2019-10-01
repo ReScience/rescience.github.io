@@ -28,7 +28,7 @@ improved version later.
 
 * Upload your code to a public repository
   (e.g. [GitHub](https://github.com))
-* Upload your data (if any) to a publmic repository
+* Upload your data (if any) to a public repository
   (e.g. [Zenodo](https://zenodo.org/))
 * Write the corresponding paper using the proposed
   [LaTeX template](https://github.com/rescience/template)
