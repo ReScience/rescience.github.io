@@ -3,7 +3,7 @@ layout: page
 permalink: /ten-years/
 ---
 
-![[](../images/ten-years-challenge.png)](../images/ten-years-challenge.png){:class="ten-years-challenge"}
+[![](../images/ten-years-challenge.png){:class="ten-years-challenge"}](../images/ten-years-challenge.pdf)
 
 # Ten Years Challenge
 
