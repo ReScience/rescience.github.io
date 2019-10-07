@@ -5,7 +5,7 @@ permalink: /ten-years/
 
 [![](../images/ten-years-challenge.png){:class="ten-years-challenge"}](../images/ten-years-challenge.pdf)
 
-# Ten Years Challenge
+# Ten Years Reproducibility Challenge
 
 Did you ever try to run an old code that you wrote for a scientific article you
 published years ago? Did you encounter any problems? Were you successful?
@@ -17,10 +17,10 @@ they've created for a scientific publication that was published more than **ten
 years ago**. This code can be anything (statistical analysis, numerical
 simulation, data processing, etc.), can be written in any language and can
 address any scientific domain. The only mandatory condition to enter the
-challenge is to have published a scientific article **before 2010**, in a journal or
-a conference with proceedings, which contains results produced by code,
-irrespectively of whether this code was published in some form at the time
-or not.
+challenge is to have published a scientific article **before 2010**, in a
+journal or a conference with proceedings, which contains results produced by
+code, irrespectively of whether this code was published in some form at the
+time or not.
 
 Note that we do not ask you to write a new version of your old code. We ask you
 instead to **try to make your old code to run on modern hardware/software**
