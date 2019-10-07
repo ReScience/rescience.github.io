@@ -17,8 +17,10 @@ they've created for a scientific publication that was published more than **ten
 years ago**. This code can be anything (statistical analysis, numerical
 simulation, data processing, etc.), can be written in any language and can
 address any scientific domain. The only mandatory condition to enter the
-challenge is to have published a scientific article **before 2010** that
-includes some code, in a journal or a conference with proceedings.
+challenge is to have published a scientific article **before 2010**, in a journal or
+a conference with proceedings, which contains results produced by code,
+irrespectively of whether this code was published in some form at the time
+or not.
 
 Note that we do not ask you to write a new version of your old code. We ask you
 instead to **try to make your old code to run on modern hardware/software**
