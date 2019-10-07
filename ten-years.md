@@ -8,8 +8,8 @@ permalink: /ten-years/
 # Ten Years Challenge
 
 Did you ever try to run an old code that you wrote for a scientific article you
-published some years ago? Did you encounter any problems? Were you successful?
-We are curious to know your story and others. This is the reason why we are
+published years ago? Did you encounter any problems? Were you successful?
+We are curious to hear your story. This is the reason why we are
 editing a special issue of ReScience to collect these stories.
 
 The ten years challenge is an invitation for researchers to try to run the code
@@ -23,18 +23,18 @@ includes some code, in a journal or a conference with proceedings.
 Note that we do not ask you to write a new version of your old code. We ask you
 instead to **try to make your old code to run on modern hardware/software**
 (with minimal modifications) in order to check if you can obtain the exact same
-results that were publised more than ten years ago.
+results that were publised at least ten years ago.
 
-Sounds easy ? We have good reasons to think this might more difficult than you
+Sounds easy? We have good reasons to think this might be more difficult than you
 think. And maybe the first problem you'll have to solve is to find your own source
-code (see [resources](#resources) section for help).
+code (see the [resources](#resources) section for help).
 
 
 ### Important dates
 
 The challenge will run for six months, from **October 1st, 2019 to April 1st,
 2020**. We'll organize a workshop in Bordeaux (France) sometime in **June
-2020** (date not yet settled) to introduce the results. If you intend to
+2020** (date not yet settled) to present the results. If you intend to
 participate to the challenge, make sure to also come to the workshop to hear
 some scary stories.
 
@@ -47,14 +47,14 @@ computational aspects (i.e. code).
 
 * **Step 1** You need to declare your interest in the challenge by posting on
   this [GitHub issue]() the article you intend to reproduce (having your
-  article open access would be great). This does not engage you in any sense.
+  article open access would be great). This does not engage you in any way.
   We'll only use this GitHub thread to gently spam you with a few reminders
   when we'll be close to the deadline (01/04/2020).
 
-* **Step 2** You have to try to make your old code to run on your current
+* **Step 2** You have to try to make your old code run on your current
   machine, documenting in the process what is necessary to make it work. For
   example, you may have to downgrade your system or some libraries, to modify
-  your original code because some libray is nowhere to be found, to reinstall a
+  your original code because some library is nowhere to be found, to reinstall a
   specific compiler or interpreter, etc. In the end, there may be large number
   of different situations: you are unable to run or compile the code, you are
   able to run the code but it does not give you the expected results (or no
@@ -62,11 +62,11 @@ computational aspects (i.e. code).
   do not remember how to run your program, etc.
 
 * **Step 3** You have to write a reproducibility report for ReScience (any
-  number of page) and submit it. You'll have to indicate that this submission
+  number of pages) and submit it. You'll have to indicate that this submission
   is for the ten years special issue.
 
 * **Step 4** Interact with reviewers during the open peer review and have your
-  article publihsed open access (no APC, ReScience is free to read and free to
+  article published open access (no APC, ReScience is free to read and free to
   publish).
 
 * **Step 5** Come to visit us in Bordeaux and attend the workshop in June (date
@@ -77,11 +77,11 @@ computational aspects (i.e. code).
 ## Frequently Asked Questions
 
 **Is there a prize for the challenge?** Yes, you will get all our
-consideration. More seriously there is nothing to gain but some knowledge on
-the reason why a code become non reproducible. We can also send you a print of
+consideration. More seriously, there is nothing to gain but insight on
+the reasons why a code becomes non reproducible. We can also send you a print of
 the cool poster above (A2 format).
 
-**Can I run the code from someone else?** No because we want original authors
+**Can I run the code from someone else?** No, because we want original authors
 to re-run their own code. However, if you're interested in trying to run code
 from someone else, you can submit a "reproducibility report" that will be
 published in a regular issue of ReScience (if accepted after open peer-review).
@@ -97,15 +97,15 @@ is reproducible** That's good. But what about the original version of the code,
 the one you wrote for your article ? This is this code we want to put to the
 test.
 
-**Is that ok to submit an article stating I cannot reproduce my results?**
+**Is it ok to submit an article stating I cannot reproduce my results?**
 Yes. We actually expect this case to correspond to the majority of
 situations. There are many possible reasons and we're interested in knowing
 the exact reasons that prevented you from getting your original results.
 
-**Is that ok to submit a one page article stating everything ran fine?**
-Yes. But you'll need to give us some details on how you made it (what language,
-what os, how are you sure you get the same results, etc.). This will serve for
-a study on what are the *best* languages for reproducibility.
+**Is it ok to submit a one page article stating everything ran fine?**
+Yes. But you'll need to give us some details on how you did it (what language,
+what OS, how are you sure you get the same results, etc.). This will serve for
+a study on what are the *best* languages, libraries, and tools for reproducibility.
 
 
 ## Resources
@@ -115,7 +115,7 @@ a study on what are the *best* languages for reproducibility.
   the Internet Archive, a nonprofit organization based in San Francisco,
   California, United States.
   
-* [Software Heritage](https://www.softwareheritage.org) ambition is to collect,
+* [Software Heritage](https://www.softwareheritage.org)'s ambition is to collect,
   preserve, and share all software that is publicly available in source code
   form. On this foundation, a wealth of applications can be built, ranging from
   cultural heritage to industry and research.
@@ -132,4 +132,4 @@ a study on what are the *best* languages for reproducibility.
   readers](https://www.amazon.com/floppy-disk-reader/s?k=floppy+disk+reader),
   [Compat Disc readers](https://www.amazon.com/usb-cd-reader/s?k=usb+cd+reader)
   (on Amazon). Just in case you source code is only available on one of this
-  archaic support...
+  archaic supports...
