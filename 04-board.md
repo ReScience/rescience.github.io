@@ -135,6 +135,14 @@ accepts submissions in other open source languages.
   [Department of Cognitive Sciences](https://www.cogsci.uci.edu/)  
   [University of California](https://uci.edu/) – Irvine, California, USA  
   </small>
+  
+* [Marc André Delsuc](https://github.com/delsuc)  
+  Biophysics, NMR spectroscopy - Python  
+  ORCID: [0000-0002-1400-5326](http://orcid.org/0000-0002-1400-5326)
+  <small>
+  [Biostructural NMR group ](http://www.igbmc.fr/research/department/3/team/35/)  
+  [IGBMC institute](http://www.igbmc.fr/) — Strasbourg, France  
+  </small>
 
 ## Reviewers
 
@@ -170,10 +178,6 @@ accepts submissions in other open source languages.
 * [Andrew P. Davison](https://github.com/apdavison)  
   Computational Neuroscience - Python  
   ORCID: [0000-0002-4793-7541](http://orcid.org/0000-0002-4793-7541)
-
-* [Marc André Delsuc](https://github.com/delsuc)  
-  Biophysics, NMR spectroscopy - Python  
-  ORCID: [0000-0002-1400-5326](http://orcid.org/0000-0002-1400-5326)
 
 * [Yoav Ram](https://github.com/yoavram)  
   Evolutionary Biology, Population Genetics - Python, R  
