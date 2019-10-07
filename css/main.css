@@ -586,3 +586,8 @@ div.bib-entry-highlight {
   padding: 1.5em;
   color: white;
   background-color: #ce232b; }
+
+img.ten-years-challenge {
+  /*    float: right;
+      width: 25%; */
+  border: 1px solid black; }
