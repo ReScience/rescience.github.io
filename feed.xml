@@ -5,9 +5,47 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>http://rescience.github.io/</link>
     <atom:link href="http://rescience.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Oct 2019 14:30:54 +0200</pubDate>
-    <lastBuildDate>Fri, 11 Oct 2019 14:30:54 +0200</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2019 14:34:57 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2019 14:34:57 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Ten Years Reproducibility Challenge</title>
+        <description>&lt;p&gt;Did you ever try to run an old code that you wrote for a scientific article you
+published years ago? Did you encounter any problems? Were you successful?  We
+are curious to hear your story. This is the reason why we are editing a special
+issue of ReScience to collect these stories.&lt;/p&gt;
+
+&lt;p&gt;The ten years reproducibility challenge is an invitation for researchers to try
+to run the code they’ve created for a scientific publication that was published
+more than &lt;strong&gt;ten years ago&lt;/strong&gt;. This code can be anything (statistical analysis,
+numerical simulation, data processing, etc.), can be written in any language
+and can address any scientific domain. The only mandatory condition to enter
+the challenge is to have published a scientific article &lt;strong&gt;before 2010&lt;/strong&gt;, in a
+journal or a conference with proceedings, which contains results produced by
+code, irrespectively of whether this code was published in some form at the
+time or not.&lt;/p&gt;
+
+&lt;p&gt;Note that we do not ask you to write a new version of your old code. We ask you
+instead to &lt;strong&gt;try to make your old code to run on modern hardware/software&lt;/strong&gt;
+(with minimal modifications) in order to check if you can obtain the exact same
+results that were publised at least ten years ago.&lt;/p&gt;
+
+&lt;p&gt;Sounds easy? We have good reasons to think this might be more difficult than you
+think. And maybe the first problem you’ll have to solve is to find your own source
+code.&lt;/p&gt;
+
+&lt;p&gt;More information at: http://rescience.github.io/ten-years/&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Oct 2019 00:00:00 +0200</pubDate>
+        <link>http://rescience.github.io/news/2019/10/11/TenYears.html</link>
+        <guid isPermaLink="true">http://rescience.github.io/news/2019/10/11/TenYears.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>ReScience (R)evolution</title>
