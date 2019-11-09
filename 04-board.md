@@ -414,7 +414,7 @@ accepts submissions in other open source languages.
 
 * [Vahid Rostami](https://github.com/Vahidrostami)  
   Computational Neuroscience, Statistical Neuroscience - Python  
-  ORCID: [0000-0002-3851-0220](orcid.org/0000-0002-3851-0220)
+  ORCID: [0000-0002-3851-0220](https://orcid.org/0000-0002-3851-0220)
 
 * [Tiina Manninen](https://github.com/TiinaManninen)  
   Computational Neuroscience - Matlab, Python  
