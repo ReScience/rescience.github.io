@@ -524,3 +524,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Robin Gutzen](https://github.com/rgutzen)  
   Computational Neuroscience - Python  
   ORCID: [0000-0001-7373-5962](https://orcid.org/0000-0001-7373-5962)
+  
+* [Gunnar W. Klau](https://github.com/guwek)
+  Bioinformatics, Algorithms - Python
+  ORCID: [0000-0002-6340-0090](https://orcid.org/0000-0002-6340-0090)
