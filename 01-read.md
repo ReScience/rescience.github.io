@@ -7,6 +7,8 @@ permalink: /read/
 # Contents
 
 * [Under review](#under-review)
+* [Volume 6 (2020)](#volume-6-2020):
+  {% bibliography_count --query @*[volume=6] %} article(s) 
 * [Volume 5 (2019)](#volume-5-2019):
   {% bibliography_count --query @*[volume=5] %} article(s) 
 * [Volume 4 (2018)](#volume-4-2018):
@@ -20,6 +22,11 @@ permalink: /read/
 
 ## Under review
 {% bibliography --file under-review %}
+
+## Volume 6 (2020)
+
+### Issue 1 (Ten Years Reproducibility Challenge)
+{% bibliography --query @*[volume=6,number=1] %}
 
 ## Volume 5 (2019)
 
