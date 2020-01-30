@@ -28,9 +28,11 @@ accepts submissions in other open source languages.
   Computational Cognitive Neuroscience, Cognitive Modelling - Python, C  
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)  
   <small>
-  [Department of Experimental Psychology](https://www.ucl.ac.uk/pals/research/experimental-psychology/)  
-  [University College London](http://www.ucl.ac.uk) —
-  London, United Kingdom  
+  [Research Centre on Interactive Media, Smart Systems and Emerging Technologies](//rise.org.cy)  
+  Constantinou Paleologou 1  
+  Nicosia 1011  
+  Cyprus  
+  **Email**: o dot guest at rise dot org dot cy  
   </small>
 
 * [Konrad Hinsen](https://github.com/khinsen)  
