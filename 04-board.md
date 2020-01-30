@@ -30,8 +30,7 @@ accepts submissions in other open source languages.
   <small>
   [Research Centre on Interactive Media, Smart Systems and Emerging Technologies](//rise.org.cy)  
   Constantinou Paleologou 1  
-  Nicosia 1011  
-  Cyprus  
+  Nicosia 1011, Cyprus  
   **Email**: o dot guest at rise dot org dot cy  
   </small>
 
