@@ -16,14 +16,6 @@ accepts submissions in other open source languages.
 
 ## Editors-in-Chief
 
-* [Benoît Girard](https://github.com/benoit-girard)  
-  Computational Neuroscience, Robotics - Python, C  
-  ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
-  <small>
-  [Institut des Systèmes Intelligents et de Robotiques](http://www.isir.upmc.fr)  
-  [Université Pierre et Marie Curie](http://www.upmc.fr) —  Paris, France  
-  </small>
-
 * [Olivia Guest](https://github.com/oliviaguest)  
   Computational Cognitive Neuroscience, Cognitive Modelling - Python, C  
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)  
@@ -32,6 +24,17 @@ accepts submissions in other open source languages.
   Constantinou Paleologou 1  
   Nicosia 1011, Cyprus  
   **Email**: o dot guest at rise dot org dot cy  
+  </small>
+
+* [Benoît Girard](https://github.com/benoit-girard)  
+  Computational Neuroscience, Robotics - Python, C  
+  ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
+  <small>
+  [Institut des Systèmes Intelligents et de Robotiques](http://www.isir.upmc.fr)  
+  Sorbonne Université & CNRS  
+  4 place Jussieu - CC 173  
+  75005 Paris, France  
+  **Email**: benoit dot girard at isir dot upmc dot fr  
   </small>
 
 * [Konrad Hinsen](https://github.com/khinsen)  
