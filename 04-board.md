@@ -531,6 +531,10 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Neuroscience - Python  
   ORCID: [0000-0001-7373-5962](https://orcid.org/0000-0001-7373-5962)
   
-* [Gunnar W. Klau](https://github.com/guwek)
-  Bioinformatics, Algorithms - Python
+* [Gunnar W. Klau](https://github.com/guwek)  
+  Bioinformatics, Algorithms - Python  
   ORCID: [0000-0002-6340-0090](https://orcid.org/0000-0002-6340-0090)
+
+* [Daniel Schmid](https://github.com/schmidDan)  
+  Computational Neuroscience, Deep Learning - Julia, Python, Matlab, C/C++  
+  ORCID: [0000-0002-2439-9453](https://orcid.org/0000-0002-2439-9453)
