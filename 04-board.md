@@ -538,3 +538,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Daniel Schmid](https://github.com/schmidDan)  
   Computational Neuroscience, Deep Learning - Julia, Python, Matlab, C/C++  
   ORCID: [0000-0002-2439-9453](https://orcid.org/0000-0002-2439-9453)
+
+* [Taher Chegini](https://github.com/cheginit)
+  Computational Hydraulics and Hydrology, Urban Hydrology - Python, Fortran, C
+  ORCID: [0000-0002-5430-6000](https://orcid.org/0000-0002-5430-6000)
