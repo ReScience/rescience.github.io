@@ -150,6 +150,14 @@ accepts submissions in other open source languages.
   [IGBMC institute](http://www.igbmc.fr/) — Strasbourg, France  
   </small>
 
+* [Koustuv Sinha](https://github.com/koustuvsinha)  
+  Machine Learning, Natural Language Processing - Python  
+  ORCID: [0000-0002-2803-9236](http://orcid.org/0000-0002-2803-9236)
+  <small>
+  [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/)  
+  [McGill School of Computer Science](https://www.cs.mcgill.ca/)
+  </small>
+
 ## Reviewers
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)  
@@ -543,4 +551,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Hydraulics and Hydrology, Urban Hydrology - Python, Fortran, C  
   ORCID: [0000-0002-5430-6000](https://orcid.org/0000-0002-5430-6000)
   
-  
+* [Jessica L. Burnett](https://github.com/trashbirdecology)  
+  Ecology - R  
+  ORCID: [0000-0002-0896-5099](https://orcid.org/0000-0002-0896-5099)
