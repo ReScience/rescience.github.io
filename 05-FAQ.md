@@ -13,7 +13,9 @@ issue](https://github.com/rescience/rescience) on GitHub and ask it there.
 
 Yes ! You can:
 
- * Become a reviewer by [filling your information](https://github.com/rescience/rescience.github.io/blob/sources/04-board.md)
+ * Become a reviewer by commenting on [this issue](https://github.com/ReScience/ReScience/issues/27) (see 
+ [our current list of reviewers](https://github.com/rescience/rescience.github.io/blob/sources/04-board.md)
+ for the information we would like to have about you)
  * [Submit](../write) paper for the work you've already replicated
  * Spread the word about ReScience C in your community
    ([twitter](http://twitter.com/ReScienceEds), mailing lists, blogs, etc.)

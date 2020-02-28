@@ -13,6 +13,10 @@ domain of Science and is proficient in several programming languages and/or
 environments. While many of us work primarily in Python, ReScience also
 accepts submissions in other open source languages.
 
+Reviewers are very important for our work. We always welcome new members
+to our team, in particular in scientific domains that are so far not
+well represented. If you want to become a reviewer for ReScience, please
+add a comment [here](https://github.com/ReScience/ReScience/issues/27).
 
 ## Editors-in-Chief
 
