@@ -34,7 +34,7 @@ The main criteria for acceptance of a successful replication are
 
  2. Reproducibility of the replication. The reviewers must be able
     to run the proposed implementation on their computer, and obtain
-    the same results as the authors with the limits of the state of
+    the same results as the authors with the limits of the state
     of the art of the field.
 
  3. Clarity of the code and the instructions for running it.
