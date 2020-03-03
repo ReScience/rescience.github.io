@@ -558,3 +558,14 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Jessica L. Burnett](https://github.com/trashbirdecology)  
   Ecology - R  
   ORCID: [0000-0002-0896-5099](https://orcid.org/0000-0002-0896-5099)
+
+* [Karl Broman](https://github.com/kbroman)  
+  Statistics, Genetics - R, C/C++
+  ORCID: [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)
+
+* [Bruno Levy](https://github.com/BrunoLevy)
+  Computer graphics, scientific computing - C, C++, assembly, Apple II
+
+* [Sabino Maggi](https://github.com/sabinomaggi)
+  Physics, Data Analysis - Fortran, Python, R
+  ORCID: 0000-0002-1523-6484
