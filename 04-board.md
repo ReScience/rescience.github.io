@@ -159,9 +159,18 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   ORCID: [0000-0002-2803-9236](http://orcid.org/0000-0002-2803-9236)
   <small>
   [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/)  
-  [McGill School of Computer Science](https://www.cs.mcgill.ca/)
+  [McGill School of Computer Science](https://www.cs.mcgill.ca/) — Montreal, Canada  
   </small>
 
+* [Etienne Roesch](https://github.com/eroesch)  
+  Computational Neuroscience, Neuroimaging, Data Science - Python, C/C++, Matlab, R  
+  ORCID: [0000-0002-8913-4173](http://orcid.org/0000-0002-8913-4173)
+  <small>
+  [Centre for Integrative Neuroscience & Neurodynamics](http://reading.ac.uk/cinn)  
+  [University of Reading](http://reading.ac.uk) — Reading, UK  
+  </small>
+  
+  
 ## Reviewers
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)  
@@ -208,10 +217,6 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
 * [Hans Ekkehard Plesser](https://github.com/heplesser)  
   Computational Neuroscience, Stochastic Processes - Python, C++  
   ORCID: [0000-0001-7843-5993](http://orcid.org/0000-0001-7843-5993)
-
-* [Etienne Roesch](https://github.com/eroesch)  
-  Computational Neuroscience, Neuroimaging, Data Science - Python, C/C++, Matlab, R  
-  ORCID: [0000-0002-8913-4173](http://orcid.org/0000-0002-8913-4173)
 
 * [Ilhan Polat](https://github.com/ilayn)  
   Control Theory - Matlab, Python  
