@@ -574,3 +574,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Sabino Maggi](https://github.com/sabinomaggi)  
   Physics, Data Analysis - Fortran, Python, R  
   ORCID: [0000-0002-1523-6484](https://orcid.org/0000-0002-1523-6484)
+
+* [Md. Enamul Hoque](https://github.com/mjonyh)  
+  Computational Physics and Simulation - Python, C
+  ORCID: [0000-0001-6052-8059](https://orcid.org/0000-0001-6052-8059)
