@@ -578,3 +578,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Md. Enamul Hoque](https://github.com/mjonyh)  
   Computational Physics and Simulation - Python, C
   ORCID: [0000-0001-6052-8059](https://orcid.org/0000-0001-6052-8059)
+
+* [Andreas Enge](https://github.com/andreas-enge)  
+  Computational number theory, Multiprecision arithmetic, Computer algebra - C, Pascal, Scheme
