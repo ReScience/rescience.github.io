@@ -101,11 +101,11 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   </small>
 
 * [Thomas Arildsen](https://github.com/ThomasA)  
-  Signal Processing - Python, Matlab  
+  Signal and Image Processing, Scientific Computing, Optimisation - Python, Matlab  
   ORCID: [0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)  
   <small>
-  [Department of Electronic Systems](http://www.es.aau.dk)  
-  [Aalborg Universtet](http://www.aau.dk) —
+  [CLAAUDIA Research Data Services](https://www.claaudia.aau.dk/)  
+  [Aalborg University](https://www.aau.dk) —
   Aalborg, Danemark  
   </small>
 
