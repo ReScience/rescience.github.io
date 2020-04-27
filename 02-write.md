@@ -61,6 +61,20 @@ replicate the original results. The authors of the failed replication are
 expected to document their claim of failure, and to have attempted to contact
 the authors of the original article.
 
+## Article Scope
+
+The accompanying article should help the reader ascertain if the replication was
+successful and as such, the main focus should be on the replicated results and
+on any obstacles encountered during the replication.
+
+In many cases it can be useful to include high-level summaries of the original
+model or of your source code. Your goal should be to make the article
+sufficiently self-contained, but not to repeat all aspects of the original
+article or your documentation. Which amount of detail is sufficient may vary
+from case to case and is ultimately up to the reviewers to judge. If a reader
+has to be familiar with the original article in order to understand your
+explanations, consider that some readers may be unable to access it if it is
+behind a paywall.
 
 ## Open Access
 

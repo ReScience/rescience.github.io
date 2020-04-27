@@ -44,7 +44,8 @@ The main criteria for acceptance of a successful replication are
     authors should clearly state why they think they have replicated
     the paper (same figures, same graphics, same behavior, etc.) and
     explain any obstacles they have encountered during the replication
-    work.
+    work. The reviewers should also consider if the article is sufficiently
+    self-contained.
 
 The primary goal of the review is not to decide whether to accept or
 reject a submission, but to help the authors improve their work until
