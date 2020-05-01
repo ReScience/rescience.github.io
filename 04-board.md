@@ -574,3 +574,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Sabino Maggi](https://github.com/sabinomaggi)  
   Physics, Data Analysis - Fortran, Python, R  
   ORCID: [0000-0002-1523-6484](https://orcid.org/0000-0002-1523-6484)
+
+* [Andreas Enge](https://github.com/andreas-enge)  
+  Computational number theory, Multiprecision arithmetic, Computer algebra - C, Pascal, Scheme  
+  ORCID: none
