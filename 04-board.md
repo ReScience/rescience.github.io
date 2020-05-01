@@ -101,11 +101,11 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   </small>
 
 * [Thomas Arildsen](https://github.com/ThomasA)  
-  Signal Processing - Python, Matlab  
+  Signal and Image Processing, Scientific Computing, Optimisation - Python, Matlab  
   ORCID: [0000-0003-3254-3790](http://orcid.org/0000-0003-3254-3790)  
   <small>
-  [Department of Electronic Systems](http://www.es.aau.dk)  
-  [Aalborg Universtet](http://www.aau.dk) —
+  [CLAAUDIA Research Data Services](https://www.claaudia.aau.dk/)  
+  [Aalborg University](https://www.aau.dk) —
   Aalborg, Danemark  
   </small>
 
@@ -575,6 +575,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Physics, Data Analysis - Fortran, Python, R  
   ORCID: [0000-0002-1523-6484](https://orcid.org/0000-0002-1523-6484)
 
+* [Md. Enamul Hoque](https://github.com/mjonyh)  
+  Computational Physics and Simulation - Python, C  
+  ORCID: [0000-0001-6052-8059](https://orcid.org/0000-0001-6052-8059)
+
 * [Andreas Enge](https://github.com/andreas-enge)  
   Computational number theory, Multiprecision arithmetic, Computer algebra - C, Pascal, Scheme  
   ORCID: none
+

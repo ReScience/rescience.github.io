@@ -23,7 +23,7 @@ Yes ! You can:
 
 ## What's the difference between replication and reproduction?
 
-There is no concensus yet on what exactly these two terms mean, so
+There is no consensus yet on what exactly these two terms mean, so
 here is how we understand and use them.
 
 Reproduction of a computational study means running the same
@@ -115,7 +115,7 @@ suggestions](https://github.com/ReScience/call-for-replication).
 This depends on the reason your submission was rejected. If the original
 research has already been replicated previously (in ReScience C or elsewhere),
 it is unlikely we'll consider another replication, even if you think your
-implementation is better. However, if your submission has ben rejected because
+implementation is better. However, if your submission has been rejected because
 reviewers cannot make it run, you are encouraged to re-submit once the
 identified problems have been solved.
 

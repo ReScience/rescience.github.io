@@ -44,7 +44,8 @@ The main criteria for acceptance of a successful replication are
     authors should clearly state why they think they have replicated
     the paper (same figures, same graphics, same behavior, etc.) and
     explain any obstacles they have encountered during the replication
-    work.
+    work. The reviewers should also consider if the article is sufficiently
+    self-contained.
 
 The primary goal of the review is not to decide whether to accept or
 reject a submission, but to help the authors improve their work until
@@ -52,7 +53,7 @@ it meets the ReScience C quality standards. Since ReScience C
 targets replication of already published research, there is no need to
 judge the relevance or novelty of the work. Every replication that
 meets the criteria listed above is welcome in ReScience C.
-Rejection remains of course a possiblity, in the case that the
+Rejection remains of course a possibility, in the case that the
 authors are not able or willing to improve their submission as
 deemed necessary by the reviewers.
 
@@ -73,7 +74,7 @@ capabilities and use.
 ### Failed replications
 
 A replication attempt can lead to the finding that the results of the original
-paper cannot be reproduced, suggesting a critical mistake or ommission in the
+paper cannot be reproduced, suggesting a critical mistake or omission in the
 original work that cannot be fixed. The failure can concern some or all of the
 results.  ReScience C accepts reports on replication failures, but requires a
 particularly careful examination by the reviewers. The authors must describe in
