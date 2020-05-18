@@ -11,7 +11,7 @@ issue](https://github.com/rescience/rescience) on GitHub and ask it there.
 
 ## Can I help?
 
-Yes ! You can:
+Yes! You can:
 
  * Become a reviewer by commenting on [this issue](https://github.com/ReScience/ReScience/issues/27) (see 
  [our current list of reviewers](https://github.com/rescience/rescience.github.io/blob/sources/04-board.md)
@@ -52,12 +52,15 @@ In the ideal world, the reproducibility of computational studies would
 be checked automatically before publication. In the real world, most
 published studies do not even claim to be reproducible, because the code
 or the input data are not made public. Given this situation,
-a Re**Science** publication provides two important services: by replicating
+a Re**Science** C publication provides two important services: by replicating
 the original work, it provides an independent implementation of the
 original computational protocol, and by making this new implementation
 public, it is reproducible and thus a safer basis for future research
 to build on.
 
+## What do the title prefixes **Re**, **Rp**, **¬Re**, and **¬Rp** mean?
+Re means replication. Rp means reproduction.
+Either one can be negated in case of failure to give: ¬Re and ¬Rp.
 
 ## Are there any publication fees?
 
@@ -166,10 +169,10 @@ or protocol is a faithful replication of the original results.
 
 ## What kind of research can I replicate?
 
-Any computational research in any domain of science as long as there is an
-editor from the [Board](../board) who has the expertise to edit your
-submission. The editorial board is growing to increase the scientific domains
-being covered. If no editor is able to edit your submission, you can also
+Any computational research in any domain of science provided an
+editor from the [Board](../board) has the expertise to edit your
+submission. Our editorial board is growing to increase the scientific domains
+being covered. If no editor is able to edit your submission, you may
 propose a guest editor (who must be willing to work with our GitHub-based
 editorial processes).
 
@@ -177,13 +180,13 @@ editorial processes).
 ## Does ReScience C issue DOIs (Digital Object Identifiers)?
 
 ReScience C itself does not, but every article published in ReScience C
-receives a DOI from, and is indexed in
+receives a DOI from, and is indexed by
 [Zenodo](https://zenodo.org/collection/user-rescience).
 
 
 ## What is the preferred format for the accompanying article?
 
-We preferred LateX using the [provided
+We prefer LateX using the [provided
 template](https://github.com/rescience/template) but Word or OpenOffice are
-also fine if the result is similar enought ot the LaTex One.
+also fine if the result is comparable to the PDF produced by our template.
 
