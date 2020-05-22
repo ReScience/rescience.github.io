@@ -25,6 +25,9 @@ permalink: /read/
 
 ## Volume 6 (2020)
 
+### Issue 2 (NeurIPS 2019 Reproducibility Challenge)
+{% bibliography --query @*[volume=6,number=2] %}
+
 ### Issue 1 (Ten Years Reproducibility Challenge)
 {% bibliography --query @*[volume=6,number=1] %}
 
