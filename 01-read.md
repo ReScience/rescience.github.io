@@ -21,9 +21,13 @@ permalink: /read/
   {% bibliography_count --query @*[volume=1] %} article(s)
 
 ## Under review
-{% bibliography --file under-review %}
+
+See https://github.com/ReScience/submissions/issues
 
 ## Volume 6 (2020)
+
+### Issue 3 (NeurIPS 2019 Reproducibility Challenge)
+{% bibliography --query @*[volume=6,number=3] %}
 
 ### Issue 2 (NeurIPS 2019 Reproducibility Challenge)
 {% bibliography --query @*[volume=6,number=2] %}
