@@ -7,7 +7,7 @@ permalink: /ten-years/
 
 # Ten Years Reproducibility Challenge
 
-Did you ever try to run an old code that you wrote for a scientific article you
+Did you ever try to run old code that you wrote for a scientific article you
 published years ago? Did you encounter any problems? Were you successful?
 We are curious to hear your story. This is the reason why we are
 editing a special issue of ReScience to collect these stories.
@@ -33,11 +33,11 @@ code (see the [resources](#resources) section for help).
 
 ### Important dates
 
-The challenge will run for a few months, until **April 1st, 2020** (because
+The challenge will run for a few months, until **~April 1st, 2020~April 30th, 2020** (because
 we'll need time to review the different submissions). We'll organize a workshop
-in Bordeaux (France) on **June 22th, 2020** to present the results. If you
-intend to participate to the challenge, make sure to also come to the workshop
-to hear some scary stories.
+in Bordeaux (France) ~on **June 22th, 2020**~ in autumn (date to be defined) to
+present the results. If you intend to participate to the challenge, make sure
+to also come to the workshop to hear some scary stories.
 
 ## How to enter the challenge ?
 
@@ -64,7 +64,11 @@ computational aspects (i.e. code).
 
 * **Step 3** You have to write a reproducibility report for ReScience (any
   number of pages) and submit it. You'll have to indicate that this submission
-  is for the ten years special issue.
+  is for the ten years special issue. Since these reproducibility reports
+  are rather different from regular ReScience articles, please check the
+  [author guidelines](ten-years-author-guidelines.md)
+  that we have prepared specifically for this special issue (and be aware that
+  they might still evolve a bit).
 
 * **Step 4** Interact with reviewers during the open peer review and have your
   article published open access (no APC, ReScience is free to read and free to
@@ -125,7 +129,7 @@ a study on what are the *best* languages, libraries, and tools for reproducibili
   unprivileged package management, and more. When used as a standalone
   distribution, Guix supports declarative system configuration for transparent
   and reproducible operating systems.
-  
+
 * [Debian](https://www.debian.org/) is a free operating system (OS)
   with [reproducible build](https://reproducible-builds.org/)
   capacity, [archive](http://archive.debian.org) of the packages for the [past
