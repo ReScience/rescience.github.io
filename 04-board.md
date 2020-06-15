@@ -586,3 +586,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Juniper Simonis](https://github.com/juniperlsimonis)  
   Computational & Statistical Ecology, Conservation Biology - R, bash/shell, C/C++, html, SQL  
   ORCID: [0000-0001-9798-0460](https://orcid.org/0000-0001-9798-0460)
+
+* [Ismael Lemhadri](https://github.com/ilemhadri)  
+  (Applied) Statistics, Statistical Learning, Machine learning, Data Science - R, Python  
+ORCID: [0000-0001-7371-6761](https://orcid.org/0000-0001-7371-6761)
+
