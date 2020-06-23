@@ -589,5 +589,9 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 
 * [Ismael Lemhadri](https://github.com/ilemhadri)  
   (Applied) Statistics, Statistical Learning, Machine learning, Data Science - R, Python  
-ORCID: [0000-0001-7371-6761](https://orcid.org/0000-0001-7371-6761)
+  ORCID: [0000-0001-7371-6761](https://orcid.org/0000-0001-7371-6761)
 
+* [Olivier Pantalé](https://github.com/pantale)  
+  Finite Elements, Non-linear behavior laws, Metal forming - C/C++, Python  
+  ORCID: [0000-0001-7367-5453](https://orcid.org/0000-0001-7367-5453)
+  
