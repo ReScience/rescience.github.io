@@ -456,7 +456,7 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   ORCID: [0000-0003-0427-7333](https://orcid.org/0000-0003-0427-7333)
 
 * [Pritish Patil](https://github.com/iampritishpatil)  
-  Computational Neurocience - Python, Julia , Maltlab  
+  Computational Neuroscience - Python, Julia , Maltlab  
   ORCID: [0000-0002-2655-4090](orcid.org/0000-0002-2655-4090)
 
 * [Maarten Trompper](https://github.com/digitalheir)  
