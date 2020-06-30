@@ -31,7 +31,7 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   </small>
 
 * [Benoît Girard](https://github.com/benoit-girard)  
-  Computational Neuroscience, Robotics - Python, C  
+  Computational Neuroscience, Robotics - Python (PyNEST), C  
   ORCID: [0000-0002-8117-7064](http://orcid.org/0000-0002-8117-7064)
   <small>
   [Institut des Systèmes Intelligents et de Robotiques](http://www.isir.upmc.fr)  
