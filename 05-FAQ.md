@@ -67,6 +67,9 @@ Either one can be negated in case of failure to give: ¬Re and ¬Rp.
 No. ReScience C promotes open access and relies on the volunteer work of
 editors and reviewers. And the free hosting by GitHub.
 
+ReScience C is a *platinum open-access* journal, which means that authors do
+not pay to publish and readers do not pay to read.
+
 
 ## Can I submit a paper using proprietary tools such as Matlab?
 
