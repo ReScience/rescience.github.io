@@ -68,7 +68,7 @@ No. ReScience C promotes open access and relies on the volunteer work of
 editors and reviewers. And the free hosting by GitHub.
 
 
-## Can I submit a paper using proprietary tools such as Matlab?
+## Can I submit a paper using proprietary tools such as MATLAB?
 
 No. If we aim at replicability, we have to make sure the proposed
 implementation allows anyone to re-run and understand the code without any
@@ -151,7 +151,7 @@ respective domain of research.
 
 ## I'm a student, can I submit?
 
-**Yes ! Students are strongly encouraged to submit their work**. Although the
+**Yes! Students are strongly encouraged to submit their work**. Although the
 ReScience C publishing model is a bit different from other academic journals,
 it can give students a first experience at peer-reviewed scholarly publishing,
 including meeting standards of scientific rigor and addressing reviewers'
@@ -186,7 +186,7 @@ receives a DOI from, and is indexed by
 
 ## What is the preferred format for the accompanying article?
 
-We prefer LateX using the [provided
+We prefer LaTeX using the [provided
 template](https://github.com/rescience/template) but Word or OpenOffice are
 also fine if the result is comparable to the PDF produced by our template.
 
