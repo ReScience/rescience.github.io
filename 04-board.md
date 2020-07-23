@@ -598,3 +598,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Stefano Forti](https://github.com/teto1992)  
   Fog and Cloud computing, IoT, application management - Java, Python, Prolog,  F#, C/C++  
   ORCID: [0000-0002-4159-8761](https://orcid.org/0000-0002-4159-8761)
+
+* [Daniel Garside](https://github.com/da5nsyw)  
+  Colour/Color Science, Visual Neuroscience, Lighting Engineering - MATLAB, Python  
+  ORCID: [0000-0002-4579-003X](https://orcid.org/0000-0002-4579-003X)
+  
