@@ -8,6 +8,8 @@ ReScience C is an open-access peer-reviewed journal that targets
 computational research and encourages the explicit [replication](faq) of
 already published research, promoting new and open-source implementations in
 order to ensure that the original research is [reproducible](faq).
+You can read about the ideas behind ReScience C in the article
+*[Sustainable computational science: the ReScience initiative](https://doi.org/10.7717/peerj-cs.142)*
 
 To achieve this goal, the whole publishing chain is radically different from
 other traditional scientific journals. ReScience C lives on
