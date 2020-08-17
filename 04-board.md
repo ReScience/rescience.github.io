@@ -602,4 +602,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Daniel Garside](https://github.com/da5nsyw)  
   Colour/Color Science, Visual Neuroscience, Lighting Engineering - MATLAB, Python  
   ORCID: [0000-0002-4579-003X](https://orcid.org/0000-0002-4579-003X)
+
+* [Emmanuel Bengio](https://github.com/bengioe)  
+  [Machine|Reinforcement|Deep] Learning - Python  
+  ORCID: [0000-0002-3257-4661](https://orcid.org/0000-0002-3257-4661)
   
