@@ -607,3 +607,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   [Machine|Reinforcement|Deep] Learning - Python  
   ORCID: [0000-0002-3257-4661](https://orcid.org/0000-0002-3257-4661)
   
+* [Rohit Goswami](https://github.com/HaoZeke)  
+  Molecular Dynamics, DFT/Quantum Chemistry, Computational Photonics, ML/AI, Graph Networks - C/C++, Fortran, Python, Julia  
+  ORCID: [0000-0002-2393-8056](https://orcid.org/0000-0002-2393-8056)
+  
