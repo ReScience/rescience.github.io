@@ -611,3 +611,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Molecular Dynamics, DFT/Quantum Chemistry, Computational Photonics, ML/AI, Graph Networks - C/C++, Fortran, Python, Julia  
   ORCID: [0000-0002-2393-8056](https://orcid.org/0000-0002-2393-8056)
   
+* [Amy Zhang](https://github.com/amyzhang)  
+  Reinforcement Learning - Python  
+  ORCID: [0000-0002-4061-5582](https://orcid.org/0000-0002-4061-5582)
+  
