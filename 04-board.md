@@ -615,3 +615,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Reinforcement Learning - Python  
   ORCID: [0000-0002-4061-5582](https://orcid.org/0000-0002-4061-5582)
   
+* [Jinjin Gu](https://github.com/JasonGUTU)  
+  Computer Vision and Image Processing - Python  
+  ORCID: [0000-0002-4389-6236](https://orcid.org/0000-0002-4389-6236)
+  
