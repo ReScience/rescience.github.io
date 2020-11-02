@@ -619,3 +619,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computer Vision and Image Processing - Python  
   ORCID: [0000-0002-4389-6236](https://orcid.org/0000-0002-4389-6236)
   
+* [Sarah Masud](https://github.com/sara-02)  
+  ML, NLP, Computational Social Science - Python  
+  ORCID: [0000-0003-2668-5581](https://orcid.org/0000-0003-2668-5581)
+  
