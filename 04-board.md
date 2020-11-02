@@ -67,9 +67,10 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
 
 * [Tiziano Zito](https://github.com/otizonaizit)  
   Computational Neuroscience - Python, C, Fortran  
-  ORCID: [---](http://orcid.org/)  
+  ORCID: [0000-0002-7199-7456](http://orcid.org/0000-0002-7199-7456)  
   <small>
-  [Freelance consultant](https://github.com/otizonaizit)  
+  [Department of Psychology](https://www.psychology.hu-berlin.de/en)  
+  [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) - 
   Berlin, Germany  
   </small>
   
