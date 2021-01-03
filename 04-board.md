@@ -26,7 +26,7 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   <small>
   [Donders Centre for Cognitive Neuroimaging](//www.ru.nl/donders/)  
   Radboud University
-  Nijmegen, Netherlands
+  Nijmegen, Netherlands  
   **Email**: olivia dot guest at ru dot nl  
   </small>
 
