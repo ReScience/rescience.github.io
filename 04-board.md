@@ -25,7 +25,7 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)  
   <small>
   [Donders Centre for Cognitive Neuroimaging](//www.ru.nl/donders/)  
-  Radboud University
+  Radboud University  
   Nijmegen, Netherlands  
   **Email**: olivia dot guest at ru dot nl  
   </small>
