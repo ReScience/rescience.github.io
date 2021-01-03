@@ -24,10 +24,10 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   Computational Cognitive Neuroscience, Cognitive Modelling - Python, C  
   ORCID: [0000-0002-1891-0972](http://orcid.org/0000-0002-1891-0972)  
   <small>
-  [Research Centre on Interactive Media, Smart Systems and Emerging Technologies](//rise.org.cy)  
-  Constantinou Paleologou 1  
-  Nicosia 1011, Cyprus  
-  **Email**: o dot guest at rise dot org dot cy  
+  [Donders Centre for Cognitive Neuroimaging](//www.ru.nl/donders/)  
+  Radboud University
+  Nijmegen, Netherlands
+  **Email**: olivia dot guest at ru dot nl  
   </small>
 
 * [Benoît Girard](https://github.com/benoit-girard)  
