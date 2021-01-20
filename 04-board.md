@@ -624,3 +624,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   ML, NLP, Computational Social Science - Python  
   ORCID: [0000-0003-2668-5581](https://orcid.org/0000-0003-2668-5581)
   
+* [Radoslaw Panczak](https://github.com/RPanczak)  
+  Epidemiology, Geography - R, Stata  
+  ORCID: [0000-0001-5141-683X](https://orcid.org/0000-0001-5141-683X)
+  
