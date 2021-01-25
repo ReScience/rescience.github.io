@@ -628,3 +628,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Epidemiology, Geography - R, Stata  
   ORCID: [0000-0001-5141-683X](https://orcid.org/0000-0001-5141-683X)
   
+* [Max Czapanskiy](http://www.github.com/FlukeAndFeather)  
+  Ecology, geography - R, Python  
+  ORCID: [0000-0002-6302-905X](https://orcid.org/0000-0002-6302-905X)
