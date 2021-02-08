@@ -631,3 +631,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Max Czapanskiy](http://www.github.com/FlukeAndFeather)  
   Ecology, geography - R, Python  
   ORCID: [0000-0002-6302-905X](https://orcid.org/0000-0002-6302-905X)
+
+* [Ovi Paul](https://github.com/ovipaul)  
+  Machine Learning, GIS, Remote Sensing - Python, C++ 
+  ORCID: [0000-0002-7333-9203](https://orcid.org/0000-0002-7333-9203)  
+  
