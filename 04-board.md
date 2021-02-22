@@ -636,3 +636,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Machine Learning, GIS, Remote Sensing - Python, C++ 
   ORCID: [0000-0002-7333-9203](https://orcid.org/0000-0002-7333-9203)  
   
+* [Adam Tyson](https://github.com/adamltyson)  
+  Neuroscience & Image analysis - Python, MATLAB  
+  ORCID: [0000-0003-3225-1130](https://orcid.org/0000-0003-3225-1130)  
+  
