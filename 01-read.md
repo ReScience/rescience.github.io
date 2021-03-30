@@ -7,6 +7,8 @@ permalink: /read/
 # Contents
 
 * [Under review](#under-review)
+* [Volume 7 (2021)](#volume-7-2021):
+  {% bibliography_count --query @*[volume=7] %} article(s) 
 * [Volume 6 (2020)](#volume-6-2020):
   {% bibliography_count --query @*[volume=6] %} article(s) 
 * [Volume 5 (2019)](#volume-5-2019):
@@ -23,6 +25,11 @@ permalink: /read/
 ## Under review
 
 See [https://github.com/ReScience/submissions/issues](https://github.com/ReScience/submissions/issues)
+
+## Volume 7 (2021)
+
+### Issue 1
+{% bibliography --query @*[volume=7,number=1] %}
 
 ## Volume 6 (2020)
 
