@@ -640,3 +640,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Neuroscience & Image analysis - Python, MATLAB  
   ORCID: [0000-0003-3225-1130](https://orcid.org/0000-0003-3225-1130)  
   
+* [Michael Weiss](https://github.com/MiWeiss)  
+  Software Engineering, Deep Learning - Java, Python  
+  ORCID: [0000-0002-8944-389X](https://orcid.org/0000-0002-8944-389X)
