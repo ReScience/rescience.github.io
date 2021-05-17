@@ -643,3 +643,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Michael Weiss](https://github.com/MiWeiss)  
   Software Engineering, Deep Learning - Java, Python  
   ORCID: [0000-0002-8944-389X](https://orcid.org/0000-0002-8944-389X)
+
+* [Rémy Grünblatt](https://github.com/rgrunbla)  
+  Communication Networks, Network Simulation - Shell, Rust, C, C++, Python  
+  ORCID: [0000-0002-9146-9888](https://orcid.org/0000-0002-9146-9888)
+  
+* [Richard Randriatoamanana](https://github.com/randria)  
+  Infrastructure System Development (HPC & AI) - Shell, Slurm, C, C++, Regex  
+  ORCID: [0000-0001-5546-242X](https://orcid.org/0000-0001-5546-242X)
