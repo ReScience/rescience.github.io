@@ -12,7 +12,7 @@ github_username:  ReScience
 markdown: kramdown
 
 # Exclude:
-exclude: ["README.md"]
+exclude: ["README.md", "vendor"]
 
 # Jekyll scholar
 plugins: ['jekyll/scholar']
