@@ -28,7 +28,7 @@ See [https://github.com/ReScience/submissions/issues](https://github.com/ReScien
 
 ## Volume 7 (2021)
 
-### Issue 2 (NeurIPS 2020 Reproducibility Challenge)
+### Issue 2 (ML Reproducibility Challenge 2020)
 {% bibliography --query @*[volume=7,number=2] %}
 
 ### Issue 1
