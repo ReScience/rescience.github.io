@@ -656,3 +656,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computer Vision, Computational Neuroscience - Python  
   ORCID: [0000-0003-0191-9337](https://orcid.org/0000-0003-0191-9337)
   
+* [Andrey Formozov](https://github.com/formozov)  
+  Particle Physics, Neuroscience, Interdisciplinary Research - C++, Python  
+  ORCID: [0000-0001-8935-8612](https://orcid.org/0000-0001-8935-8612)
