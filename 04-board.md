@@ -651,3 +651,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Richard Randriatoamanana](https://github.com/randria)  
   Infrastructure System Development (HPC & AI) - Shell, Slurm, C, C++, Regex  
   ORCID: [0000-0001-5546-242X](https://orcid.org/0000-0001-5546-242X)
+
+* [Hirak Kashyap](https://github.com/hkashyap) 
+  Computer Vision, Computational Neuroscience - Python  
+  ORCID: [0000-0003-0191-9337](https://orcid.org/0000-0003-0191-9337)
+  
