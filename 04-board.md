@@ -659,3 +659,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Andrey Formozov](https://github.com/formozov)  
   Particle Physics, Neuroscience, Interdisciplinary Research - C++, Python  
   ORCID: [0000-0001-8935-8612](https://orcid.org/0000-0001-8935-8612)
+
+* [Romain Jacob](https://github.com/romain-jacob)  
+  Communication Networks, Computer Networks - Python, C, P4, MATLAB  
+  ORCID: [0000-0002-2218-5750](https://orcid.org/0000-0002-2218-5750)
+  
