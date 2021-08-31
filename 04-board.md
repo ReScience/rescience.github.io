@@ -664,3 +664,16 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Communication Networks, Computer Networks - Python, C, P4, MATLAB  
   ORCID: [0000-0002-2218-5750](https://orcid.org/0000-0002-2218-5750)
   
+* [Furkan Kınlı](https://github.com/birdortyedi)  
+  Computer Vision, Deep Learning - Python, C++, MATLAB  
+  ORCID: [0000-0002-9192-6583](https://orcid.org/0000-0002-9192-6583)
+  
+* [Lukas Walllrich](https://github.com/LukasWallrich)  
+  Social Psychology, Management - R  
+  ORCID: [0000-0003-2121-5177](https://orcid.org/0000-0003-2121-5177)
+  
+* [Daniel Marcelino](https://github.com/dmarcelinobr)  
+  Applied Political Science, Forecasting, Machine Learning - Python, R, SQL  
+  ORCID: [0000-0001-6432-407X](https://orcid.org/0000-0001-6432-407X)
+  
+  
