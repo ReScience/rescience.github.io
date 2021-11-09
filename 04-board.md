@@ -676,4 +676,15 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Applied Political Science, Forecasting, Machine Learning - Python, R, SQL  
   ORCID: [0000-0001-6432-407X](https://orcid.org/0000-0001-6432-407X)
   
+* [Aurélien Trotier](https://github.com/aTrotier)  
+  MRI Sequence / Physics / Reconstruction / Post-processing - Matlab, Python, Julia, C/C++  
+  ORCID: [0000-0001-8860-1406](https://orcid.org/0000-0001-8860-1406)
   
+* [Bagus Tris Atmaja](https://github.com/bagustris)  
+  Audio processing, acoustics, vibration, deep learning, affective computing - Python  
+  ORCID: [0000-0003-1560-2824](https://orcid.org/0000-0003-1560-2824)
+  
+* [Ariane Sasso](https://github.com/arianesasso)  
+  Digital Health, Machine Learning Applied to Healthcare, Medical Informatics - Python  
+  ORCID: [0000-0002-3669-4599](https://orcid.org/0000-0002-3669-4599)
+
