@@ -688,3 +688,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Digital Health, Machine Learning Applied to Healthcare, Medical Informatics - Python  
   ORCID: [0000-0002-3669-4599](https://orcid.org/0000-0002-3669-4599)
 
+* [Folgert Karsdorp](https://github.com/fbkarsdorp)  
+  Digital and Computational Humanities, Cultural Evolution - Python  
+  ORCID: [0000-0002-5958-0551](https://orcid.org/0000-0002-5958-0551)
