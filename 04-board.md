@@ -696,3 +696,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Data Science, Computational Social Science, Networks, Metascience - Python, R  
   ORCID: [0000-0002-7563-0168](https://orcid.org/0000-0002-7563-0168)
   
+* [Tobias Uelwer](https://github.com/tuelwer)  
+  Machine Learning, Image Processing, Computer Vision - Python  
+  ORCID: [0000-0001-9215-7336](https://orcid.org/0000-0001-9215-7336)
+  
+* [Heinke Hihn](https://github.com/hhihn)  
+  Machine Learning, Reinforcement Learning - Python, Java, C/C++, Matlab  
+  ORCID: [0000-0002-3244-3661](https://orcid.org/0000-0002-3244-3661)
+  
