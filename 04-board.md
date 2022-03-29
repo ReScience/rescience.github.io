@@ -707,3 +707,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Zeel B Patel](https://github.com/patel-zeel)  
   Machine Learning, Gaussian processes applied to air quality - Python  
   ORCID: [0000-0002-1981-3912](https://orcid.org/0000-0002-1981-3912)
+
+* [Alexandre Hippert-Ferrer](https://github.com/ahippert)  
+  Statistical signal processing, Missing data, Remote Sensing - Python  
+  ORCID: [0000-0002-7740-5415](https://orcid.org/0000-0002-7740-5415)
+  
