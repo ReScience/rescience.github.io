@@ -30,6 +30,9 @@ See [https://github.com/ReScience/submissions/issues](https://github.com/ReScien
 
 ## Volume 8 (2022)
 
+### Issue 2 (ML Reproducibility Challenge 2021)
+{% bibliography --query @*[volume=8,number=2] %}
+
 ### Issue 1
 {% bibliography --query @*[volume=8,number=1] %}
 
