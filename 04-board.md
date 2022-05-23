@@ -78,9 +78,8 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   Computational Physics - Python, C, Fortran  
   ORCID: [0000-0002-6640-6463](https://orcid.org/0000-0002-6640-6463)  
   <small>
-  [Department of Physics and Astronomy](http://fys.kuleuven.be/english/)  
-  [University of Leuven](http://www.kuleuven.be/english/) —
-  Leuven, Belgium  
+  [Royal Meteorological Institute of Belgium](https://www.meteo.be/) —
+  Brussels, Belgium  
   </small>
 
 * [Emmanuelle Gouillart](https://github.com/emmanuelle)  
