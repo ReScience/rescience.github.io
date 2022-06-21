@@ -711,3 +711,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Statistical signal processing, Missing data, Remote Sensing - Python  
   ORCID: [0000-0002-7740-5415](https://orcid.org/0000-0002-7740-5415)
   
+* [Khimya Khetarpal](https://github.com/kkhetarpal)  
+  Reinforcement Learning - Python  
+  ORCID: [0000-0001-9975-6438](https://orcid.org/0000-0001-9975-6438)
+  
