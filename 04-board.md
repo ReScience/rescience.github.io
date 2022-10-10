@@ -720,6 +720,9 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   ORCID: [0000-0002-1849-1288](https://orcid.org/0000-0002-1849-1288)
   
 * [Nicholas Pritchard](https://github.com/pritchardn)  
-  HPC, Astronomy, Workflow management, quantum computing - Python, C/C++, Java, Dart, Javascript  
+  HPC, Astronomy, Workflow management, Quantum computing - Python, C/C++, Java, Dart, Javascript  
   ORCID: [0000-0003-0587-2310](https://orcid.org/0000-0003-0587-2310)
   
+* [Zhiyu Wan](https://github.com/zhywan)  
+Biomedical Informatics, Data Privacy, Machine Learning, Game Theory - Python, Matlab  
+ORCID: [0000-0003-3752-5778](https://orcid.org/0000-0003-3752-5778)
