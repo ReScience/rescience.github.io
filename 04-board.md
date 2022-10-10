@@ -724,9 +724,13 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   ORCID: [0000-0003-0587-2310](https://orcid.org/0000-0003-0587-2310)
   
 * [Zhiyu Wan](https://github.com/zhywan)  
-Biomedical Informatics, Data Privacy, Machine Learning, Game Theory - Python, Matlab  
-ORCID: [0000-0003-3752-5778](https://orcid.org/0000-0003-3752-5778)
+  Biomedical Informatics, Data Privacy, Machine Learning, Game Theory - Python, Matlab  
+  ORCID: [0000-0003-3752-5778](https://orcid.org/0000-0003-3752-5778)
 
 * [Bjørn-Jostein Singstad](https://github.com/Bsingstad)  
-AI in Cardiology - Python  
-ORCID: [0000-0003-4055-4297](https://orcid.org/0000-0003-4055-4297)
+  AI in Cardiology - Python  
+  ORCID: [0000-0003-4055-4297](https://orcid.org/0000-0003-4055-4297)
+
+* [Frédéric Barraquand](https://github.com/fbarraquand)  
+  Ecology - R, Matlab, C/C++  
+  ORCID: [0000-0002-4759-0269](https://orcid.org/0000-0002-4759-0269)
