@@ -734,3 +734,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Frédéric Barraquand](https://github.com/fbarraquand)  
   Ecology - R, Matlab, C/C++  
   ORCID: [0000-0002-4759-0269](https://orcid.org/0000-0002-4759-0269)
+
+* [Gianluca Della Vedova](https://github.com/gdv)  
+  Bioinformatics, Algorithms - Python, C, Perl  
+  ORCID: [0000-0001-5584-3089](https://orcid.org/0000-0001-5584-3089)
