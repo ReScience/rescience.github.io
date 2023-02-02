@@ -738,3 +738,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Gianluca Della Vedova](https://github.com/gdv)  
   Bioinformatics, Algorithms - Python, C, Perl  
   ORCID: [0000-0001-5584-3089](https://orcid.org/0000-0001-5584-3089)
+
+* [Vinay](https://github.com/ummadiviany/)  
+  Computer Vision, Medical Imaging, Robotics – Python, Matlab, Bash  
+  ORCID: [0000-0002-6018-162X](https://orcid.org/0000-0002-6018-162X)
