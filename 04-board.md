@@ -742,3 +742,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Vinay](https://github.com/ummadiviany/)  
   Computer Vision, Medical Imaging, Robotics – Python, Matlab, Bash  
   ORCID: [0000-0002-6018-162X](https://orcid.org/0000-0002-6018-162X)
+
+* [Andrew Hansen](https://github.com/ghost-nn-machine)
+  Biochemistry, Computational Neuroscience, Neuromorphic computing – Python, Matlab, R, C/C++
+  ORCID: [0000-0003-3752-2905](https://orcid.org/0000-0003-3752-2905)
+  
