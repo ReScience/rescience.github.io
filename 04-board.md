@@ -747,3 +747,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Biochemistry, Computational Neuroscience, Neuromorphic computing – Python, Matlab, R, C/C++
   ORCID: [0000-0003-3752-2905](https://orcid.org/0000-0003-3752-2905)
   
+* [Alejandra Ramirez](https://github.com/MA-Ramirez)  
+  Nonlinear dynamics, evolutionary game theory, agent-based modelling - Julia, Python  
+  ORCID: [0000-0003-3567-039X](https://orcid.org/0000-0003-3567-039X)
+  
