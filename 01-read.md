@@ -7,6 +7,8 @@ permalink: /read/
 # Contents
 
 * [Under review](#under-review)
+* [Volume 9 (2023)](#volume-9-2023):
+  {% bibliography_count --query @*[volume=9] %} article(s) 
 * [Volume 8 (2022)](#volume-8-2022):
   {% bibliography_count --query @*[volume=8] %} article(s) 
 * [Volume 7 (2021)](#volume-7-2021):
