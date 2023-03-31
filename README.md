@@ -6,7 +6,4 @@ and the amazing [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plu
 
 After commiting some changes to the `sources` branch, you'll need to run the
 [publish.sh](publish.sh) script to publish the site at
-[rescience.github.io](rescience.github.io).
-
-
-
+[rescience.github.io](https://rescience.github.io).
