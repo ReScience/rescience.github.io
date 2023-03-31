@@ -28,6 +28,11 @@ permalink: /read/
 
 See [https://github.com/ReScience/submissions/issues](https://github.com/ReScience/submissions/issues)
 
+## Volume 9 (2023)
+
+### Issue 1
+{% bibliography --query @*[volume=9,number=1] %}
+
 ## Volume 8 (2022)
 
 ### Issue 2 (ML Reproducibility Challenge 2021)
