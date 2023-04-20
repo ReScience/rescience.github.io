@@ -751,3 +751,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Nonlinear dynamics, evolutionary game theory, agent-based modelling - Julia, Python  
   ORCID: [0000-0003-3567-039X](https://orcid.org/0000-0003-3567-039X)
   
+* [Raphaël Monat](https://github.com/rmonat)  
+  Formal methods, Computational law - OCaml, Python, C/C++, Coq  
+  ORCID: [0000-0001-8487-0326](https://orcid.org/0000-0001-8487-0326)
+  
+* [Rodrigo Pena](https://github.com/pena-rodrigo)  
+  Computational Neuroscience, Deep Learning, Information Theory - C/C++, Python, Matlab  
+  ORCID: [0000-0002-2037-9746](https://orcid.org/0000-0002-2037-9746)
+  
