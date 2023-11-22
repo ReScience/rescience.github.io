@@ -759,3 +759,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Neuroscience, Deep Learning, Information Theory - C/C++, Python, Matlab  
   ORCID: [0000-0002-2037-9746](https://orcid.org/0000-0002-2037-9746)
   
+* [Mohammad Arvan](https://github.com/mo-arvan)  
+  Natural Language Processing, Machine Learning, Deep Learning - Python  
+ORCID: [0000-0001-9155-4559](https://orcid.org/my-orcid?orcid=0000-0001-9155-4559)
