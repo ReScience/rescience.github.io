@@ -35,6 +35,9 @@ See [https://github.com/ReScience/submissions/issues](https://github.com/ReScien
 ### Issue 1
 {% bibliography --query @*[volume=9,number=1] %}
 
+### Issue 2
+{% bibliography --query @*[volume=9,number=2] %}
+
 ## Volume 8 (2022)
 
 ### Issue 2 (ML Reproducibility Challenge 2021)
