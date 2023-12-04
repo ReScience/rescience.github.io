@@ -761,4 +761,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   
 * [Mohammad Arvan](https://github.com/mo-arvan)  
   Natural Language Processing, Machine Learning, Deep Learning - Python  
-ORCID: [0000-0001-9155-4559](https://orcid.org/my-orcid?orcid=0000-0001-9155-4559)
+  ORCID: [0000-0001-9155-4559](https://orcid.org/my-orcid?orcid=0000-0001-9155-4559)
+
+* [Molly Zhang](https://github.com/MollyZhang)  
+  Machine Learning, Natural Language Processing, Cancer Genomics - Python, Java  
+  ORCID: [0000-0002-2398-8854](https://orcid.org/0000-0002-2398-8854
