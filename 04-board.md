@@ -770,3 +770,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Alexis Praga](https://github.com/apraga)  
   High Performance Computing, Germline genomics, Applied Mathematics - Julia, Python, Fortran, Haskell, Nix, C++  
   ORCID: [0000-0002-4540-8371](https://orcid.org/0000-0002-4540-8371)
+
+* [Lukas Röseler](https://github.com/LukasRoeseler)  
+  Psychology, Judgment and Decision Making - R  
+  ORCID: [0000-0002-6446-1901](https://orcid.org/0000-0002-6446-1901)
+  
