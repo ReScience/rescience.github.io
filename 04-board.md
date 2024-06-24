@@ -775,3 +775,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Psychology, Judgment and Decision Making - R  
   ORCID: [0000-0002-6446-1901](https://orcid.org/0000-0002-6446-1901)
   
+* [Muhammed Hunaid Topiwala](https://github.com/muhammedhunaid)  
+  Computational Neuroscience, Machine Learning, Bayesian Statistics - Python, C++  
+  ORCID: [0009-0002-6542-0711](https://orcid.org/0009-0002-6542-0711)
