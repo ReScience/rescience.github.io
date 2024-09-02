@@ -783,3 +783,11 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Chemistry - Python, Fortran  
   ORCID: [0000-0001-7349-8143](https://orcid.org/0000-0001-7349-8143)
   
+* [Rémi Garcia](https://github.com/remi-garcia)  
+  Optimization, Computer Arithmetic, Hardware Design - Julia, VHDL, Python  
+  ORCID: [0000-0001-6704-759X](https://orcid.org/0000-0001-6704-759X)
+  
+* [Dinesh Rathinasamy Thangavel](https://github.com/dinesh-rt)  
+  HPC, Systems Software, Operating Systems - C/C++/Python/Rust  
+  ORCID: [0009-0005-9296-1275](https://orcid.org/0009-0005-9296-1275)
+  
