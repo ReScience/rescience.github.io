@@ -778,3 +778,8 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Muhammed Hunaid Topiwala](https://github.com/muhammedhunaid)  
   Computational Neuroscience, Machine Learning, Bayesian Statistics - Python, C++  
   ORCID: [0009-0002-6542-0711](https://orcid.org/0009-0002-6542-0711)
+
+* [Yaidel Toledo-González](https://github.com/yaideltg)  
+  Computational Chemistry - Python, Fortran  
+  ORCID: [0000-0001-7349-8143](https://orcid.org/0000-0001-7349-8143)
+  
