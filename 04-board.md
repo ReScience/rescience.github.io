@@ -791,3 +791,15 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   HPC, Systems Software, Operating Systems - C/C++/Python/Rust  
   ORCID: [0009-0005-9296-1275](https://orcid.org/0009-0005-9296-1275)
   
+* [Romain Besseau](https://github.com/RomainBes)  
+  Energy, Environment, Life-Cycle Analysis - Python  
+  ORCID: [0009-0001-7352-5102](https://orcid.org/0009-0001-7352-5102)
+  
+* [Varun Menon](https://github.com/alchemi5t)  
+  Scientific expertise - Deep Learning, Computer Vision, Natural Language Processing - Python  
+  ORCID: [0000-0002-4580-9183](https://orcid.org/0000-0002-4580-9183)
+  
+* [Jinen Setpal](https://github.com/jinensetpal/)  
+  Interpretability - Optimization Theory - Python  
+  ORCID: [0000-0002-8959-0451](https://orcid.org/0000-0002-8959-0451)
+  
