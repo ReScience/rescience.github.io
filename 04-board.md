@@ -765,7 +765,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 
 * [Molly Zhang](https://github.com/MollyZhang)  
   Machine Learning, Natural Language Processing, Cancer Genomics - Python, Java  
-  ORCID: [0000-0002-2398-8854](https://orcid.org/0000-0002-2398-8854
+  ORCID: [0000-0002-2398-8854](https://orcid.org/0000-0002-2398-8854)
 
 * [Alexis Praga](https://github.com/apraga)  
   High Performance Computing, Germline genomics, Applied Mathematics - Julia, Python, Fortran, Haskell, Nix, C++  
