@@ -800,6 +800,10 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   ORCID: [0000-0002-4580-9183](https://orcid.org/0000-0002-4580-9183)
   
 * [Jinen Setpal](https://github.com/jinensetpal/)  
-  Interpretability - Optimization Theory - Python  
+  Interpretability, Optimization Theory - Python  
   ORCID: [0000-0002-8959-0451](https://orcid.org/0000-0002-8959-0451)
+  
+* [Anthony Strock](https://github.com/a-strock)  
+  Computational Neuroscience, NeuroAI, Explainable AI - Python, Matlab, C/C++  
+  ORCID: [0000-0002-6725-561X](https://orcid.org/0000-0002-6725-561X)
   
