@@ -262,7 +262,7 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   Condensed Matter Physics, Financial Derivatives - Python, C++  
   ORCID: [0000-0003-2785-2679](http://orcid.org/0000-0003-2785-2679)
 
-* [Joseph Stachelek](https://github.com/jsta)  
+* [Jemma Stachelek](https://github.com/jsta)  
   Ecology - R, Python  
   ORCID: [0000-0002-5924-2464](https://orcid.org/0000-0002-5924-2464)
   
