@@ -807,3 +807,6 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
   Computational Neuroscience, NeuroAI, Explainable AI - Python, Matlab, C/C++  
   ORCID: [0000-0002-6725-561X](https://orcid.org/0000-0002-6725-561X)
   
+* [Francesco Martinuzzi](https://github.com/MartinuzziFrancesco)  
+  Machine Learning, Earth System Science, Dynamical Systems - Julia, Python, Fortran  
+  ORCID: [0000-0003-3249-3703](https://orcid.org/0000-0003-3249-3703)
