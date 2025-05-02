@@ -33,6 +33,11 @@ permalink: /read/
 
 See [https://github.com/ReScience/submissions/issues](https://github.com/ReScience/submissions/issues)
 
+## Volume 10 (2025)
+
+### Issue 1
+{% bibliography --query @*[volume=10,number=1] %}
+
 ## Volume 9 (2023)
 
 ### Issue 1
