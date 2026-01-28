@@ -8,6 +8,8 @@ permalink: /read/
 
 * [Under review](#under-review)
 
+* [Volume 11 (2026)](#volume-11-2026):
+  {% bibliography_count --query @*[volume=11] %} article(s) 
 * [Volume 10 (2025)](#volume-10-2025):
   {% bibliography_count --query @*[volume=10] %} article(s) 
 * [Volume 9 (2023)](#volume-9-2023):
@@ -32,6 +34,11 @@ permalink: /read/
 ## Under review
 
 See [https://github.com/ReScience/submissions/issues](https://github.com/ReScience/submissions/issues)
+
+## Volume 11 (2026)
+
+### Issue 1
+{% bibliography --query @*[volume=11,number=1] %}
 
 ## Volume 10 (2025)
 
