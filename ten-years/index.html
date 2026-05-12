@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" type="image/png"
+        href="/images/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png"
+        href="/images/favicon-32x32.png" sizes="32x32">
+    
+  <title>ReScience C</title>
+  <meta name="description" content="Reproducible Science is good.<br/> Replicated Science is better.">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://rescience.github.io/ten-years/">
+  <link rel="alternate" type="application/rss+xml" title="ReScience C" href="http://rescience.github.io/feed.xml" />
+  <script language="JavaScript" type="text/javascript">
+        function toggleDiv(element){
+        if(document.getElementById(element).style.display == 'none')
+           document.getElementById(element).style.display = 'block';
+        else
+           document.getElementById(element).style.display = 'none';
+        }
+  </script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <div class="site-title">
+      <a href="http://rescience.github.io">ReScience C</a>
+    </div>    
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        <a class="page-link" href="/read/">READ</a><a class="page-link" href="/write/">WRITE</a><a class="page-link" href="/edit/">EDIT</a><a class="page-link" href="/board/">BOARD</a><a class="page-link" href="/faq/">FAQ</a><a class="page-link" href="/news/">NEWS</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+<!--  
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+  -->
+
+  <article class="post-content">
+    <p><a href="../images/ten-years-challenge.pdf"><img src="../images/ten-years-challenge.png" alt="" class="ten-years-challenge" /></a></p>
+
+<h1 id="ten-years-reproducibility-challenge">Ten Years Reproducibility Challenge</h1>
+
+<p>Did you ever try to run old code that you wrote for a scientific article you
+published years ago? Did you encounter any problems? Were you successful?
+We are curious to hear your story. This is the reason why we are
+editing a special issue of ReScience to collect these stories.</p>
+
+<p>The ten years reproducibility challenge is an invitation for researchers to try
+to run the code they’ve created for a scientific publication that was published
+more than <strong>ten years ago</strong>. This code can be anything (statistical analysis,
+numerical simulation, data processing, etc.), can be written in any language
+and can address any scientific domain. The only mandatory condition to enter
+the challenge is to have published a scientific article <strong>before 2010</strong>, in a
+journal or a conference with proceedings, which contains results produced by
+code, irrespectively of whether this code was published in some form at the
+time or not.</p>
+
+<p>Note that we do not ask you to write a new version of your old code. We ask you
+instead to <strong>try to make your old code to run on modern hardware/software</strong>
+(with minimal modifications) in order to check if you can obtain the exact same
+results that were publised at least ten years ago.</p>
+
+<p>Sounds easy? We have good reasons to think this might be more difficult than you
+think. And maybe the first problem you’ll have to solve is to find your own source
+code (see the <a href="#resources">resources</a> section for help).</p>
+
+<h3 id="important-dates">Important dates</h3>
+
+<p>The challenge will run for a few months, until <strong>~April 1st, 2020~April 30th, 2020</strong> (because
+we’ll need time to review the different submissions). We’ll organize a workshop
+in Bordeaux (France) ~on <strong>June 22th, 2020</strong>~ in autumn (date to be defined) to
+present the results. If you intend to participate to the challenge, make sure
+to also come to the workshop to hear some scary stories.</p>
+
+<h2 id="how-to-enter-the-challenge-">How to enter the challenge ?</h2>
+
+<p>The only mandatory condition to enter the challenge is to have published a
+scientific article before January 1st 2010 and this article must have some
+computational aspects (i.e. code).</p>
+
+<ul>
+  <li>
+    <p><strong>Step 1</strong> You need to declare your interest in the challenge by posting on
+this <a href="https://github.com/ReScience/ten-years/issues/1">GitHub issue</a> the
+article you intend to reproduce (having your article open access would be
+great). This does not engage you in any way.  We’ll only use this GitHub
+thread to gently spam you with a few reminders when we’ll be close to the
+deadline (01/04/2020).</p>
+  </li>
+  <li>
+    <p><strong>Step 2</strong> You have to try to make your old code run on your current
+machine, documenting in the process what is necessary to make it work. For
+example, you may have to downgrade your system or some libraries, to modify
+your original code because some library is nowhere to be found, to reinstall a
+specific compiler or interpreter, etc. In the end, there may be large number
+of different situations: you are unable to run or compile the code, you are
+able to run the code but it does not give you the expected results (or no
+result at all), the program crashed regularly (before getting results), you
+do not remember how to run your program, etc.</p>
+  </li>
+  <li>
+    <p><strong>Step 3</strong> You have to write a reproducibility report for ReScience (any
+number of pages) and submit it. You’ll have to indicate that this submission
+is for the ten years special issue. Since these reproducibility reports
+are rather different from regular ReScience articles, please check the
+<a href="ten-years-author-guidelines.md">author guidelines</a>
+that we have prepared specifically for this special issue (and be aware that
+they might still evolve a bit).</p>
+  </li>
+  <li>
+    <p><strong>Step 4</strong> Interact with reviewers during the open peer review and have your
+article published open access (no APC, ReScience is free to read and free to
+publish).</p>
+  </li>
+  <li>
+    <p><strong>Step 5</strong> Come to visit us in Bordeaux and attend the workshop in June (date
+not yet settled) where we’ll introduce the results of the challenge. We’ll
+also have a bunch of great talks on reproducibility and replicability.</p>
+  </li>
+</ul>
+
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+
+<p><strong>Is there a prize for the challenge?</strong> Yes, you will get all our
+consideration. More seriously, there is nothing to gain but insight on
+the reasons why a code becomes non reproducible. We can also send you a print of
+the cool poster above (A2 format).</p>
+
+<p><strong>Can I run the code from someone else?</strong> No, because we want original authors
+to re-run their own code. However, if you’re interested in trying to run code
+from someone else, you can submit a “reproducibility report” that will be
+published in a regular issue of ReScience (if accepted after open peer-review).</p>
+
+<p><strong>I cannot find my source code, can I enter the challenge?</strong> It mostly depends
+if you have a good story to explain why you do not have your code anymore.
+Writing an article just to say you failed because you did not find the code
+does not sound very exciting. But still, we would like to hear from you. Be
+assured you’re certainly not the only one in that situation.</p>
+
+<p><strong>My original code has been used, converted, modified, upgraded and I’m sure it
+is reproducible</strong> That’s good. But what about the original version of the code,
+the one you wrote for your article ? This is this code we want to put to the
+test.</p>
+
+<p><strong>Is it ok to submit an article stating I cannot reproduce my results?</strong>
+Yes. We actually expect this case to correspond to the majority of
+situations. There are many possible reasons and we’re interested in knowing
+the exact reasons that prevented you from getting your original results.</p>
+
+<p><strong>Is it ok to submit a one page article stating everything ran fine?</strong>
+Yes. But you’ll need to give us some details on how you did it (what language,
+what OS, how are you sure you get the same results, etc.). This will serve for
+a study on what are the <em>best</em> languages, libraries, and tools for reproducibility.</p>
+
+<h2 id="resources">Resources</h2>
+
+<ul>
+  <li>
+    <p>The <a href="https://archive.org/">Wayback Machine</a> is a digital archive of the World
+Wide Web and other information on the Internet. It was launched in 2001 by
+the Internet Archive, a nonprofit organization based in San Francisco,
+California, United States.</p>
+  </li>
+  <li>
+    <p><a href="https://www.softwareheritage.org">Software Heritage</a>’s ambition is to collect,
+preserve, and share all software that is publicly available in source code
+form. On this foundation, a wealth of applications can be built, ranging from
+cultural heritage to industry and research.</p>
+  </li>
+  <li>
+    <p><a href="https://guix.gnu.org/">Guix</a> supports transactional upgrades and roll-backs,
+unprivileged package management, and more. When used as a standalone
+distribution, Guix supports declarative system configuration for transparent
+and reproducible operating systems.</p>
+  </li>
+  <li>
+    <p><a href="https://www.debian.org/">Debian</a> is a free operating system (OS)
+with <a href="https://reproducible-builds.org/">reproducible build</a>
+capacity, <a href="http://archive.debian.org">archive</a> of the packages for the <a href="http://archive.debian.org/debian/dists/">past
+releases (since 1998)</a> and
+<a href="http://snapshot.debian.org/">daily snapshots since 2005</a>, making it
+feasible to find old versions of software of interest and
+<a href="https://wiki.debian.org/Debootstrap">debootstrap</a> old environments.</p>
+  </li>
+  <li>
+    <p>The <a href="https://www.tnmoc.org/">National Museum of Computing</a> is home to the
+world’s largest collection of working historic computers.</p>
+  </li>
+  <li>
+    <p><a href="https://www.amazon.com/floppy-disk-reader/s?k=floppy+disk+reader">3.5” Floppy Disk
+readers</a>,
+<a href="https://www.amazon.com/usb-cd-reader/s?k=usb+cd+reader">Compat Disc readers</a>
+(on Amazon). Just in case you source code is only available on one of this
+archaic supports…</p>
+  </li>
+</ul>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+          <li><a href="http://github.com/rescience/rescience.github.io">Website sources</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li><a href="http://rescience.github.io">ReScience C</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          <li>ISSN 2430-3658</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
