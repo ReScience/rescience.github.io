@@ -261,10 +261,6 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
 * [Dominique Geffroy](https://github.com/dombrno)  
   Condensed Matter Physics, Financial Derivatives - Python, C++  
   ORCID: [0000-0003-2785-2679](http://orcid.org/0000-0003-2785-2679)
-
-* [Jemma Stachelek](https://github.com/jsta)  
-  Ecology - R, Python  
-  ORCID: [0000-0002-5924-2464](https://orcid.org/0000-0002-5924-2464)
   
 * [Serge Stinckwich](https://github.com/SergeStinckwich)  
   Agent-based Modelling, Computational Epidemiology - C, Python, Pharo  
