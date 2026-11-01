@@ -169,6 +169,9 @@ If your name is missing here, tell us
 * [Tejesh VaishTejesh Vaish](https://github.com/tridev-tej), [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6113505576), [#118](https://github.com/ReScience/submissions/issues/118#issuecomment-5276798475)  
   AI/ML systems, LLM agents, production machine learning infrastructure, reproducible ML pipelines - Python  
   ORCID: [0009-0007-5387-638X](https://orcid.org/0009-0007-5387-638X)
+* [Leonardo Vanni](https://github.com/VanniLeonardo)  
+  Computer Vision - Python, C/C++  
+  ORCID: [0009-0003-1869-9286](https://orcid.org/0009-0003-1869-9286)
 * [Julien Vitay](https://github.com/vitay), 
   [#14](https://github.com/ReScience/ReScience-submission/pull/14), 
   [#21](https://github.com/ReScience/ReScience-submission/pull/21), 
