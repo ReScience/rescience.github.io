@@ -135,6 +135,9 @@ If your name is missing here, tell us
   [#3](https://github.com/ReScience/ReScience-submission/pull/3)  
   Computational Neuroscience, Robotics - Python, C/C++, Matlab  
   ORCID: [0000-0002-2515-1046](http://orcid.org/0000-0002-2515-1046)
+* [Angad Kumar](https://github.com/AngadKumar16)
+  Scientific Machine Learning, Multi-fidelity Modeling - Python, R
+  ORCID: [0009-0003-5253-3335](https://orcid.org/0009-0003-5253-3335)
 * [Tiina Manninen](https://github.com/TiinaManninen), 
   [#33](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Matlab, Python  
