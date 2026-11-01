@@ -810,3 +810,7 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Francesco Martinuzzi](https://github.com/MartinuzziFrancesco)  
   Machine Learning, Earth System Science, Dynamical Systems - Julia, Python, Fortran  
   ORCID: [0000-0003-3249-3703](https://orcid.org/0000-0003-3249-3703)
+
+* [Tejesh Vaish](https://github.com/tridev-tej), [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6113505576), [#118](https://github.com/ReScience/submissions/issues/118#issuecomment-5276798475)  
+  AI/ML systems, LLM agents, production machine learning infrastructure, reproducible ML pipelines - Python  
+  ORCID: [0009-0007-5387-638X](https://orcid.org/0009-0007-5387-638X)
