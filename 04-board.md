@@ -230,6 +230,10 @@ add a comment [here](https://github.com/ReScience/ReScience/issues/27).
   Ecology - R  
   ORCID: [0000-0003-2359-3526](http://orcid.org/0000-0003-2359-3526)
 
+* [Tejesh Vaish](https://github.com/tridev-tej), [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6113505576), [#118](https://github.com/ReScience/submissions/issues/118#issuecomment-5276798475)  
+  AI/ML systems, LLM agents, production machine learning infrastructure, reproducible ML pipelines - Python  
+  ORCID: [0009-0007-5387-638X](https://orcid.org/0009-0007-5387-638X)
+
 * [Julien Vitay](https://github.com/vitay)  
   Computational Neuroscience - Python, C++  
   ORCID: [0000-0001-5229-2349](http://orcid.org/0000-0001-5229-2349)
@@ -810,7 +814,3 @@ ORCID: [0000-0002-8225-7517](https://orcid.org/0000-0002-8225-7517)
 * [Francesco Martinuzzi](https://github.com/MartinuzziFrancesco)  
   Machine Learning, Earth System Science, Dynamical Systems - Julia, Python, Fortran  
   ORCID: [0000-0003-3249-3703](https://orcid.org/0000-0003-3249-3703)
-
-* [Tejesh Vaish](https://github.com/tridev-tej), [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6113505576), [#118](https://github.com/ReScience/submissions/issues/118#issuecomment-5276798475)  
-  AI/ML systems, LLM agents, production machine learning infrastructure, reproducible ML pipelines - Python  
-  ORCID: [0009-0007-5387-638X](https://orcid.org/0009-0007-5387-638X)
