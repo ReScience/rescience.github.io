@@ -113,6 +113,10 @@ If your name is missing here, tell us
 * [Frédéric Barraquand](https://github.com/fbarraquand)  
   Ecology - R, Matlab, C/C++  
   ORCID: [0000-0002-4759-0269](https://orcid.org/0000-0002-4759-0269)
+* [Shashidhar Naidu Boya](https://github.com/shashidharboya),
+  [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6460376064)  
+  Trustworthy and Secure AI Agents, Machine Learning Systems, Reproducible Benchmark Evaluation - Python  
+  ORCID: [0009-0000-3793-1392](https://orcid.org/0009-0000-3793-1392)
 * [Andrew P. Davison](https://github.com/apdavison), 
   [#38](https://github.com/ReScience/submissions/issues/38), 
   [#87](https://github.com/ReScience/submissions/issues/87)  
