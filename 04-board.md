@@ -147,6 +147,10 @@ If your name is missing here, tell us
   [#33](https://github.com/ReScience/ReScience-submission/pull/33)  
   Computational Neuroscience - Python, Matlab, Neuron, Genesis, Auryn/C++  
   ORCID: [0000-0002-5933-2101](http://orcid.org/0000-0002-5933-2101)
+* [Fábio Nogueira](https://github.com/fasn98), 
+  [#101](https://github.com/ReScience/submissions/issues/101)  
+  Reinforcement Learning, Transportation Modeling, Scientific Software - Python  
+  ORCID: [0009-0001-9303-8707](https://orcid.org/0009-0001-9303-8707)
 * [Hans Ekkehard Plesser](https://github.com/heplesser),
   [#17](https://github.com/ReScience/ReScience-submission/pull/17),
   [#65](https://github.com/ReScience/submissions/issues/65),
