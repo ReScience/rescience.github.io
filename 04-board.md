@@ -166,6 +166,9 @@ If your name is missing here, tell us
   [#84](https://github.com/ReScience/submissions/issues/84)  
   Computational Neuroscience, NeuroAI, Explainable AI - Python, Matlab, C/C++  
   ORCID: [0000-0002-6725-561X](https://orcid.org/0000-0002-6725-561X) 
+* [Veerendra Kumar Sunkavalli](https://github.com/dosvk)  
+  Natural Language Processing, LLM-as-judge evaluation, educational measurement, pre-registered replication - Python, R  
+  ORCID: [0009-0005-2759-1642](https://orcid.org/0009-0005-2759-1642)
 * [Tejesh VaishTejesh Vaish](https://github.com/tridev-tej), [#116](https://github.com/ReScience/submissions/issues/116#issuecomment-6113505576), [#118](https://github.com/ReScience/submissions/issues/118#issuecomment-5276798475)  
   AI/ML systems, LLM agents, production machine learning infrastructure, reproducible ML pipelines - Python  
   ORCID: [0009-0007-5387-638X](https://orcid.org/0009-0007-5387-638X)
